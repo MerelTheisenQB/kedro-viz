@@ -1,0 +1,1822 @@
+{
+  "kedro_version": "0.15.8",
+  "pipeline": [
+    {
+      "name": "create_flag_claim_settled_before_court",
+      "inputs": [
+        "prm_claimant_ctp_details"
+      ],
+      "outputs": [
+        "feature_flag_claim_settled_before_court"
+      ],
+      "tags": [
+        "create_flag_claim_settled_before_court",
+        "features"
+      ]
+    },
+    {
+      "name": "create_spine_temporal_claimant",
+      "inputs": [
+        "prm_accident",
+        "prm_accident_contact_cross_reference",
+        "prm_claimant_reserve"
+      ],
+      "outputs": [
+        "spine_master_claimant_month"
+      ],
+      "tags": [
+        "create_spine_temporal_claimant",
+        "features"
+      ]
+    },
+    {
+      "name": "create_feature_claim_grade_first_assigned",
+      "inputs": [
+        "feature_handler_tenure_at_fnol",
+        "prm_current_user_control"
+      ],
+      "outputs": [
+        "feature_claim_grade_first_assigned"
+      ],
+      "tags": [
+        "create_feature_reserve_sheets_finalta",
+        "reserves",
+        "features"
+      ]
+    },
+    {
+      "name": "fit_model_use_case_5",
+      "inputs": [
+        "mdi_use_case_1@pandas",
+        "parameters"
+      ],
+      "outputs": [
+        "enriched_centroides_output_use_case_5",
+        "enriched_nodes_output_use_5",
+        "model_output_use_case_5",
+        "safe_score_output_use_case_5",
+        "safe_summary_output_use_case_5"
+      ],
+      "tags": [
+        "ds",
+        "model",
+        "use_case_5"
+      ]
+    },
+    {
+      "name": "joining_feature_avg_settlement_time_per_hospital_to_master([feature_avg_settlement_time_per_hospital,prm_claimant_summary_hospitals]) -> [feature_avg_settlement_time_per_hospital_ready_to_join_master]",
+      "inputs": [
+        "feature_avg_settlement_time_per_hospital",
+        "prm_claimant_summary_hospitals"
+      ],
+      "outputs": [
+        "feature_avg_settlement_time_per_hospital_ready_to_join_master"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_target_total_claimant_payment_from_reserves",
+      "inputs": [
+        "prm_claimant_reserve"
+      ],
+      "outputs": [
+        "target_total_claimant_payment_from_reserves"
+      ],
+      "tags": [
+        "ds",
+        "target"
+      ]
+    },
+    {
+      "name": "calculate_rehab_payments([feature_contact_classification,prm_payment]) -> [feature_rehab_payments_cumulative]",
+      "inputs": [
+        "prm_payment",
+        "feature_contact_classification"
+      ],
+      "outputs": [
+        "feature_rehab_payments_cumulative"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_feature_num_of_reserve_changes",
+      "inputs": [
+        "prm_claimant_reserve"
+      ],
+      "outputs": [
+        "feature_number_of_reserve_changes"
+      ],
+      "tags": [
+        "create_feature_num_of_reserve_changes",
+        "features"
+      ]
+    },
+    {
+      "name": "create_cumulative_payments_per_claim_per_category",
+      "inputs": [
+        "prm_payment",
+        "prm_history_summary"
+      ],
+      "outputs": [
+        "feature_cumulative_payments_per_claim_per_category"
+      ],
+      "tags": [
+        "create_cumulative_payments_per_claim_per_category",
+        "features"
+      ]
+    },
+    {
+      "name": "create_target_total_claimant_payment",
+      "inputs": [
+        "prm_payment",
+        "prm_claimant_reserve"
+      ],
+      "outputs": [
+        "target_total_claimant_payment"
+      ],
+      "tags": [
+        "ds",
+        "target"
+      ]
+    },
+    {
+      "name": "create_adjuster_involvement",
+      "inputs": [
+        "prm_accident",
+        "prm_payment"
+      ],
+      "outputs": [
+        "feature_adjuster_involvement"
+      ],
+      "tags": [
+        "create_adjuster_involvement",
+        "features"
+      ]
+    },
+    {
+      "name": "create_feature_injuries_iss_temporal",
+      "inputs": [
+        "spine_master_claimant_month",
+        "slice_injury_severity_iss",
+        "slice_injury_severity_iss_small_claims",
+        "feature_unstructured_catalog"
+      ],
+      "outputs": [
+        "feature_injuries_iss_temporal"
+      ],
+      "tags": [
+        "injuries",
+        "features"
+      ]
+    },
+    {
+      "name": "create_accident_spine_table",
+      "inputs": [
+        "prm_accident",
+        "prm_claimant_summary",
+        "prm_history_summary",
+        "prm_accident_contact_cross_reference",
+        "prm_claimant_reserve",
+        "feature_cumulative_payments_per_claim_per_category",
+        "target_total_claimant_payment_from_reserves"
+      ],
+      "outputs": [
+        "spine_master_claimant"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_feature_injuries_temporal",
+      "inputs": [
+        "prm_claimant_summary_injury_codes",
+        "spine_master_claimant_month"
+      ],
+      "outputs": [
+        "feature_injuries_temporal"
+      ],
+      "tags": [
+        "injuries",
+        "features"
+      ]
+    },
+    {
+      "name": "create_claimant_payee_proportioned_table([feature_cumulative_payments_per_claim_per_category,prm_payment]) -> [prm_claimant_payee]",
+      "inputs": [
+        "prm_payment",
+        "feature_cumulative_payments_per_claim_per_category"
+      ],
+      "outputs": [
+        "prm_claimant_payee"
+      ],
+      "tags": []
+    },
+    {
+      "name": "visualise_graph_use_case_5",
+      "inputs": [
+        "model_output_use_case_5",
+        "mdi_use_case_1@pandas",
+        "parameters"
+      ],
+      "outputs": [
+        "graph_visualisation_use_case_5"
+      ],
+      "tags": [
+        "ds",
+        "visualization_graph",
+        "use_case_5"
+      ]
+    },
+    {
+      "name": "create_temporal_features_from_reserves",
+      "inputs": [
+        "prm_claimant_reserve",
+        "spine_master_claimant_month"
+      ],
+      "outputs": [
+        "feature_temporal_reserve_amounts"
+      ],
+      "tags": [
+        "ds",
+        "reserves"
+      ]
+    },
+    {
+      "name": "create_feature_reserve_sheets_finalta",
+      "inputs": [
+        "prm_reserve",
+        "spine_master_claimant_month"
+      ],
+      "outputs": [
+        "feature_reserve_sheets_finalta"
+      ],
+      "tags": [
+        "create_feature_reserve_sheets_finalta",
+        "reserves",
+        "features"
+      ]
+    },
+    {
+      "name": "create_pivoted_payments_per_claim_per_category",
+      "inputs": [
+        "feature_cumulative_payments_per_claim_per_category",
+        "spine_master_claimant_month"
+      ],
+      "outputs": [
+        "feature_pivoted_payments_per_claim_per_category"
+      ],
+      "tags": [
+        "create_pivoted_payments_per_claim_per_category",
+        "features"
+      ]
+    },
+    {
+      "name": "create_feature_document_timings",
+      "inputs": [
+        "feature_unstructured_catalog",
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "feature_document_timings"
+      ],
+      "tags": [
+        "feature"
+      ]
+    },
+    {
+      "name": "create_feature_injuries",
+      "inputs": [
+        "prm_claimant_summary_injury_codes",
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "feature_injuries"
+      ],
+      "tags": [
+        "injuries",
+        "features"
+      ]
+    },
+    {
+      "name": "create_feature_injuries_iss",
+      "inputs": [
+        "spine_master_claimant",
+        "slice_injury_severity_iss",
+        "slice_injury_severity_iss_small_claims"
+      ],
+      "outputs": [
+        "feature_injuries_iss"
+      ],
+      "tags": [
+        "injuries",
+        "features"
+      ]
+    },
+    {
+      "name": "create_feature_ina_metrics",
+      "inputs": [
+        "slice_ina_nlp",
+        "slice_ina_nlp_small_claims",
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "feature_ina_metrics"
+      ],
+      "tags": [
+        "ina",
+        "features"
+      ]
+    },
+    {
+      "name": "create_feat_handler_solicitor_inj_freq",
+      "inputs": [
+        "spine_master_claimant",
+        "prm_payment",
+        "prm_claimant_summary_injury_codes",
+        "prm_handler_history",
+        "prm_history_summary"
+      ],
+      "outputs": [
+        "feature_handler_solicitor_inj_freq"
+      ],
+      "tags": [
+        "ds",
+        "feature"
+      ]
+    },
+    {
+      "name": "create_target_time_to_settlement",
+      "inputs": [
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "target_time_to_settlement"
+      ],
+      "tags": [
+        "target"
+      ]
+    },
+    {
+      "name": "create_target_rehab_goal_achievement",
+      "inputs": [
+        "prm_rehab_goals",
+        "feature_unstructured_catalog",
+        "spine_master_claimant",
+        "parameters"
+      ],
+      "outputs": [
+        "target_rehab_goal_achievement"
+      ],
+      "tags": [
+        "target",
+        "use_case_1"
+      ]
+    },
+    {
+      "name": "publications",
+      "inputs": [
+        "spine_master_claimant",
+        "prm_claimant_summary_hospitals",
+        "slice_hospital_structured_pubmed"
+      ],
+      "outputs": [
+        "feature_num_publications"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_feat_handler_solicitor_freq",
+      "inputs": [
+        "spine_master_claimant",
+        "prm_payment",
+        "prm_handler_history",
+        "prm_history_summary"
+      ],
+      "outputs": [
+        "feature_handler_solicitor_freq"
+      ],
+      "tags": [
+        "ds",
+        "feature"
+      ]
+    },
+    {
+      "name": "create_feature_time_from_accident_and_fnol_to_start_of_rehab",
+      "inputs": [
+        "slice_ina_nlp",
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "feature_time_from_accident_and_fnol_to_start_of_rehab"
+      ],
+      "tags": [
+        "feature"
+      ]
+    },
+    {
+      "name": "_join_func([feature_vehicle_type,spine_master_claimant]) -> [temp_1]",
+      "inputs": [
+        "spine_master_claimant",
+        "feature_vehicle_type"
+      ],
+      "outputs": [
+        "temp_1"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_feature_injuries_ais",
+      "inputs": [
+        "spine_master_claimant",
+        "slice_injury_severity_ais",
+        "slice_injury_severity_ais_small_claims"
+      ],
+      "outputs": [
+        "feature_injuries_ais"
+      ],
+      "tags": [
+        "injuries",
+        "features"
+      ]
+    },
+    {
+      "name": "joining_lawyer_master([feature_avg_legal_cost_per_lawyer,feature_avg_settlement_time_per_lawyer,feature_lawyers,feature_number_of_contacts_to_lawyer,prm_claimant_payee]) -> [feature_all_lawyers_ready_to_join_to_master]",
+      "inputs": [
+        "prm_claimant_payee",
+        "feature_lawyers",
+        "feature_number_of_contacts_to_lawyer",
+        "feature_avg_settlement_time_per_lawyer",
+        "feature_avg_legal_cost_per_lawyer"
+      ],
+      "outputs": [
+        "feature_all_lawyers_ready_to_join_to_master"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_feature_rehab_duration",
+      "inputs": [
+        "prm_rehab_goals",
+        "feature_unstructured_catalog",
+        "slice_ina_nlp",
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "feature_rehab_duration"
+      ],
+      "tags": [
+        "feature"
+      ]
+    },
+    {
+      "name": "detect_reserve_categories_in_payments([prm_claimant_payee,ref_reserve_sheet_queries]) -> [prm_payment_reserve_categories]",
+      "inputs": [
+        "prm_claimant_payee",
+        "ref_reserve_sheet_queries"
+      ],
+      "outputs": [
+        "prm_payment_reserve_categories"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_feature_injuries_finalta",
+      "inputs": [
+        "spine_master_claimant",
+        "slice_finalta_benchmark",
+        "slice_finalta_benchmark_small_claims"
+      ],
+      "outputs": [
+        "feature_injuries_finalta"
+      ],
+      "tags": [
+        "injuries",
+        "features"
+      ]
+    },
+    {
+      "name": "create_target_rehab",
+      "inputs": [
+        "prm_rehab_goals",
+        "feature_unstructured_catalog",
+        "spine_master_claimant",
+        "parameters"
+      ],
+      "outputs": [
+        "target_rehab_goals"
+      ],
+      "tags": [
+        "target",
+        "use_case_1"
+      ]
+    },
+    {
+      "name": "create_feature_accident_location",
+      "inputs": [
+        "slice_accident_location_output",
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "feature_accident_location"
+      ],
+      "tags": [
+        "accident_location",
+        "features"
+      ]
+    },
+    {
+      "name": "create_target_time_to_quantum",
+      "inputs": [
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "target_time_to_quantum"
+      ],
+      "tags": [
+        "target"
+      ]
+    },
+    {
+      "name": "create_features_police_report_timings",
+      "inputs": [
+        "feature_unstructured_catalog",
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "feature_months_taken_to_get_first_police_report_from_fnol"
+      ],
+      "tags": [
+        "feature",
+        "create_features_police_report_timings"
+      ]
+    },
+    {
+      "name": "create_feat_panel_solicitor_flag",
+      "inputs": [
+        "spine_master_claimant",
+        "feature_cumulative_payments_per_claim_per_category"
+      ],
+      "outputs": [
+        "feature_panel_solicitor_flag"
+      ],
+      "tags": [
+        "ds",
+        "feature"
+      ]
+    },
+    {
+      "name": "create_feat_handler_tenure_injury_type",
+      "inputs": [
+        "spine_master_claimant",
+        "prm_claimant_summary_injury_codes",
+        "prm_handler_history",
+        "prm_history_summary"
+      ],
+      "outputs": [
+        "feature_handler_tenure"
+      ],
+      "tags": [
+        "ds",
+        "features"
+      ]
+    },
+    {
+      "name": "hosp_trauma_centre",
+      "inputs": [
+        "spine_master_claimant",
+        "prm_claimant_summary_hospitals",
+        "slice_hospital_structured_nhs_hospitals"
+      ],
+      "outputs": [
+        "feature_is_hosp_trauma_centre"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_feature_hospital_structured",
+      "inputs": [
+        "prm_claimant_summary_hospitals",
+        "slice_hospital_structured_cqc",
+        "slice_hospital_structured_nhs_hospitals",
+        "slice_hospital_structured_nhs_services",
+        "slice_hospital_structured_pubmed",
+        "slice_hospital_structured_tarn",
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "feature_hospital_structured"
+      ],
+      "tags": [
+        "hospitals",
+        "features"
+      ]
+    },
+    {
+      "name": "create_feature_handler_metrics",
+      "inputs": [
+        "prm_handler",
+        "prm_handler_history",
+        "spine_master_claimant",
+        "prm_current_user_control",
+        "prm_accident",
+        "feature_payout_stats_per_handler",
+        "spine_master_claimant_month"
+      ],
+      "outputs": [
+        "feature_handler_metrics_at_fnol",
+        "handler_temporal_spine"
+      ],
+      "tags": [
+        "create_feature_handler_metrics",
+        "features"
+      ]
+    },
+    {
+      "name": "create_model_input_temporal_uc1",
+      "inputs": [
+        "mst_master_table_temporal@spark",
+        "spine_master_claimant_month",
+        "spine_master_claimant",
+        "parameters"
+      ],
+      "outputs": [
+        "mdi_use_case_1_temporal"
+      ],
+      "tags": [
+        "ds",
+        "use_case_1",
+        "model_input"
+      ]
+    },
+    {
+      "name": "create_feat_team_composition",
+      "inputs": [
+        "spine_master_claimant",
+        "prm_payment",
+        "prm_accident",
+        "prm_rehab_goals"
+      ],
+      "outputs": [
+        "feature_team_composition"
+      ],
+      "tags": [
+        "ds",
+        "features"
+      ]
+    },
+    {
+      "name": "create_feature_vehicles",
+      "inputs": [
+        "slice_vehicle_output",
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "feature_vehicle"
+      ],
+      "tags": [
+        "vehicles",
+        "features"
+      ]
+    },
+    {
+      "name": "fnol_to_liab",
+      "inputs": [
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "feature_fnol_to_liability_agreed_date"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_features_clmt_education_employment",
+      "inputs": [
+        "prm_reserve",
+        "prm_contact_reference",
+        "spine_master_claimant"
+      ],
+      "outputs": [
+        "feature_claimant_education_employment"
+      ],
+      "tags": [
+        "feature"
+      ]
+    },
+    {
+      "name": "create_reserve_payments_report([prm_claimant_payee,prm_payment_reserve_categories,spine_master_claimant]) -> [feature_payments_reserve_sheet_categories,report_payment_reserve_categories]",
+      "inputs": [
+        "spine_master_claimant",
+        "prm_payment_reserve_categories",
+        "prm_claimant_payee"
+      ],
+      "outputs": [
+        "report_payment_reserve_categories",
+        "feature_payments_reserve_sheet_categories"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_rehab_network,temp_1]) -> [temp_2]",
+      "inputs": [
+        "temp_1",
+        "feature_rehab_network"
+      ],
+      "outputs": [
+        "temp_2"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_target_rehab_influenced_costs",
+      "inputs": [
+        "spine_master_claimant",
+        "feature_payments_reserve_sheet_categories"
+      ],
+      "outputs": [
+        "target_rehab_influenced_costs"
+      ],
+      "tags": [
+        "ds",
+        "features"
+      ]
+    },
+    {
+      "name": "_join_func([feature_reach_report,temp_2]) -> [temp_3]",
+      "inputs": [
+        "temp_2",
+        "feature_reach_report"
+      ],
+      "outputs": [
+        "temp_3"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_target_legal_costs",
+      "inputs": [
+        "spine_master_claimant",
+        "feature_payments_reserve_sheet_categories"
+      ],
+      "outputs": [
+        "target_legal_costs"
+      ],
+      "tags": [
+        "ds",
+        "features"
+      ]
+    },
+    {
+      "name": "_join_func([feature_medical_docs_flags_small_claims,temp_3]) -> [temp_4]",
+      "inputs": [
+        "temp_3",
+        "feature_medical_docs_flags_small_claims"
+      ],
+      "outputs": [
+        "temp_4"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_medical_docs_flags,temp_4]) -> [temp_5]",
+      "inputs": [
+        "temp_4",
+        "feature_medical_docs_flags"
+      ],
+      "outputs": [
+        "temp_5"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_injury_claimant_summary,temp_5]) -> [temp_6]",
+      "inputs": [
+        "temp_5",
+        "feature_injury_claimant_summary"
+      ],
+      "outputs": [
+        "temp_6"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_injury_accident_notes,temp_6]) -> [temp_7]",
+      "inputs": [
+        "temp_6",
+        "feature_injury_accident_notes"
+      ],
+      "outputs": [
+        "temp_7"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_distance_to_hospital,temp_7]) -> [temp_8]",
+      "inputs": [
+        "temp_7",
+        "feature_distance_to_hospital"
+      ],
+      "outputs": [
+        "temp_8"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_date_categoricals,temp_8]) -> [temp_9]",
+      "inputs": [
+        "temp_8",
+        "feature_date_categoricals"
+      ],
+      "outputs": [
+        "temp_9"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_complaints_by_accident,temp_9]) -> [temp_10]",
+      "inputs": [
+        "temp_9",
+        "feature_complaints_by_accident"
+      ],
+      "outputs": [
+        "temp_10"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_age_at_accident,temp_10]) -> [temp_11]",
+      "inputs": [
+        "temp_10",
+        "feature_age_at_accident"
+      ],
+      "outputs": [
+        "temp_11"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_adjuster_involvement,temp_11]) -> [temp_12]",
+      "inputs": [
+        "temp_11",
+        "feature_adjuster_involvement"
+      ],
+      "outputs": [
+        "temp_12"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_rehab_payments_cumulative,temp_12]) -> [temp_13]",
+      "inputs": [
+        "temp_12",
+        "feature_rehab_payments_cumulative"
+      ],
+      "outputs": [
+        "temp_13"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_injuries_finalta,temp_13]) -> [temp_14]",
+      "inputs": [
+        "temp_13",
+        "feature_injuries_finalta"
+      ],
+      "outputs": [
+        "temp_14"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_document_timings,temp_14]) -> [temp_15]",
+      "inputs": [
+        "temp_14",
+        "feature_document_timings"
+      ],
+      "outputs": [
+        "temp_15"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_time_from_fnol_to_closure,temp_15]) -> [temp_16]",
+      "inputs": [
+        "temp_15",
+        "feature_time_from_fnol_to_closure"
+      ],
+      "outputs": [
+        "temp_16"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_time_from_accident_to_fnol,temp_16]) -> [temp_17]",
+      "inputs": [
+        "temp_16",
+        "feature_time_from_accident_to_fnol"
+      ],
+      "outputs": [
+        "temp_17"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_accident_location,temp_17]) -> [temp_18]",
+      "inputs": [
+        "temp_17",
+        "feature_accident_location"
+      ],
+      "outputs": [
+        "temp_18"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_flag_claim_settled_before_court,temp_18]) -> [temp_19]",
+      "inputs": [
+        "temp_18",
+        "feature_flag_claim_settled_before_court"
+      ],
+      "outputs": [
+        "temp_19"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_injuries,temp_19]) -> [temp_20]",
+      "inputs": [
+        "temp_19",
+        "feature_injuries"
+      ],
+      "outputs": [
+        "temp_20"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_is_hosp_trauma_centre,temp_20]) -> [temp_21]",
+      "inputs": [
+        "temp_20",
+        "feature_is_hosp_trauma_centre"
+      ],
+      "outputs": [
+        "temp_21"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_avg_settlement_time_per_hospital_ready_to_join_master,temp_21]) -> [temp_22]",
+      "inputs": [
+        "temp_21",
+        "feature_avg_settlement_time_per_hospital_ready_to_join_master"
+      ],
+      "outputs": [
+        "temp_22"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([target_rehab_influenced_costs,temp_22]) -> [temp_23]",
+      "inputs": [
+        "temp_22",
+        "target_rehab_influenced_costs"
+      ],
+      "outputs": [
+        "temp_23"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_total_payments,temp_23]) -> [temp_24]",
+      "inputs": [
+        "temp_23",
+        "feature_total_payments"
+      ],
+      "outputs": [
+        "temp_24"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_fnol_to_liability_agreed_date,temp_24]) -> [temp_25]",
+      "inputs": [
+        "temp_24",
+        "feature_fnol_to_liability_agreed_date"
+      ],
+      "outputs": [
+        "temp_25"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_handler_solicitor_inj_freq,temp_25]) -> [temp_26]",
+      "inputs": [
+        "temp_25",
+        "feature_handler_solicitor_inj_freq"
+      ],
+      "outputs": [
+        "temp_26"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([target_time_to_settlement,temp_26]) -> [temp_27]",
+      "inputs": [
+        "temp_26",
+        "target_time_to_settlement"
+      ],
+      "outputs": [
+        "temp_27"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_number_of_reserve_changes,temp_27]) -> [temp_28]",
+      "inputs": [
+        "temp_27",
+        "feature_number_of_reserve_changes"
+      ],
+      "outputs": [
+        "temp_28"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([target_rehab_goal_achievement,temp_28]) -> [temp_29]",
+      "inputs": [
+        "temp_28",
+        "target_rehab_goal_achievement"
+      ],
+      "outputs": [
+        "temp_29"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_mib_rep_flag_for_claim,temp_29]) -> [temp_30]",
+      "inputs": [
+        "temp_29",
+        "feature_mib_rep_flag_for_claim"
+      ],
+      "outputs": [
+        "temp_30"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_injuries_iss,temp_30]) -> [temp_31]",
+      "inputs": [
+        "temp_30",
+        "feature_injuries_iss"
+      ],
+      "outputs": [
+        "temp_31"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_all_lawyers_ready_to_join_to_master,temp_31]) -> [temp_32]",
+      "inputs": [
+        "temp_31",
+        "feature_all_lawyers_ready_to_join_to_master"
+      ],
+      "outputs": [
+        "temp_32"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_arbitrator_involvement_flag,temp_32]) -> [temp_33]",
+      "inputs": [
+        "temp_32",
+        "feature_arbitrator_involvement_flag"
+      ],
+      "outputs": [
+        "temp_33"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([target_total_claimant_payment_from_reserves,temp_33]) -> [temp_34]",
+      "inputs": [
+        "temp_33",
+        "target_total_claimant_payment_from_reserves"
+      ],
+      "outputs": [
+        "temp_34"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_handler_tenure,temp_34]) -> [temp_35]",
+      "inputs": [
+        "temp_34",
+        "feature_handler_tenure"
+      ],
+      "outputs": [
+        "temp_35"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_vehicle,temp_35]) -> [temp_36]",
+      "inputs": [
+        "temp_35",
+        "feature_vehicle"
+      ],
+      "outputs": [
+        "temp_36"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_time_from_accident_and_fnol_to_start_of_rehab,temp_36]) -> [temp_37]",
+      "inputs": [
+        "temp_36",
+        "feature_time_from_accident_and_fnol_to_start_of_rehab"
+      ],
+      "outputs": [
+        "temp_37"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_road_type_during_accident,temp_37]) -> [temp_38]",
+      "inputs": [
+        "temp_37",
+        "feature_road_type_during_accident"
+      ],
+      "outputs": [
+        "temp_38"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([target_time_to_quantum,temp_38]) -> [temp_39]",
+      "inputs": [
+        "temp_38",
+        "target_time_to_quantum"
+      ],
+      "outputs": [
+        "temp_39"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([target_legal_costs,temp_39]) -> [temp_40]",
+      "inputs": [
+        "temp_39",
+        "target_legal_costs"
+      ],
+      "outputs": [
+        "temp_40"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_hospital_structured,temp_40]) -> [temp_41]",
+      "inputs": [
+        "temp_40",
+        "feature_hospital_structured"
+      ],
+      "outputs": [
+        "temp_41"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_claimant_education_employment,temp_41]) -> [temp_42]",
+      "inputs": [
+        "temp_41",
+        "feature_claimant_education_employment"
+      ],
+      "outputs": [
+        "temp_42"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_physiotherapist,temp_42]) -> [temp_43]",
+      "inputs": [
+        "temp_42",
+        "feature_physiotherapist"
+      ],
+      "outputs": [
+        "temp_43"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_handler_solicitor_freq,temp_43]) -> [temp_44]",
+      "inputs": [
+        "temp_43",
+        "feature_handler_solicitor_freq"
+      ],
+      "outputs": [
+        "temp_44"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_claim_grade_first_assigned,temp_44]) -> [temp_45]",
+      "inputs": [
+        "temp_44",
+        "feature_claim_grade_first_assigned"
+      ],
+      "outputs": [
+        "temp_45"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_number_of_claimants,temp_45]) -> [temp_46]",
+      "inputs": [
+        "temp_45",
+        "feature_number_of_claimants"
+      ],
+      "outputs": [
+        "temp_46"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_num_publications,temp_46]) -> [temp_47]",
+      "inputs": [
+        "temp_46",
+        "feature_num_publications"
+      ],
+      "outputs": [
+        "temp_47"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_months_taken_to_get_first_police_report_from_fnol,temp_47]) -> [temp_48]",
+      "inputs": [
+        "temp_47",
+        "feature_months_taken_to_get_first_police_report_from_fnol"
+      ],
+      "outputs": [
+        "temp_48"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([target_total_claimant_payment,temp_48]) -> [temp_49]",
+      "inputs": [
+        "temp_48",
+        "target_total_claimant_payment"
+      ],
+      "outputs": [
+        "temp_49"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_pivoted_payments_per_claim_per_category,temp_49]) -> [temp_50]",
+      "inputs": [
+        "temp_49",
+        "feature_pivoted_payments_per_claim_per_category"
+      ],
+      "outputs": [
+        "temp_50"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_team_composition,temp_50]) -> [temp_51]",
+      "inputs": [
+        "temp_50",
+        "feature_team_composition"
+      ],
+      "outputs": [
+        "temp_51"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_accident_time_of_day,temp_51]) -> [temp_52]",
+      "inputs": [
+        "temp_51",
+        "feature_accident_time_of_day"
+      ],
+      "outputs": [
+        "temp_52"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_rehab_duration,temp_52]) -> [temp_53]",
+      "inputs": [
+        "temp_52",
+        "feature_rehab_duration"
+      ],
+      "outputs": [
+        "temp_53"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_panel_solicitor_flag,temp_53]) -> [temp_54]",
+      "inputs": [
+        "temp_53",
+        "feature_panel_solicitor_flag"
+      ],
+      "outputs": [
+        "temp_54"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_payments_reserve_sheet_categories,temp_54]) -> [temp_55]",
+      "inputs": [
+        "temp_54",
+        "feature_payments_reserve_sheet_categories"
+      ],
+      "outputs": [
+        "temp_55"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_injuries_ais,temp_55]) -> [temp_56]",
+      "inputs": [
+        "temp_55",
+        "feature_injuries_ais"
+      ],
+      "outputs": [
+        "temp_56"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_accident_type,temp_56]) -> [temp_57]",
+      "inputs": [
+        "temp_56",
+        "feature_accident_type"
+      ],
+      "outputs": [
+        "temp_57"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_ina_metrics,temp_57]) -> [temp_58]",
+      "inputs": [
+        "temp_57",
+        "feature_ina_metrics"
+      ],
+      "outputs": [
+        "temp_58"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_handler_metrics_at_fnol,temp_58]) -> [temp_59]",
+      "inputs": [
+        "temp_58",
+        "feature_handler_metrics_at_fnol"
+      ],
+      "outputs": [
+        "temp_59"
+      ],
+      "tags": []
+    },
+    {
+      "name": "_join_func([feature_language_barrier,temp_59]) -> [mst_master_table@spark]",
+      "inputs": [
+        "temp_59",
+        "feature_language_barrier"
+      ],
+      "outputs": [
+        "mst_master_table@spark"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_model_input_classification_uc4",
+      "inputs": [
+        "mst_master_table@spark",
+        "parameters"
+      ],
+      "outputs": [
+        "mdi_use_case_4_classification@spark"
+      ],
+      "tags": [
+        "use_case_4",
+        "model_input",
+        "ds"
+      ]
+    },
+    {
+      "name": "create_model_input_uc2",
+      "inputs": [
+        "mst_master_table@spark",
+        "parameters"
+      ],
+      "outputs": [
+        "mdi_use_case_2@spark"
+      ],
+      "tags": [
+        "ds",
+        "use_case_2",
+        "model_input"
+      ]
+    },
+    {
+      "name": "<lambda>([mst_master_table@spark]) -> [report_master_table_data_dictionary]",
+      "inputs": [
+        "mst_master_table@spark"
+      ],
+      "outputs": [
+        "report_master_table_data_dictionary"
+      ],
+      "tags": []
+    },
+    {
+      "name": "create_model_input_uc1",
+      "inputs": [
+        "mst_master_table@spark",
+        "mdi_use_case_1_temporal",
+        "parameters"
+      ],
+      "outputs": [
+        "mdi_use_case_1_cost@spark",
+        "mdi_use_case_1_scale@spark"
+      ],
+      "tags": [
+        "ds",
+        "use_case_1",
+        "model_input"
+      ]
+    },
+    {
+      "name": "create_model_input_UC3",
+      "inputs": [
+        "mst_master_table@spark",
+        "target_total_claimant_payment_from_reserves"
+      ],
+      "outputs": [
+        "mdi_use_case_3@pandas"
+      ],
+      "tags": [
+        "ds",
+        "use_case_3",
+        "model_input"
+      ]
+    },
+    {
+      "name": "create_model_input_uc4",
+      "inputs": [
+        "mst_master_table@spark",
+        "parameters"
+      ],
+      "outputs": [
+        "mdi_use_case_4@spark"
+      ],
+      "tags": [
+        "use_case_4",
+        "model_input",
+        "ds"
+      ]
+    },
+    {
+      "name": "fit_model_use_case_3_classification([mdi_use_case_3@pandas,parameters]) -> [model_output_use_case_3_classification]",
+      "inputs": [
+        "mdi_use_case_3@pandas",
+        "parameters"
+      ],
+      "outputs": [
+        "model_output_use_case_3_classification"
+      ],
+      "tags": [
+        "ds",
+        "use_case_3",
+        "model"
+      ]
+    },
+    {
+      "name": "fit_model_use_case_1_cost",
+      "inputs": [
+        "mdi_use_case_1_cost@spark",
+        "mdi_use_case_1_cost@pandas",
+        "parameters"
+      ],
+      "outputs": [
+        "model_output_use_case_1_cost"
+      ],
+      "tags": [
+        "ds",
+        "use_case_1",
+        "model"
+      ]
+    },
+    {
+      "name": "fit_model_use_case_4_time",
+      "inputs": [
+        "mdi_use_case_4@spark",
+        "mdi_use_case_4@pandas",
+        "parameters"
+      ],
+      "outputs": [
+        "model_output_use_case_4_time"
+      ],
+      "tags": [
+        "use_case_4",
+        "model",
+        "ds"
+      ]
+    },
+    {
+      "name": "fit_model_use_case_4_classification",
+      "inputs": [
+        "mdi_use_case_4_classification@spark",
+        "mdi_use_case_4_classification@pandas",
+        "parameters"
+      ],
+      "outputs": [
+        "model_output_use_case_4_classification"
+      ],
+      "tags": [
+        "use_case_4",
+        "model",
+        "ds"
+      ]
+    },
+    {
+      "name": "fit_model_use_case_2([mdi_use_case_2@pandas,mdi_use_case_2@spark,parameters]) -> [model_output_use_case_2_time]",
+      "inputs": [
+        "mdi_use_case_2@spark",
+        "mdi_use_case_2@pandas",
+        "parameters"
+      ],
+      "outputs": [
+        "model_output_use_case_2_time"
+      ],
+      "tags": [
+        "ds",
+        "use_case_2",
+        "model"
+      ]
+    },
+    {
+      "name": "fit_model_use_case_1_scale",
+      "inputs": [
+        "mdi_use_case_1_scale@spark",
+        "mdi_use_case_1_scale@pandas",
+        "parameters"
+      ],
+      "outputs": [
+        "model_output_use_case_1_scale"
+      ],
+      "tags": [
+        "ds",
+        "use_case_1",
+        "model"
+      ]
+    },
+    {
+      "name": "fit_model_use_case_3_regression([mdi_use_case_3@pandas,parameters]) -> [model_output_use_case_3_regression]",
+      "inputs": [
+        "mdi_use_case_3@pandas",
+        "parameters"
+      ],
+      "outputs": [
+        "model_output_use_case_3_regression"
+      ],
+      "tags": [
+        "ds",
+        "use_case_3",
+        "model"
+      ]
+    },
+    {
+      "name": "run_scenarios_use_case_4_classification",
+      "inputs": [
+        "model_output_use_case_4_classification",
+        "mdi_use_case_4_classification@pandas",
+        "params:scenarios_use_case_4_classification",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_scenario_results_use_case_4_classification"
+      ],
+      "tags": [
+        "ds",
+        "scenarios",
+        "reporting",
+        "use_case_4_classification"
+      ]
+    },
+    {
+      "name": "get_feature_importance_use_case_3_regression",
+      "inputs": [
+        "mdi_use_case_3@pandas",
+        "model_output_use_case_3_regression",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_X_subset_shapley_use_case_3_regression",
+        "rpt_fte_imp_plot_use_case_3_regression",
+        "rpt_fte_imp_table_use_case_3_regression",
+        "rpt_shap_values_use_case_3_regression"
+      ],
+      "tags": [
+        "ds",
+        "reporting",
+        "feature_importance",
+        "use_case_3_regression"
+      ]
+    },
+    {
+      "name": "run_scenarios_use_case_2_time",
+      "inputs": [
+        "model_output_use_case_2_time",
+        "mdi_use_case_2@pandas",
+        "params:scenarios_use_case_2",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_scenario_results_use_case_2_time"
+      ],
+      "tags": [
+        "ds",
+        "scenarios",
+        "reporting",
+        "use_case_2_time"
+      ]
+    },
+    {
+      "name": "get_feature_importance_use_case_4_time",
+      "inputs": [
+        "mdi_use_case_4@pandas",
+        "model_output_use_case_4_time",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_X_subset_shapley_use_case_4_time",
+        "rpt_fte_imp_plot_use_case_4_time",
+        "rpt_fte_imp_table_use_case_4_time",
+        "rpt_shap_values_use_case_4_time"
+      ],
+      "tags": [
+        "ds",
+        "reporting",
+        "use_case_4_time",
+        "feature_importance"
+      ]
+    },
+    {
+      "name": "run_scenarios_use_case_3_classification",
+      "inputs": [
+        "model_output_use_case_3_classification",
+        "mdi_use_case_3@pandas",
+        "params:scenarios_use_case_3",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_scenario_results_use_case_3_classification"
+      ],
+      "tags": [
+        "ds",
+        "scenarios",
+        "reporting",
+        "use_case_3_classification"
+      ]
+    },
+    {
+      "name": "get_feature_importance_use_case_3_classification",
+      "inputs": [
+        "mdi_use_case_3@pandas",
+        "model_output_use_case_3_classification",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_X_subset_shapley_use_case_3_classification",
+        "rpt_fte_imp_plot_use_case_3_classification",
+        "rpt_fte_imp_table_use_case_3_classification",
+        "rpt_shap_values_use_case_3_classification"
+      ],
+      "tags": [
+        "ds",
+        "reporting",
+        "feature_importance",
+        "use_case_3_classification"
+      ]
+    },
+    {
+      "name": "run_scenarios_use_case_3_regression",
+      "inputs": [
+        "model_output_use_case_3_regression",
+        "mdi_use_case_3@pandas",
+        "params:scenarios_use_case_3",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_scenario_results_use_case_3_regression"
+      ],
+      "tags": [
+        "ds",
+        "scenarios",
+        "reporting",
+        "use_case_3_regression"
+      ]
+    },
+    {
+      "name": "run_scenarios_use_case_4_time",
+      "inputs": [
+        "model_output_use_case_4_time",
+        "mdi_use_case_4@pandas",
+        "params:scenarios_use_case_4_time",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_scenario_results_use_case_4_time"
+      ],
+      "tags": [
+        "ds",
+        "scenarios",
+        "reporting",
+        "use_case_4_time"
+      ]
+    },
+    {
+      "name": "get_feature_importance_use_case_2_time",
+      "inputs": [
+        "mdi_use_case_2@pandas",
+        "model_output_use_case_2_time",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_X_subset_shapley_use_case_2_time",
+        "rpt_fte_imp_plot_use_case_2_time",
+        "rpt_fte_imp_table_use_case_2_time",
+        "rpt_shap_values_use_case_2_time"
+      ],
+      "tags": [
+        "ds",
+        "reporting",
+        "feature_importance",
+        "use_case_2_time"
+      ]
+    },
+    {
+      "name": "get_feature_importance_use_case_1_cost",
+      "inputs": [
+        "mdi_use_case_1_cost@pandas",
+        "model_output_use_case_1_cost",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_X_subset_shapley_use_case_1_cost",
+        "rpt_fte_imp_plot_use_case_1_cost",
+        "rpt_fte_imp_table_use_case_1_cost",
+        "rpt_shap_values_use_case_1_cost"
+      ],
+      "tags": [
+        "use_case_1_cost",
+        "reporting",
+        "feature_importance",
+        "ds"
+      ]
+    },
+    {
+      "name": "get_feature_importance_use_case_4_classification",
+      "inputs": [
+        "mdi_use_case_4_classification@pandas",
+        "model_output_use_case_4_classification",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_X_subset_shapley_use_case_4_classification",
+        "rpt_fte_imp_plot_use_case_4_classification",
+        "rpt_fte_imp_table_use_case_4_classification",
+        "rpt_shap_values_use_case_4_classification"
+      ],
+      "tags": [
+        "ds",
+        "reporting",
+        "use_case_4_classification",
+        "feature_importance"
+      ]
+    },
+    {
+      "name": "get_feature_importance_use_case_1_scale",
+      "inputs": [
+        "mdi_use_case_1_scale@pandas",
+        "model_output_use_case_1_scale",
+        "parameters"
+      ],
+      "outputs": [
+        "rpt_X_subset_shapley_use_case_1_scale",
+        "rpt_fte_imp_plot_use_case_1_scale",
+        "rpt_fte_imp_table_use_case_1_scale",
+        "rpt_shap_values_use_case_1_scale"
+      ],
+      "tags": [
+        "use_case_1_scale",
+        "reporting",
+        "feature_importance",
+        "ds"
+      ]
+    }
+  ]
+}

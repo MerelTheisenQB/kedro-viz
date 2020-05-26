@@ -1,0 +1,4373 @@
+{
+    "edges": [
+        {
+            "source": "573c7f90",
+            "target": "3df47566"
+        },
+        {
+            "source": "ac02dd5e",
+            "target": "3df47566"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "3df47566"
+        },
+        {
+            "source": "3df47566",
+            "target": "8422727f"
+        },
+        {
+            "source": "573c7f90",
+            "target": "15b411ac"
+        },
+        {
+            "source": "ac02dd5e",
+            "target": "15b411ac"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "15b411ac"
+        },
+        {
+            "source": "15b411ac",
+            "target": "003ad700"
+        },
+        {
+            "source": "573c7f90",
+            "target": "273f73ed"
+        },
+        {
+            "source": "ac02dd5e",
+            "target": "273f73ed"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "273f73ed"
+        },
+        {
+            "source": "273f73ed",
+            "target": "f20fa2cb"
+        },
+        {
+            "source": "5ac44926",
+            "target": "d9c8dfac"
+        },
+        {
+            "source": "e4045a29",
+            "target": "d9c8dfac"
+        },
+        {
+            "source": "ee146619",
+            "target": "d9c8dfac"
+        },
+        {
+            "source": "06fab148",
+            "target": "d9c8dfac"
+        },
+        {
+            "source": "7126b251",
+            "target": "d9c8dfac"
+        },
+        {
+            "source": "cc56a287",
+            "target": "d9c8dfac"
+        },
+        {
+            "source": "ce7c44cb",
+            "target": "d9c8dfac"
+        },
+        {
+            "source": "ed6b18e5",
+            "target": "d9c8dfac"
+        },
+        {
+            "source": "80843479",
+            "target": "d9c8dfac"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "d9c8dfac"
+        },
+        {
+            "source": "d9c8dfac",
+            "target": "676dedd1"
+        },
+        {
+            "source": "db19cf05",
+            "target": "496f9874"
+        },
+        {
+            "source": "676dedd1",
+            "target": "496f9874"
+        },
+        {
+            "source": "ac02dd5e",
+            "target": "496f9874"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "496f9874"
+        },
+        {
+            "source": "496f9874",
+            "target": "573c7f90"
+        },
+        {
+            "source": "f682a577",
+            "target": "c3ddff73"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "c3ddff73"
+        },
+        {
+            "source": "c3ddff73",
+            "target": "c4534875"
+        },
+        {
+            "source": "8f62f9a8",
+            "target": "5e025d9e"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "5e025d9e"
+        },
+        {
+            "source": "5e025d9e",
+            "target": "efcaff7f"
+        },
+        {
+            "source": "0d2bb818",
+            "target": "751dc158"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "751dc158"
+        },
+        {
+            "source": "751dc158",
+            "target": "fe43a31d"
+        },
+        {
+            "source": "ad55f879",
+            "target": "03af2484"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "03af2484"
+        },
+        {
+            "source": "03af2484",
+            "target": "3179c307"
+        },
+        {
+            "source": "428959a7",
+            "target": "1ee17d37"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "1ee17d37"
+        },
+        {
+            "source": "1ee17d37",
+            "target": "79ca22df"
+        },
+        {
+            "source": "504a2652",
+            "target": "439f3046"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "439f3046"
+        },
+        {
+            "source": "439f3046",
+            "target": "74de1ed0"
+        },
+        {
+            "source": "b728df33",
+            "target": "a0d4c229"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "a0d4c229"
+        },
+        {
+            "source": "a0d4c229",
+            "target": "d9cd97a9"
+        },
+        {
+            "source": "b869ac6f",
+            "target": "415d6c17"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "415d6c17"
+        },
+        {
+            "source": "415d6c17",
+            "target": "ff12dda8"
+        },
+        {
+            "source": "53ca2c51",
+            "target": "396966c3"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "396966c3"
+        },
+        {
+            "source": "396966c3",
+            "target": "fa21b416"
+        },
+        {
+            "source": "a40ac714",
+            "target": "cfdc72b7"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "cfdc72b7"
+        },
+        {
+            "source": "cfdc72b7",
+            "target": "747a6a0f"
+        },
+        {
+            "source": "777af8d1",
+            "target": "289ef66f"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "289ef66f"
+        },
+        {
+            "source": "289ef66f",
+            "target": "23ea7c2c"
+        },
+        {
+            "source": "7d2fbc5b",
+            "target": "830fbfc8"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "830fbfc8"
+        },
+        {
+            "source": "830fbfc8",
+            "target": "21d62f70"
+        },
+        {
+            "source": "1c0f3b96",
+            "target": "f1cb41b3"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "f1cb41b3"
+        },
+        {
+            "source": "f1cb41b3",
+            "target": "1a4a41c2"
+        },
+        {
+            "source": "1a34cd2e",
+            "target": "0f4a144b"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "0f4a144b"
+        },
+        {
+            "source": "0f4a144b",
+            "target": "abd09b35"
+        },
+        {
+            "source": "5bfe3272",
+            "target": "9d402bce"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "9d402bce"
+        },
+        {
+            "source": "9d402bce",
+            "target": "89cbc99c"
+        },
+        {
+            "source": "ebe48805",
+            "target": "ace833de"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "ace833de"
+        },
+        {
+            "source": "ace833de",
+            "target": "8d0d9ea9"
+        },
+        {
+            "source": "102c04c3",
+            "target": "22a737c1"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "22a737c1"
+        },
+        {
+            "source": "22a737c1",
+            "target": "62eb2d9b"
+        },
+        {
+            "source": "b2aabffa",
+            "target": "f47d6150"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "f47d6150"
+        },
+        {
+            "source": "f47d6150",
+            "target": "4ecf01b3"
+        },
+        {
+            "source": "b7e0d46e",
+            "target": "27a78d93"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "27a78d93"
+        },
+        {
+            "source": "27a78d93",
+            "target": "7bf45d23"
+        },
+        {
+            "source": "be50fe3a",
+            "target": "17b8efc7"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "17b8efc7"
+        },
+        {
+            "source": "17b8efc7",
+            "target": "66ea5438"
+        },
+        {
+            "source": "85d0e56a",
+            "target": "4c2dbb29"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "4c2dbb29"
+        },
+        {
+            "source": "4c2dbb29",
+            "target": "8fb383b8"
+        },
+        {
+            "source": "2a637551",
+            "target": "dfc9195b"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "dfc9195b"
+        },
+        {
+            "source": "dfc9195b",
+            "target": "017a237b"
+        },
+        {
+            "source": "1a34cd2e",
+            "target": "43da444a"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "43da444a"
+        },
+        {
+            "source": "43da444a",
+            "target": "e9370594"
+        },
+        {
+            "source": "d15a1941",
+            "target": "68cec7a0"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "68cec7a0"
+        },
+        {
+            "source": "68cec7a0",
+            "target": "16541495"
+        },
+        {
+            "source": "592e9194",
+            "target": "76dca565"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "76dca565"
+        },
+        {
+            "source": "76dca565",
+            "target": "03665488"
+        },
+        {
+            "source": "769491db",
+            "target": "2b2dfd67"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "2b2dfd67"
+        },
+        {
+            "source": "2b2dfd67",
+            "target": "5f197f4b"
+        },
+        {
+            "source": "94011515",
+            "target": "5f9b4210"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "5f9b4210"
+        },
+        {
+            "source": "5f9b4210",
+            "target": "39ec4642"
+        },
+        {
+            "source": "daf1a5b0",
+            "target": "8c7d2bc1"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "8c7d2bc1"
+        },
+        {
+            "source": "8c7d2bc1",
+            "target": "5ac44926"
+        },
+        {
+            "source": "6ca36f95",
+            "target": "9edf6354"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "9edf6354"
+        },
+        {
+            "source": "9edf6354",
+            "target": "2c7ac80e"
+        },
+        {
+            "source": "82fe9fbe",
+            "target": "6c2989a2"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "6c2989a2"
+        },
+        {
+            "source": "6c2989a2",
+            "target": "0a2fb7c9"
+        },
+        {
+            "source": "f1036cca",
+            "target": "30c44404"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "30c44404"
+        },
+        {
+            "source": "30c44404",
+            "target": "9fd5c181"
+        },
+        {
+            "source": "8d6a899d",
+            "target": "426ccd61"
+        },
+        {
+            "source": "3c36073a",
+            "target": "426ccd61"
+        },
+        {
+            "source": "16541495",
+            "target": "426ccd61"
+        },
+        {
+            "source": "8d0d9ea9",
+            "target": "426ccd61"
+        },
+        {
+            "source": "0a2fb7c9",
+            "target": "426ccd61"
+        },
+        {
+            "source": "62eb2d9b",
+            "target": "426ccd61"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "426ccd61"
+        },
+        {
+            "source": "426ccd61",
+            "target": "f4a36ed0"
+        },
+        {
+            "source": "426ccd61",
+            "target": "d12aad9b"
+        },
+        {
+            "source": "426ccd61",
+            "target": "4dc3f1a2"
+        },
+        {
+            "source": "9fd5c181",
+            "target": "6fe87cf3"
+        },
+        {
+            "source": "6a1d0749",
+            "target": "6fe87cf3"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "6fe87cf3"
+        },
+        {
+            "source": "6fe87cf3",
+            "target": "5beb82f1"
+        },
+        {
+            "source": "1e0e53c1",
+            "target": "156208e2"
+        },
+        {
+            "source": "03665488",
+            "target": "156208e2"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "156208e2"
+        },
+        {
+            "source": "156208e2",
+            "target": "261ba513"
+        },
+        {
+            "source": "f20fa2cb",
+            "target": "e4ada1ae"
+        },
+        {
+            "source": "db19cf05",
+            "target": "e4ada1ae"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "e4ada1ae"
+        },
+        {
+            "source": "e4ada1ae",
+            "target": "d10c09d9"
+        },
+        {
+            "source": "d10c09d9",
+            "target": "7c76a34d"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "7c76a34d"
+        },
+        {
+            "source": "7c76a34d",
+            "target": "3cb59c2c"
+        },
+        {
+            "source": "7c76a34d",
+            "target": "5227dfd1"
+        },
+        {
+            "source": "5ac44926",
+            "target": "24064c97"
+        },
+        {
+            "source": "fe43a31d",
+            "target": "24064c97"
+        },
+        {
+            "source": "2171bf54",
+            "target": "24064c97"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "24064c97"
+        },
+        {
+            "source": "24064c97",
+            "target": "cc56a287"
+        },
+        {
+            "source": "5ac44926",
+            "target": "9dadb686"
+        },
+        {
+            "source": "0a2fb7c9",
+            "target": "9dadb686"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "9dadb686"
+        },
+        {
+            "source": "9dadb686",
+            "target": "ce7c44cb"
+        },
+        {
+            "source": "3179c307",
+            "target": "2fc83746"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "2fc83746"
+        },
+        {
+            "source": "2fc83746",
+            "target": "e4045a29"
+        },
+        {
+            "source": "5ac44926",
+            "target": "68336e2f"
+        },
+        {
+            "source": "5f197f4b",
+            "target": "68336e2f"
+        },
+        {
+            "source": "16541495",
+            "target": "68336e2f"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "68336e2f"
+        },
+        {
+            "source": "68336e2f",
+            "target": "7126b251"
+        },
+        {
+            "source": "a7a1f847",
+            "target": "532658fd"
+        },
+        {
+            "source": "5ac44926",
+            "target": "532658fd"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "532658fd"
+        },
+        {
+            "source": "532658fd",
+            "target": "ee146619"
+        },
+        {
+            "source": "c4534875",
+            "target": "679be4b3"
+        },
+        {
+            "source": "5ac44926",
+            "target": "679be4b3"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "679be4b3"
+        },
+        {
+            "source": "679be4b3",
+            "target": "06fab148"
+        },
+        {
+            "source": "5ac44926",
+            "target": "577bb465"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "577bb465"
+        },
+        {
+            "source": "577bb465",
+            "target": "80843479"
+        },
+        {
+            "source": "c4cf0919",
+            "target": "d59045ae"
+        },
+        {
+            "source": "8d6a899d",
+            "target": "d59045ae"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "d59045ae"
+        },
+        {
+            "source": "d59045ae",
+            "target": "b9012205"
+        },
+        {
+            "source": "8c792142",
+            "target": "4bbe2644"
+        },
+        {
+            "source": "8d6a899d",
+            "target": "4bbe2644"
+        },
+        {
+            "source": "5be00994",
+            "target": "4bbe2644"
+        },
+        {
+            "source": "d9cd97a9",
+            "target": "4bbe2644"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "4bbe2644"
+        },
+        {
+            "source": "4bbe2644",
+            "target": "3c36073a"
+        },
+        {
+            "source": "8d6a899d",
+            "target": "ebf9c947"
+        },
+        {
+            "source": "0a2fb7c9",
+            "target": "ebf9c947"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "ebf9c947"
+        },
+        {
+            "source": "ebf9c947",
+            "target": "84ef5b4d"
+        },
+        {
+            "source": "ff12dda8",
+            "target": "ace2955e"
+        },
+        {
+            "source": "8d6a899d",
+            "target": "ace2955e"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "ace2955e"
+        },
+        {
+            "source": "ace2955e",
+            "target": "5be00994"
+        },
+        {
+            "source": "fa21b416",
+            "target": "a1c48402"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "a1c48402"
+        },
+        {
+            "source": "a1c48402",
+            "target": "e7c56279"
+        },
+        {
+            "source": "3c36073a",
+            "target": "e5e850b3"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "e5e850b3"
+        },
+        {
+            "source": "e5e850b3",
+            "target": "0020b750"
+        },
+        {
+            "source": "747a6a0f",
+            "target": "ab4e9dce"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "ab4e9dce"
+        },
+        {
+            "source": "ab4e9dce",
+            "target": "8d6a899d"
+        },
+        {
+            "source": "b9012205",
+            "target": "e28b4ecf"
+        },
+        {
+            "source": "84ef5b4d",
+            "target": "e28b4ecf"
+        },
+        {
+            "source": "8d6a899d",
+            "target": "e28b4ecf"
+        },
+        {
+            "source": "ff12dda8",
+            "target": "e28b4ecf"
+        },
+        {
+            "source": "8a0dc9d2",
+            "target": "e28b4ecf"
+        },
+        {
+            "source": "e7c56279",
+            "target": "e28b4ecf"
+        },
+        {
+            "source": "0020b750",
+            "target": "e28b4ecf"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "e28b4ecf"
+        },
+        {
+            "source": "e28b4ecf",
+            "target": "db19cf05"
+        },
+        {
+            "source": "2c7ac80e",
+            "target": "093745eb"
+        },
+        {
+            "source": "66ea5438",
+            "target": "093745eb"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "093745eb"
+        },
+        {
+            "source": "093745eb",
+            "target": "ed6b18e5"
+        },
+        {
+            "source": "2171bf54",
+            "target": "641cb83e"
+        },
+        {
+            "source": "261ba513",
+            "target": "641cb83e"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "641cb83e"
+        },
+        {
+            "source": "641cb83e",
+            "target": "c4cf0919"
+        },
+        {
+            "source": "03665488",
+            "target": "46ce7eec"
+        },
+        {
+            "source": "abd09b35",
+            "target": "46ce7eec"
+        },
+        {
+            "source": "efcaff7f",
+            "target": "46ce7eec"
+        },
+        {
+            "source": "a7a1f847",
+            "target": "46ce7eec"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "46ce7eec"
+        },
+        {
+            "source": "46ce7eec",
+            "target": "2171bf54"
+        },
+        {
+            "source": "f1036cca",
+            "target": "da96fe58"
+        },
+        {
+            "source": "6a1d0749",
+            "target": "da96fe58"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "da96fe58"
+        },
+        {
+            "source": "da96fe58",
+            "target": "a2d1e9df"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "4e4a25e2"
+        },
+        {
+            "source": "4e4a25e2",
+            "target": "d538e113"
+        },
+        {
+            "source": "7bf45d23",
+            "target": "17d6a36f"
+        },
+        {
+            "source": "1a4a41c2",
+            "target": "17d6a36f"
+        },
+        {
+            "source": "21d62f70",
+            "target": "17d6a36f"
+        },
+        {
+            "source": "e9370594",
+            "target": "17d6a36f"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "17d6a36f"
+        },
+        {
+            "source": "17d6a36f",
+            "target": "84888f5b"
+        },
+        {
+            "source": "9fd5c181",
+            "target": "80820a4b"
+        },
+        {
+            "source": "017a237b",
+            "target": "80820a4b"
+        },
+        {
+            "source": "23ea7c2c",
+            "target": "80820a4b"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "80820a4b"
+        },
+        {
+            "source": "80820a4b",
+            "target": "a7a1f847"
+        },
+        {
+            "source": "a20e137e",
+            "target": "c231183b"
+        },
+        {
+            "source": "e10b6811",
+            "target": "c231183b"
+        },
+        {
+            "source": "4bf83857",
+            "target": "c231183b"
+        },
+        {
+            "source": "5beb82f1",
+            "target": "c231183b"
+        },
+        {
+            "source": "a2d1e9df",
+            "target": "c231183b"
+        },
+        {
+            "source": "d538e113",
+            "target": "c231183b"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "c231183b"
+        },
+        {
+            "source": "c231183b",
+            "target": "d87b83c0"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "a182117d"
+        },
+        {
+            "source": "a182117d",
+            "target": "ac02dd5e"
+        },
+        {
+            "source": "3c36073a",
+            "target": "d8623231"
+        },
+        {
+            "source": "db19cf05",
+            "target": "d8623231"
+        },
+        {
+            "source": "50f962cc",
+            "target": "d8623231"
+        },
+        {
+            "source": "62eb2d9b",
+            "target": "d8623231"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "d8623231"
+        },
+        {
+            "source": "d8623231",
+            "target": "fed33100"
+        },
+        {
+            "source": "003ad700",
+            "target": "034c621c"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "034c621c"
+        },
+        {
+            "source": "034c621c",
+            "target": "35549608"
+        },
+        {
+            "source": "84888f5b",
+            "target": "22183577"
+        },
+        {
+            "source": "2171bf54",
+            "target": "22183577"
+        },
+        {
+            "source": "261ba513",
+            "target": "22183577"
+        },
+        {
+            "source": "676dedd1",
+            "target": "22183577"
+        },
+        {
+            "source": "a7a1f847",
+            "target": "22183577"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "22183577"
+        },
+        {
+            "source": "22183577",
+            "target": "b4e1d0cf"
+        },
+        {
+            "source": "573c7f90",
+            "target": "d9f094f0"
+        },
+        {
+            "source": "8422727f",
+            "target": "d9f094f0"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "d9f094f0"
+        },
+        {
+            "source": "d9f094f0",
+            "target": "42e0226b"
+        },
+        {
+            "source": "d9f094f0",
+            "target": "706d43ff"
+        },
+        {
+            "source": "573c7f90",
+            "target": "a1f4a4ca"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "a1f4a4ca"
+        },
+        {
+            "source": "a1f4a4ca",
+            "target": "9c621bd6"
+        },
+        {
+            "source": "79ca22df",
+            "target": "f737a05d"
+        },
+        {
+            "source": "8fb383b8",
+            "target": "f737a05d"
+        },
+        {
+            "source": "66ea5438",
+            "target": "f737a05d"
+        },
+        {
+            "source": "39ec4642",
+            "target": "f737a05d"
+        },
+        {
+            "source": "5ac44926",
+            "target": "f737a05d"
+        },
+        {
+            "source": "9fd5c181",
+            "target": "f737a05d"
+        },
+        {
+            "source": "03665488",
+            "target": "f737a05d"
+        },
+        {
+            "source": "2171bf54",
+            "target": "f737a05d"
+        },
+        {
+            "source": "676dedd1",
+            "target": "f737a05d"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "f737a05d"
+        },
+        {
+            "source": "f737a05d",
+            "target": "9725df09"
+        },
+        {
+            "source": "16541495",
+            "target": "3bc11057"
+        },
+        {
+            "source": "3c36073a",
+            "target": "3bc11057"
+        },
+        {
+            "source": "8d6a899d",
+            "target": "3bc11057"
+        },
+        {
+            "source": "0a2fb7c9",
+            "target": "3bc11057"
+        },
+        {
+            "source": "23ea7c2c",
+            "target": "3bc11057"
+        },
+        {
+            "source": "9fd5c181",
+            "target": "3bc11057"
+        },
+        {
+            "source": "abd09b35",
+            "target": "3bc11057"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "3bc11057"
+        },
+        {
+            "source": "3bc11057",
+            "target": "e2a89cc4"
+        },
+        {
+            "source": "89cbc99c",
+            "target": "f1af64d5"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "f1af64d5"
+        },
+        {
+            "source": "f1af64d5",
+            "target": "50f962cc"
+        },
+        {
+            "source": "db19cf05",
+            "target": "86382fc8"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "86382fc8"
+        },
+        {
+            "source": "86382fc8",
+            "target": "54880f1b"
+        },
+        {
+            "source": "db19cf05",
+            "target": "2c946d30"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "2c946d30"
+        },
+        {
+            "source": "2c946d30",
+            "target": "54a4e181"
+        },
+        {
+            "source": "db19cf05",
+            "target": "148ffbe2"
+        },
+        {
+            "source": "5beb82f1",
+            "target": "148ffbe2"
+        },
+        {
+            "source": "a7a1f847",
+            "target": "148ffbe2"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "148ffbe2"
+        },
+        {
+            "source": "148ffbe2",
+            "target": "c7e7aef1"
+        },
+        {
+            "source": "148ffbe2",
+            "target": "c99a5d95"
+        },
+        {
+            "source": "db19cf05",
+            "target": "64b8e40b"
+        },
+        {
+            "source": "261ba513",
+            "target": "64b8e40b"
+        },
+        {
+            "source": "2171bf54",
+            "target": "64b8e40b"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "64b8e40b"
+        },
+        {
+            "source": "64b8e40b",
+            "target": "0800ab41"
+        },
+        {
+            "source": "64b8e40b",
+            "target": "b81287bb"
+        },
+        {
+            "source": "64b8e40b",
+            "target": "73001174"
+        }
+    ],
+    "nodes": [
+        {
+            "full_name": "fea__customer__od__product__contract__wb: build_customer_features([fea_contract_tx,parameters,ref_calendar]) -> [fea__customer__od__product__contract__wb]",
+            "id": "3df47566",
+            "name": "fea__customer__od__product__contract__wb",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea__customer__od__product__contract__wb"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "fea__customer__od__product__wb_granular: build_customer_features([fea_contract_tx,parameters,ref_calendar]) -> [fea__customer__od__product__wb_granular]",
+            "id": "15b411ac",
+            "name": "fea__customer__od__product__wb_granular",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea__customer__od__product__wb_granular"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "fea__customer_subgroup__od__product__contract: build_customer_features([fea_contract_tx,parameters,ref_calendar]) -> [fea__customer_subgroup__od__product__contract]",
+            "id": "273f73ed",
+            "name": "fea__customer_subgroup__od__product__contract",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea__customer_subgroup__od__product__contract"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "fea_awb_tx: fea_awb_tx([int_shipment_data_capture,parameters,prm_awb_customer,prm_awb_handling_codes,prm_awb_header,prm_awb_product,prm_awb_stations,prm_awb_tx_type,prm_awb_weight_breaks,prm_first_flight]) -> [fea_awb_tx]",
+            "id": "d9c8dfac",
+            "name": "fea_awb_tx",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_awb_tx"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "fea_contract_tx: fea_contract_tx([fea_awb_tx,parameters,prm_contracts,ref_calendar]) -> [fea_contract_tx]",
+            "id": "496f9874",
+            "name": "fea_contract_tx",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_contract_tx"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_actual_rate_all: deduplicate_raw_data_using_keys([parameters,raw_actual_rate_all]) -> [int_actual_rate_all]",
+            "id": "c3ddff73",
+            "name": "int_actual_rate_all",
+            "tags": [
+                "actual_rate_all",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_awb_participant: prm_trim_and_rename_cols([parameters,raw_awb_participant]) -> [int_awb_participant]",
+            "id": "5e025d9e",
+            "name": "int_awb_participant",
+            "tags": [
+                "awb_participant",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_awb_participant_type: deduplicate_raw_data_using_keys([parameters,raw_awb_participant_type]) -> [int_awb_participant_type]",
+            "id": "751dc158",
+            "name": "int_awb_participant_type",
+            "tags": [
+                "awb_participant_type",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_awbid: deduplicate_raw_data_using_keys([parameters,raw_awbid]) -> [int_awbid]",
+            "id": "03af2484",
+            "name": "int_awbid",
+            "tags": [
+                "awbid",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_booking_history: deduplicate_raw_data_using_keys([parameters,raw_booking_history]) -> [int_booking_history]",
+            "id": "1ee17d37",
+            "name": "int_booking_history",
+            "tags": [
+                "de",
+                "int",
+                "int_booking_history",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_booking_information: deduplicate_raw_data_using_keys([parameters,raw_booking_information]) -> [int_booking_information]",
+            "id": "439f3046",
+            "name": "int_booking_information",
+            "tags": [
+                "de",
+                "int",
+                "int_booking_information",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_contract_detail: deduplicate_raw_data_using_keys([parameters,raw_contract_detail]) -> [int_contract_detail]",
+            "id": "a0d4c229",
+            "name": "int_contract_detail",
+            "tags": [
+                "contract_detail",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_contract_information: deduplicate_raw_data_using_keys([parameters,raw_contract_information]) -> [int_contract_information]",
+            "id": "415d6c17",
+            "name": "int_contract_information",
+            "tags": [
+                "contract_information",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_contract_multi_segment: deduplicate_raw_data_using_keys([parameters,raw_contract_multi_segment]) -> [int_contract_multi_segment]",
+            "id": "396966c3",
+            "name": "int_contract_multi_segment",
+            "tags": [
+                "contract_multi_segment",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_contract_version: deduplicate_raw_data_using_keys([parameters,raw_contract_version]) -> [int_contract_version]",
+            "id": "cfdc72b7",
+            "name": "int_contract_version",
+            "tags": [
+                "contract_version",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_dim_country: prm_trim_and_rename_cols([parameters,raw_dim_country]) -> [int_dim_country]",
+            "id": "289ef66f",
+            "name": "int_dim_country",
+            "tags": [
+                "de",
+                "int",
+                "int_dim_country",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_dim_geographical_organization: deduplicate_raw_data_using_keys([parameters,raw_dim_geographical_organization]) -> [int_dim_geographical_organization]",
+            "id": "830fbfc8",
+            "name": "int_dim_geographical_organization",
+            "tags": [
+                "de",
+                "dim_geographical_organization",
+                "int",
+                "market",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_dim_month: deduplicate_raw_data_using_keys([parameters,raw_dim_month]) -> [int_dim_month]",
+            "id": "f1cb41b3",
+            "name": "int_dim_month",
+            "tags": [
+                "de",
+                "dim_month",
+                "int",
+                "market",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_dimparticipant: deduplicate_raw_data_using_keys([parameters,raw_dimparticipant]) -> [int_dimparticipant]",
+            "id": "0f4a144b",
+            "name": "int_dimparticipant",
+            "tags": [
+                "de",
+                "dimparticipant",
+                "int",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_exchange_rates: prm_trim_and_rename_cols([parameters,raw_exchange_rates]) -> [int_exchange_rates]",
+            "id": "9d402bce",
+            "name": "int_exchange_rates",
+            "tags": [
+                "de",
+                "int",
+                "int_exchange_rates",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_extracts__productspl: prm_trim_and_rename_cols([parameters,raw_extracts__productspl]) -> [int_extracts__productspl]",
+            "id": "ace833de",
+            "name": "int_extracts__productspl",
+            "tags": [
+                "de",
+                "int",
+                "int_extracts__productspl",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_extracts__ratetype_to_product: prm_trim_and_rename_cols([parameters,raw_extracts__ratetype_to_product]) -> [int_extracts__ratetype_to_product]",
+            "id": "22a737c1",
+            "name": "int_extracts__ratetype_to_product",
+            "tags": [
+                "de",
+                "int",
+                "int_extracts__ratetype_to_product",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_extracts__uld_weight_details: prm_trim_and_rename_cols([parameters,raw_extracts__uld_weight_details]) -> [int_extracts__uld_weight_details]",
+            "id": "f47d6150",
+            "name": "int_extracts__uld_weight_details",
+            "tags": [
+                "de",
+                "int",
+                "int_extracts__uld_weight_details",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_fact_market_share: deduplicate_raw_data_using_keys([parameters,raw_fact_market_share]) -> [int_fact_market_share]",
+            "id": "27a78d93",
+            "name": "int_fact_market_share",
+            "tags": [
+                "de",
+                "fact_market_share",
+                "int",
+                "market",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_flight_day_detail: deduplicate_raw_data_using_keys([parameters,raw_flight_day_detail]) -> [int_flight_day_detail]",
+            "id": "17b8efc7",
+            "name": "int_flight_day_detail",
+            "tags": [
+                "de",
+                "flight_day_detail",
+                "int",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_flights: deduplicate_raw_data_using_keys([parameters,raw_flights]) -> [int_flights]",
+            "id": "4c2dbb29",
+            "name": "int_flights",
+            "tags": [
+                "de",
+                "int",
+                "int_flights",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_iata_code_regions: prm_trim_and_rename_cols([parameters,raw_iata_code_regions]) -> [int_iata_code_regions]",
+            "id": "dfc9195b",
+            "name": "int_iata_code_regions",
+            "tags": [
+                "de",
+                "iata_code_regions",
+                "int",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_iata_keys: deduplicate_raw_data_using_keys([parameters,raw_dimparticipant]) -> [int_iata_keys]",
+            "id": "43da444a",
+            "name": "int_iata_keys",
+            "tags": [
+                "de",
+                "dimparticipant",
+                "iata_keys",
+                "int",
+                "market",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_lkup_product_names_and_service_levels: prm_trim_and_rename_cols([parameters,raw_lkup_product_names_and_service_levels]) -> [int_lkup_product_names_and_service_levels]",
+            "id": "68cec7a0",
+            "name": "int_lkup_product_names_and_service_levels",
+            "tags": [
+                "de",
+                "int",
+                "int_lkup_product_names_and_service_levels",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_permanent_participant_info: deduplicate_raw_data_using_keys([parameters,raw_permanent_participant_info]) -> [int_permanent_participant_info]",
+            "id": "76dca565",
+            "name": "int_permanent_participant_info",
+            "tags": [
+                "de",
+                "int",
+                "mrsac",
+                "permanent_participant_info"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_product_type: prm_trim_and_rename_cols([parameters,raw_product_type]) -> [int_product_type]",
+            "id": "2b2dfd67",
+            "name": "int_product_type",
+            "tags": [
+                "de",
+                "int",
+                "mrsac",
+                "product_type"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_shipment_acceptance: deduplicate_raw_data_using_keys([parameters,raw_shipment_acceptance]) -> [int_shipment_acceptance]",
+            "id": "5f9b4210",
+            "name": "int_shipment_acceptance",
+            "tags": [
+                "de",
+                "int",
+                "int_shipment_acceptance",
+                "mrsac"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_shipment_data_capture: deduplicate_raw_data_using_keys([parameters,raw_shipment_data_capture]) -> [int_shipment_data_capture]",
+            "id": "8c7d2bc1",
+            "name": "int_shipment_data_capture",
+            "tags": [
+                "de",
+                "int",
+                "mrsac",
+                "shipment_data_capture"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_shipment_movement: deduplicate_raw_data_using_keys([parameters,raw_shipment_movement]) -> [int_shipment_movement]",
+            "id": "9edf6354",
+            "name": "int_shipment_movement",
+            "tags": [
+                "de",
+                "int",
+                "mrsac",
+                "shipment_movement"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_special_handling_codes: prm_trim_and_rename_cols([parameters,raw_special_handling_codes]) -> [int_special_handling_codes]",
+            "id": "6c2989a2",
+            "name": "int_special_handling_codes",
+            "tags": [
+                "de",
+                "int",
+                "mrsac",
+                "special_handling_codes"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "int_stations: deduplicate_raw_data_using_keys([parameters,raw_stations]) -> [int_stations]",
+            "id": "30c44404",
+            "name": "int_stations",
+            "tags": [
+                "de",
+                "int",
+                "mrsac",
+                "stations"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "map_contracts_to_products: map_contracts_to_products([int_extracts__productspl,int_extracts__ratetype_to_product,int_lkup_product_names_and_service_levels,int_special_handling_codes,parameters,prm_contract_detail_current,prm_contract_version_current]) -> [rpt_mapping__contract_product,rpt_mapping__contract_service_level,rpt_mapping__contract_solution]",
+            "id": "426ccd61",
+            "name": "map_contracts_to_products",
+            "tags": [
+                "de",
+                "map_contracts_to_products",
+                "rpt"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "mapping_odkey_to_airport: map_od_key_to_airport([int_stations,parameters,raw_extracts_aggregates]) -> [mapping_odkey_to_airport]",
+            "id": "6fe87cf3",
+            "name": "mapping_odkey_to_airport",
+            "tags": [
+                "de",
+                "mapping",
+                "mrsac",
+                "odkey_to_airport"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "mapping_participantkey_to_participant: map_participant_groups([int_permanent_participant_info,parameters,raw_extracts_participant_groups]) -> [mapping_participantkey_to_participant]",
+            "id": "156208e2",
+            "name": "mapping_participantkey_to_participant",
+            "tags": [
+                "de",
+                "mapping",
+                "mrsac",
+                "participant_groups"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "mi_customer_contracts: mi_customer_contracts([fea__customer_subgroup__od__product__contract,parameters,prm_contracts]) -> [mi_customer_contracts]",
+            "id": "e4ada1ae",
+            "name": "mi_customer_contracts",
+            "tags": [
+                "data_engineering",
+                "de",
+                "mi",
+                "mi_customer_contracts"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prepare_mi_data: prepare_mi_data([mi_customer_contracts,parameters]) -> [mi_contract_mapping,mi_customer_kpis]",
+            "id": "7c76a34d",
+            "name": "prepare_mi_data",
+            "tags": [
+                "data_engineering",
+                "de",
+                "mi",
+                "mi_contract_mapping",
+                "mi_customer_kpis",
+                "prepare_mi_data"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_awb_customer: prm_awb_customer([int_awb_participant_type,int_shipment_data_capture,parameters,prm_lu_customers]) -> [prm_awb_customer]",
+            "id": "24064c97",
+            "name": "prm_awb_customer",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_awb_customer"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_awb_handling_codes: prm_awb_handling_codes([int_shipment_data_capture,int_special_handling_codes,parameters]) -> [prm_awb_handling_codes]",
+            "id": "9dadb686",
+            "name": "prm_awb_handling_codes",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_awb_handling_codes"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_awb_header: prm_awb_header([int_awbid,parameters]) -> [prm_awb_header]",
+            "id": "2fc83746",
+            "name": "prm_awb_header",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_awb_header"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_awb_product: prm_awb_product([int_lkup_product_names_and_service_levels,int_product_type,int_shipment_data_capture,parameters]) -> [prm_awb_product]",
+            "id": "68336e2f",
+            "name": "prm_awb_product",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_awb_product"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_awb_stations: prm_awb_stations([int_shipment_data_capture,parameters,prm_stations]) -> [prm_awb_stations]",
+            "id": "532658fd",
+            "name": "prm_awb_stations",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_awb_stations"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_awb_tx_type: prm_awb_tx_type([int_actual_rate_all,int_shipment_data_capture,parameters]) -> [prm_awb_tx_type]",
+            "id": "679be4b3",
+            "name": "prm_awb_tx_type",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_awb_tx_type"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_awb_weight_breaks: prm_awb_weight_breaks([int_shipment_data_capture,parameters]) -> [prm_awb_weight_breaks]",
+            "id": "577bb465",
+            "name": "prm_awb_weight_breaks",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_awb_weight_breaks"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_contract_customers: prm_contract_customers([parameters,prm_contract_version_current,prm_lu_contract_participants]) -> [prm_contract_customers]",
+            "id": "d59045ae",
+            "name": "prm_contract_customers",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_customers"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_contract_detail_current: contract_detail_current([int_contract_detail,parameters,prm_contract_information_current,prm_contract_version_current,raw_extracts_contracts]) -> [prm_contract_detail_current]",
+            "id": "4bbe2644",
+            "name": "prm_contract_detail_current",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_detail_current"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_contract_handling_codes: prm_contract_handling_codes([int_special_handling_codes,parameters,prm_contract_version_current]) -> [prm_contract_handling_codes]",
+            "id": "ebf9c947",
+            "name": "prm_contract_handling_codes",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_handling_codes"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_contract_information_current: contract_information_current([int_contract_information,parameters,prm_contract_version_current]) -> [prm_contract_information_current]",
+            "id": "ace2955e",
+            "name": "prm_contract_information_current",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_information_current"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_contract_multi_segment: prm_contract_multi_segment([int_contract_multi_segment,parameters]) -> [prm_contract_multi_segment]",
+            "id": "a1c48402",
+            "name": "prm_contract_multi_segment",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_multi_segment"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_contract_special_attributes: prm_contract_special_attributes([parameters,prm_contract_detail_current]) -> [prm_contract_special_attributes]",
+            "id": "e5e850b3",
+            "name": "prm_contract_special_attributes",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_special_attributes"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_contract_version_current: contract_version_current([int_contract_version,parameters]) -> [prm_contract_version_current]",
+            "id": "ab4e9dce",
+            "name": "prm_contract_version_current",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_version_current"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_contracts: prm_contracts([int_contract_information,parameters,prm_contract_customers,prm_contract_handling_codes,prm_contract_multi_segment,prm_contract_special_attributes,prm_contract_version_current,ref_contract_types_north_america]) -> [prm_contracts]",
+            "id": "e28b4ecf",
+            "name": "prm_contracts",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contracts"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_first_flight: prm_first_flight([int_flight_day_detail,int_shipment_movement,parameters]) -> [prm_first_flight]",
+            "id": "093745eb",
+            "name": "prm_first_flight",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_first_flight"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_lu_contract_participants: prm_lu_contract_participants([mapping_participantkey_to_participant,parameters,prm_lu_customers]) -> [prm_lu_contract_participants]",
+            "id": "641cb83e",
+            "name": "prm_lu_contract_participants",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_lu_contract_participants"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_lu_customers: prm_lu_customers([int_awb_participant,int_dimparticipant,int_permanent_participant_info,parameters,prm_stations]) -> [prm_lu_customers]",
+            "id": "46ce7eec",
+            "name": "prm_lu_customers",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_lu_customers"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_mapping_area_code_to_type: mapping_area_code_to_type([parameters,raw_extracts_aggregates,raw_stations]) -> [prm_mapping_area_code_to_type]",
+            "id": "da96fe58",
+            "name": "prm_mapping_area_code_to_type",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_mapping_area_code_to_type"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_mapping_tariff_area_priorities: mapping_tariff_area_priorities([parameters]) -> [prm_mapping_tariff_area_priorities]",
+            "id": "4e4a25e2",
+            "name": "prm_mapping_tariff_area_priorities",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_mapping_tariff_area_priorities"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_market_share: prm_market_share([int_dim_geographical_organization,int_dim_month,int_fact_market_share,int_iata_keys,parameters]) -> [prm_market_share]",
+            "id": "17d6a36f",
+            "name": "prm_market_share",
+            "tags": [
+                "data_engineering",
+                "de",
+                "market",
+                "market_share",
+                "prm"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_stations: prm_stations([int_dim_country,int_iata_code_regions,int_stations,parameters]) -> [prm_stations]",
+            "id": "80820a4b",
+            "name": "prm_stations",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_stations"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prm_tariff_rates_current: tariff_rates_current([mapping_odkey_to_airport,parameters,prm_mapping_area_code_to_type,prm_mapping_tariff_area_priorities,raw_area_type,raw_tariff_rate_detail,raw_tariff_rate_information]) -> [prm_tariff_rates_current]",
+            "id": "c231183b",
+            "name": "prm_tariff_rates_current",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_tariff_rates_current"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "ref_calendar: ref_calendar([parameters]) -> [ref_calendar]",
+            "id": "a182117d",
+            "name": "ref_calendar",
+            "tags": [
+                "de",
+                "ref",
+                "ref_calendar"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "reporting__contract_rates: reporting__contract_rates([int_extracts__ratetype_to_product,parameters,prm_contract_detail_current,prm_contracts,rpt_lookup__currency_exchange_rates]) -> [reporting__contract_rates]",
+            "id": "d8623231",
+            "name": "reporting__contract_rates",
+            "tags": [
+                "de",
+                "rates",
+                "reporting__contract_rates",
+                "rpt"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "reporting__customer_od_product_weight_breaks: reporting__customer_od_product_weight_breaks([fea__customer__od__product__wb_granular,parameters]) -> [reporting__customer_od_product_weight_breaks]",
+            "id": "034c621c",
+            "name": "reporting__customer_od_product_weight_breaks",
+            "tags": [
+                "de",
+                "reporting__customer_od_product_weight_breaks",
+                "rpt"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "reporting__market_competition_kpis: reporting__market_competition_kpis([fea_awb_tx,mapping_participantkey_to_participant,parameters,prm_lu_customers,prm_market_share,prm_stations]) -> [reporting__market_competition_kpis]",
+            "id": "22183577",
+            "name": "reporting__market_competition_kpis",
+            "tags": [
+                "de",
+                "market",
+                "reporting__market_competition_kpis",
+                "rpt",
+                "rpt_kpis"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "rpt_kpis__contract_kpis: rpt_kpis__contract_kpis([fea__customer__od__product__contract__wb,fea_contract_tx,parameters]) -> [reporting__contract_kpis_active,reporting__contract_kpis_inactive]",
+            "id": "d9f094f0",
+            "name": "rpt_kpis__contract_kpis",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__contract_kpis"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "rpt_kpis__customer_revenue_mix: rpt_kpis__customer_revenue_mix([fea_contract_tx,parameters]) -> [reporting__revenue_mix_kpis]",
+            "id": "a1f4a4ca",
+            "name": "rpt_kpis__customer_revenue_mix",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__customer_revenue_mix"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "rpt_kpis__show_rate: rpt_kpis__show_rate([fea_awb_tx,int_booking_history,int_flight_day_detail,int_flights,int_permanent_participant_info,int_shipment_acceptance,int_shipment_data_capture,int_stations,parameters,prm_lu_customers]) -> [reporting__show_rate_kpis]",
+            "id": "f737a05d",
+            "name": "rpt_kpis__show_rate",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__show_rate"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "rpt_lookup: rpt_lookup([int_dim_country,int_dimparticipant,int_lkup_product_names_and_service_levels,int_special_handling_codes,int_stations,parameters,prm_contract_detail_current,prm_contract_version_current]) -> [rpt_lookup]",
+            "id": "3bc11057",
+            "name": "rpt_lookup",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_lookup"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "rpt_lookup__currency_exchange_rates: rpt_lookup__currency_exchange_rates([int_exchange_rates,parameters]) -> [rpt_lookup__currency_exchange_rates]",
+            "id": "f1af64d5",
+            "name": "rpt_lookup__currency_exchange_rates",
+            "tags": [
+                "de",
+                "exchange",
+                "rpt",
+                "rpt_lookup__currency_exchange_rates"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "rpt_mapping__all_contracts: rpt_mapping__all_contracts([parameters,prm_contracts]) -> [rpt_mapping__all_contracts]",
+            "id": "86382fc8",
+            "name": "rpt_mapping__all_contracts",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_mapping__all_contracts"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "rpt_mapping__contract_contract_type: map_contracts_to_types([parameters,prm_contracts]) -> [rpt_mapping__contract_contract_type]",
+            "id": "2c946d30",
+            "name": "rpt_mapping__contract_contract_type",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_mapping__contract_contract_type"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "rpt_mapping__contract_origin_and_destination: rpt_mapping__contract_origin_and_destination([mapping_odkey_to_airport,parameters,prm_contracts,prm_stations]) -> [rpt_mapping__contract_destinations,rpt_mapping__contract_origins]",
+            "id": "148ffbe2",
+            "name": "rpt_mapping__contract_origin_and_destination",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_mapping__contract_origin_and_destination"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "rpt_mapping__contract_participant: rpt_mapping__contract_participant([mapping_participantkey_to_participant,parameters,prm_contracts,prm_lu_customers]) -> [rpt_mapping__contract_participant,rpt_mapping__contract_participant_group,rpt_mapping__contract_participant_tier]",
+            "id": "64b8e40b",
+            "name": "rpt_mapping__contract_participant",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_mapping__contract_participant"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "fea__customer__od__product__contract__wb",
+            "id": "8422727f",
+            "name": "Fea Customer Od Product Contract Wb",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea__customer__od__product__contract__wb",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__contract_kpis"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "fea__customer__od__product__wb_granular",
+            "id": "003ad700",
+            "name": "Fea Customer Od Product Wb Granular",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea__customer__od__product__wb_granular",
+                "reporting__customer_od_product_weight_breaks",
+                "rpt"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "fea__customer_subgroup__od__product__contract",
+            "id": "f20fa2cb",
+            "name": "Fea Customer Subgroup Od Product Contract",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea__customer_subgroup__od__product__contract",
+                "mi",
+                "mi_customer_contracts"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "fea_awb_tx",
+            "id": "676dedd1",
+            "name": "Fea Awb Tx",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_awb_tx",
+                "fea_contract_tx",
+                "market",
+                "reporting__market_competition_kpis",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__show_rate"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "fea_contract_tx",
+            "id": "573c7f90",
+            "name": "Fea Contract Tx",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea__customer__od__product__contract__wb",
+                "fea__customer__od__product__wb_granular",
+                "fea__customer_subgroup__od__product__contract",
+                "fea_contract_tx",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__contract_kpis",
+                "rpt_kpis__customer_revenue_mix"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_actual_rate_all",
+            "id": "c4534875",
+            "name": "Int Actual Rate All",
+            "tags": [
+                "actual_rate_all",
+                "data_engineering",
+                "de",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_awb_tx_type"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_awb_participant",
+            "id": "efcaff7f",
+            "name": "Int Awb Participant",
+            "tags": [
+                "awb_participant",
+                "data_engineering",
+                "de",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_lu_customers"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_awb_participant_type",
+            "id": "fe43a31d",
+            "name": "Int Awb Participant Type",
+            "tags": [
+                "awb_participant_type",
+                "data_engineering",
+                "de",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_awb_customer"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_awbid",
+            "id": "3179c307",
+            "name": "Int Awbid",
+            "tags": [
+                "awbid",
+                "data_engineering",
+                "de",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_awb_header"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_booking_history",
+            "id": "79ca22df",
+            "name": "Int Booking History",
+            "tags": [
+                "de",
+                "int",
+                "int_booking_history",
+                "mrsac",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__show_rate"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_booking_information",
+            "id": "74de1ed0",
+            "name": "Int Booking Information",
+            "tags": [
+                "de",
+                "int",
+                "int_booking_information",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_contract_detail",
+            "id": "d9cd97a9",
+            "name": "Int Contract Detail",
+            "tags": [
+                "contract_detail",
+                "data_engineering",
+                "de",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_contract_detail_current"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_contract_information",
+            "id": "ff12dda8",
+            "name": "Int Contract Information",
+            "tags": [
+                "contract_information",
+                "data_engineering",
+                "de",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_contract_information_current",
+                "prm_contracts"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_contract_multi_segment",
+            "id": "fa21b416",
+            "name": "Int Contract Multi Segment",
+            "tags": [
+                "contract_multi_segment",
+                "data_engineering",
+                "de",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_contract_multi_segment"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_contract_version",
+            "id": "747a6a0f",
+            "name": "Int Contract Version",
+            "tags": [
+                "contract_version",
+                "data_engineering",
+                "de",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_contract_version_current"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_dim_country",
+            "id": "23ea7c2c",
+            "name": "Int Dim Country",
+            "tags": [
+                "data_engineering",
+                "de",
+                "int",
+                "int_dim_country",
+                "mrsac",
+                "prm",
+                "prm_stations",
+                "rpt",
+                "rpt_lookup"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_dim_geographical_organization",
+            "id": "21d62f70",
+            "name": "Int Dim Geographical Organization",
+            "tags": [
+                "data_engineering",
+                "de",
+                "dim_geographical_organization",
+                "int",
+                "market",
+                "market_share",
+                "mrsac",
+                "prm"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_dim_month",
+            "id": "1a4a41c2",
+            "name": "Int Dim Month",
+            "tags": [
+                "data_engineering",
+                "de",
+                "dim_month",
+                "int",
+                "market",
+                "market_share",
+                "mrsac",
+                "prm"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_dimparticipant",
+            "id": "abd09b35",
+            "name": "Int Dimparticipant",
+            "tags": [
+                "data_engineering",
+                "de",
+                "dimparticipant",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_lu_customers",
+                "rpt",
+                "rpt_lookup"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_exchange_rates",
+            "id": "89cbc99c",
+            "name": "Int Exchange Rates",
+            "tags": [
+                "de",
+                "exchange",
+                "int",
+                "int_exchange_rates",
+                "mrsac",
+                "rpt",
+                "rpt_lookup__currency_exchange_rates"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_extracts__productspl",
+            "id": "8d0d9ea9",
+            "name": "Int Extracts Productspl",
+            "tags": [
+                "de",
+                "int",
+                "int_extracts__productspl",
+                "map_contracts_to_products",
+                "mrsac",
+                "rpt"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_extracts__ratetype_to_product",
+            "id": "62eb2d9b",
+            "name": "Int Extracts Ratetype To Product",
+            "tags": [
+                "de",
+                "int",
+                "int_extracts__ratetype_to_product",
+                "map_contracts_to_products",
+                "mrsac",
+                "rates",
+                "reporting__contract_rates",
+                "rpt"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_extracts__uld_weight_details",
+            "id": "4ecf01b3",
+            "name": "Int Extracts Uld Weight Details",
+            "tags": [
+                "de",
+                "int",
+                "int_extracts__uld_weight_details",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_fact_market_share",
+            "id": "7bf45d23",
+            "name": "Int Fact Market Share",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fact_market_share",
+                "int",
+                "market",
+                "market_share",
+                "mrsac",
+                "prm"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_flight_day_detail",
+            "id": "66ea5438",
+            "name": "Int Flight Day Detail",
+            "tags": [
+                "data_engineering",
+                "de",
+                "flight_day_detail",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_first_flight",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__show_rate"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_flights",
+            "id": "8fb383b8",
+            "name": "Int Flights",
+            "tags": [
+                "de",
+                "int",
+                "int_flights",
+                "mrsac",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__show_rate"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_iata_code_regions",
+            "id": "017a237b",
+            "name": "Int Iata Code Regions",
+            "tags": [
+                "data_engineering",
+                "de",
+                "iata_code_regions",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_stations"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_iata_keys",
+            "id": "e9370594",
+            "name": "Int Iata Keys",
+            "tags": [
+                "data_engineering",
+                "de",
+                "dimparticipant",
+                "iata_keys",
+                "int",
+                "market",
+                "market_share",
+                "mrsac",
+                "prm"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_lkup_product_names_and_service_levels",
+            "id": "16541495",
+            "name": "Int Lkup Product Names And Service Levels",
+            "tags": [
+                "data_engineering",
+                "de",
+                "int",
+                "int_lkup_product_names_and_service_levels",
+                "map_contracts_to_products",
+                "mrsac",
+                "prm",
+                "prm_awb_product",
+                "rpt",
+                "rpt_lookup"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_permanent_participant_info",
+            "id": "03665488",
+            "name": "Int Permanent Participant Info",
+            "tags": [
+                "data_engineering",
+                "de",
+                "int",
+                "mapping",
+                "mrsac",
+                "participant_groups",
+                "permanent_participant_info",
+                "prm",
+                "prm_lu_customers",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__show_rate"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_product_type",
+            "id": "5f197f4b",
+            "name": "Int Product Type",
+            "tags": [
+                "data_engineering",
+                "de",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_awb_product",
+                "product_type"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_shipment_acceptance",
+            "id": "39ec4642",
+            "name": "Int Shipment Acceptance",
+            "tags": [
+                "de",
+                "int",
+                "int_shipment_acceptance",
+                "mrsac",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__show_rate"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_shipment_data_capture",
+            "id": "5ac44926",
+            "name": "Int Shipment Data Capture",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_awb_tx",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_awb_customer",
+                "prm_awb_handling_codes",
+                "prm_awb_product",
+                "prm_awb_stations",
+                "prm_awb_tx_type",
+                "prm_awb_weight_breaks",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__show_rate",
+                "shipment_data_capture"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_shipment_movement",
+            "id": "2c7ac80e",
+            "name": "Int Shipment Movement",
+            "tags": [
+                "data_engineering",
+                "de",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_first_flight",
+                "shipment_movement"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_special_handling_codes",
+            "id": "0a2fb7c9",
+            "name": "Int Special Handling Codes",
+            "tags": [
+                "data_engineering",
+                "de",
+                "int",
+                "map_contracts_to_products",
+                "mrsac",
+                "prm",
+                "prm_awb_handling_codes",
+                "prm_contract_handling_codes",
+                "rpt",
+                "rpt_lookup",
+                "special_handling_codes"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "int_stations",
+            "id": "9fd5c181",
+            "name": "Int Stations",
+            "tags": [
+                "data_engineering",
+                "de",
+                "int",
+                "mapping",
+                "mrsac",
+                "odkey_to_airport",
+                "prm",
+                "prm_stations",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__show_rate",
+                "rpt_lookup",
+                "stations"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "mapping_odkey_to_airport",
+            "id": "5beb82f1",
+            "name": "Mapping Odkey To Airport",
+            "tags": [
+                "data_engineering",
+                "de",
+                "mapping",
+                "mrsac",
+                "odkey_to_airport",
+                "prm",
+                "prm_tariff_rates_current",
+                "rpt",
+                "rpt_mapping__contract_origin_and_destination"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "mapping_participantkey_to_participant",
+            "id": "261ba513",
+            "name": "Mapping Participantkey To Participant",
+            "tags": [
+                "data_engineering",
+                "de",
+                "mapping",
+                "market",
+                "mrsac",
+                "participant_groups",
+                "prm",
+                "prm_lu_contract_participants",
+                "reporting__market_competition_kpis",
+                "rpt",
+                "rpt_kpis",
+                "rpt_mapping__contract_participant"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "mi_contract_mapping",
+            "id": "3cb59c2c",
+            "name": "Mi Contract Mapping",
+            "tags": [
+                "data_engineering",
+                "de",
+                "mi",
+                "mi_contract_mapping",
+                "mi_customer_kpis",
+                "prepare_mi_data"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "mi_customer_contracts",
+            "id": "d10c09d9",
+            "name": "Mi Customer Contracts",
+            "tags": [
+                "data_engineering",
+                "de",
+                "mi",
+                "mi_contract_mapping",
+                "mi_customer_contracts",
+                "mi_customer_kpis",
+                "prepare_mi_data"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "mi_customer_kpis",
+            "id": "5227dfd1",
+            "name": "Mi Customer Kpis",
+            "tags": [
+                "data_engineering",
+                "de",
+                "mi",
+                "mi_contract_mapping",
+                "mi_customer_kpis",
+                "prepare_mi_data"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "parameters",
+            "id": "f1f1425b",
+            "name": "Parameters",
+            "tags": [
+                "actual_rate_all",
+                "awb_participant",
+                "awb_participant_type",
+                "awbid",
+                "contract_detail",
+                "contract_information",
+                "contract_multi_segment",
+                "contract_version",
+                "data_engineering",
+                "de",
+                "dim_geographical_organization",
+                "dim_month",
+                "dimparticipant",
+                "exchange",
+                "fact_market_share",
+                "fea",
+                "fea__customer__od__product__contract__wb",
+                "fea__customer__od__product__wb_granular",
+                "fea__customer_subgroup__od__product__contract",
+                "fea_awb_tx",
+                "fea_contract_tx",
+                "flight_day_detail",
+                "iata_code_regions",
+                "iata_keys",
+                "int",
+                "int_booking_history",
+                "int_booking_information",
+                "int_dim_country",
+                "int_exchange_rates",
+                "int_extracts__productspl",
+                "int_extracts__ratetype_to_product",
+                "int_extracts__uld_weight_details",
+                "int_flights",
+                "int_lkup_product_names_and_service_levels",
+                "int_shipment_acceptance",
+                "map_contracts_to_products",
+                "mapping",
+                "market",
+                "market_share",
+                "mi",
+                "mi_contract_mapping",
+                "mi_customer_contracts",
+                "mi_customer_kpis",
+                "mrsac",
+                "odkey_to_airport",
+                "participant_groups",
+                "permanent_participant_info",
+                "prepare_mi_data",
+                "prm",
+                "prm_awb_customer",
+                "prm_awb_handling_codes",
+                "prm_awb_header",
+                "prm_awb_product",
+                "prm_awb_stations",
+                "prm_awb_tx_type",
+                "prm_awb_weight_breaks",
+                "prm_contract_customers",
+                "prm_contract_detail_current",
+                "prm_contract_handling_codes",
+                "prm_contract_information_current",
+                "prm_contract_multi_segment",
+                "prm_contract_special_attributes",
+                "prm_contract_version_current",
+                "prm_contracts",
+                "prm_first_flight",
+                "prm_lu_contract_participants",
+                "prm_lu_customers",
+                "prm_mapping_area_code_to_type",
+                "prm_mapping_tariff_area_priorities",
+                "prm_stations",
+                "prm_tariff_rates_current",
+                "product_type",
+                "rates",
+                "ref",
+                "ref_calendar",
+                "reporting__contract_rates",
+                "reporting__customer_od_product_weight_breaks",
+                "reporting__market_competition_kpis",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__contract_kpis",
+                "rpt_kpis__customer_revenue_mix",
+                "rpt_kpis__show_rate",
+                "rpt_lookup",
+                "rpt_lookup__currency_exchange_rates",
+                "rpt_mapping__all_contracts",
+                "rpt_mapping__contract_contract_type",
+                "rpt_mapping__contract_origin_and_destination",
+                "rpt_mapping__contract_participant",
+                "shipment_data_capture",
+                "shipment_movement",
+                "special_handling_codes",
+                "stations"
+            ],
+            "type": "parameters"
+        },
+        {
+            "full_name": "prm_awb_customer",
+            "id": "cc56a287",
+            "name": "Prm Awb Customer",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_awb_tx",
+                "prm",
+                "prm_awb_customer"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_awb_handling_codes",
+            "id": "ce7c44cb",
+            "name": "Prm Awb Handling Codes",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_awb_tx",
+                "prm",
+                "prm_awb_handling_codes"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_awb_header",
+            "id": "e4045a29",
+            "name": "Prm Awb Header",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_awb_tx",
+                "prm",
+                "prm_awb_header"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_awb_product",
+            "id": "7126b251",
+            "name": "Prm Awb Product",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_awb_tx",
+                "prm",
+                "prm_awb_product"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_awb_stations",
+            "id": "ee146619",
+            "name": "Prm Awb Stations",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_awb_tx",
+                "prm",
+                "prm_awb_stations"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_awb_tx_type",
+            "id": "06fab148",
+            "name": "Prm Awb Tx Type",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_awb_tx",
+                "prm",
+                "prm_awb_tx_type"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_awb_weight_breaks",
+            "id": "80843479",
+            "name": "Prm Awb Weight Breaks",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_awb_tx",
+                "prm",
+                "prm_awb_weight_breaks"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_contract_customers",
+            "id": "b9012205",
+            "name": "Prm Contract Customers",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_customers",
+                "prm_contracts"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_contract_detail_current",
+            "id": "3c36073a",
+            "name": "Prm Contract Detail Current",
+            "tags": [
+                "data_engineering",
+                "de",
+                "map_contracts_to_products",
+                "prm",
+                "prm_contract_detail_current",
+                "prm_contract_special_attributes",
+                "rates",
+                "reporting__contract_rates",
+                "rpt",
+                "rpt_lookup"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_contract_handling_codes",
+            "id": "84ef5b4d",
+            "name": "Prm Contract Handling Codes",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_handling_codes",
+                "prm_contracts"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_contract_information_current",
+            "id": "5be00994",
+            "name": "Prm Contract Information Current",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_detail_current",
+                "prm_contract_information_current"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_contract_multi_segment",
+            "id": "e7c56279",
+            "name": "Prm Contract Multi Segment",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_multi_segment",
+                "prm_contracts"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_contract_special_attributes",
+            "id": "0020b750",
+            "name": "Prm Contract Special Attributes",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_special_attributes",
+                "prm_contracts"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_contract_version_current",
+            "id": "8d6a899d",
+            "name": "Prm Contract Version Current",
+            "tags": [
+                "data_engineering",
+                "de",
+                "map_contracts_to_products",
+                "prm",
+                "prm_contract_customers",
+                "prm_contract_detail_current",
+                "prm_contract_handling_codes",
+                "prm_contract_information_current",
+                "prm_contract_version_current",
+                "prm_contracts",
+                "rpt",
+                "rpt_lookup"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_contracts",
+            "id": "db19cf05",
+            "name": "Prm Contracts",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_contract_tx",
+                "mi",
+                "mi_customer_contracts",
+                "prm",
+                "prm_contracts",
+                "rates",
+                "reporting__contract_rates",
+                "rpt",
+                "rpt_mapping__all_contracts",
+                "rpt_mapping__contract_contract_type",
+                "rpt_mapping__contract_origin_and_destination",
+                "rpt_mapping__contract_participant"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_first_flight",
+            "id": "ed6b18e5",
+            "name": "Prm First Flight",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea_awb_tx",
+                "prm",
+                "prm_first_flight"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_lu_contract_participants",
+            "id": "c4cf0919",
+            "name": "Prm Lu Contract Participants",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_customers",
+                "prm_lu_contract_participants"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_lu_customers",
+            "id": "2171bf54",
+            "name": "Prm Lu Customers",
+            "tags": [
+                "data_engineering",
+                "de",
+                "market",
+                "prm",
+                "prm_awb_customer",
+                "prm_lu_contract_participants",
+                "prm_lu_customers",
+                "reporting__market_competition_kpis",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__show_rate",
+                "rpt_mapping__contract_participant"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_mapping_area_code_to_type",
+            "id": "a2d1e9df",
+            "name": "Prm Mapping Area Code To Type",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_mapping_area_code_to_type",
+                "prm_tariff_rates_current"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_mapping_tariff_area_priorities",
+            "id": "d538e113",
+            "name": "Prm Mapping Tariff Area Priorities",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_mapping_tariff_area_priorities",
+                "prm_tariff_rates_current"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_market_share",
+            "id": "84888f5b",
+            "name": "Prm Market Share",
+            "tags": [
+                "data_engineering",
+                "de",
+                "market",
+                "market_share",
+                "prm",
+                "reporting__market_competition_kpis",
+                "rpt",
+                "rpt_kpis"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_stations",
+            "id": "a7a1f847",
+            "name": "Prm Stations",
+            "tags": [
+                "data_engineering",
+                "de",
+                "market",
+                "prm",
+                "prm_awb_stations",
+                "prm_lu_customers",
+                "prm_stations",
+                "reporting__market_competition_kpis",
+                "rpt",
+                "rpt_kpis",
+                "rpt_mapping__contract_origin_and_destination"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_tariff_rates_current",
+            "id": "d87b83c0",
+            "name": "Prm Tariff Rates Current",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_tariff_rates_current"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_actual_rate_all",
+            "id": "f682a577",
+            "name": "Raw Actual Rate All",
+            "tags": [
+                "actual_rate_all",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_area_type",
+            "id": "4bf83857",
+            "name": "Raw Area Type",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_tariff_rates_current"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_awb_participant",
+            "id": "8f62f9a8",
+            "name": "Raw Awb Participant",
+            "tags": [
+                "awb_participant",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_awb_participant_type",
+            "id": "0d2bb818",
+            "name": "Raw Awb Participant Type",
+            "tags": [
+                "awb_participant_type",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_awbid",
+            "id": "ad55f879",
+            "name": "Raw Awbid",
+            "tags": [
+                "awbid",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_booking_history",
+            "id": "428959a7",
+            "name": "Raw Booking History",
+            "tags": [
+                "de",
+                "int",
+                "int_booking_history",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_booking_information",
+            "id": "504a2652",
+            "name": "Raw Booking Information",
+            "tags": [
+                "de",
+                "int",
+                "int_booking_information",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_contract_detail",
+            "id": "b728df33",
+            "name": "Raw Contract Detail",
+            "tags": [
+                "contract_detail",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_contract_information",
+            "id": "b869ac6f",
+            "name": "Raw Contract Information",
+            "tags": [
+                "contract_information",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_contract_multi_segment",
+            "id": "53ca2c51",
+            "name": "Raw Contract Multi Segment",
+            "tags": [
+                "contract_multi_segment",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_contract_version",
+            "id": "a40ac714",
+            "name": "Raw Contract Version",
+            "tags": [
+                "contract_version",
+                "de",
+                "int",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_dim_country",
+            "id": "777af8d1",
+            "name": "Raw Dim Country",
+            "tags": [
+                "de",
+                "int",
+                "int_dim_country",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_dim_geographical_organization",
+            "id": "7d2fbc5b",
+            "name": "Raw Dim Geographical Organization",
+            "tags": [
+                "de",
+                "dim_geographical_organization",
+                "int",
+                "market",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_dim_month",
+            "id": "1c0f3b96",
+            "name": "Raw Dim Month",
+            "tags": [
+                "de",
+                "dim_month",
+                "int",
+                "market",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_dimparticipant",
+            "id": "1a34cd2e",
+            "name": "Raw Dimparticipant",
+            "tags": [
+                "de",
+                "dimparticipant",
+                "iata_keys",
+                "int",
+                "market",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_exchange_rates",
+            "id": "5bfe3272",
+            "name": "Raw Exchange Rates",
+            "tags": [
+                "de",
+                "int",
+                "int_exchange_rates",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_extracts__productspl",
+            "id": "ebe48805",
+            "name": "Raw Extracts Productspl",
+            "tags": [
+                "de",
+                "int",
+                "int_extracts__productspl",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_extracts__ratetype_to_product",
+            "id": "102c04c3",
+            "name": "Raw Extracts Ratetype To Product",
+            "tags": [
+                "de",
+                "int",
+                "int_extracts__ratetype_to_product",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_extracts__uld_weight_details",
+            "id": "b2aabffa",
+            "name": "Raw Extracts Uld Weight Details",
+            "tags": [
+                "de",
+                "int",
+                "int_extracts__uld_weight_details",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_extracts_aggregates",
+            "id": "6a1d0749",
+            "name": "Raw Extracts Aggregates",
+            "tags": [
+                "data_engineering",
+                "de",
+                "mapping",
+                "mrsac",
+                "odkey_to_airport",
+                "prm",
+                "prm_mapping_area_code_to_type"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_extracts_contracts",
+            "id": "8c792142",
+            "name": "Raw Extracts Contracts",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contract_detail_current"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_extracts_participant_groups",
+            "id": "1e0e53c1",
+            "name": "Raw Extracts Participant Groups",
+            "tags": [
+                "de",
+                "mapping",
+                "mrsac",
+                "participant_groups"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_fact_market_share",
+            "id": "b7e0d46e",
+            "name": "Raw Fact Market Share",
+            "tags": [
+                "de",
+                "fact_market_share",
+                "int",
+                "market",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_flight_day_detail",
+            "id": "be50fe3a",
+            "name": "Raw Flight Day Detail",
+            "tags": [
+                "de",
+                "flight_day_detail",
+                "int",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_flights",
+            "id": "85d0e56a",
+            "name": "Raw Flights",
+            "tags": [
+                "de",
+                "int",
+                "int_flights",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_iata_code_regions",
+            "id": "2a637551",
+            "name": "Raw Iata Code Regions",
+            "tags": [
+                "de",
+                "iata_code_regions",
+                "int",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_lkup_product_names_and_service_levels",
+            "id": "d15a1941",
+            "name": "Raw Lkup Product Names And Service Levels",
+            "tags": [
+                "de",
+                "int",
+                "int_lkup_product_names_and_service_levels",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_permanent_participant_info",
+            "id": "592e9194",
+            "name": "Raw Permanent Participant Info",
+            "tags": [
+                "de",
+                "int",
+                "mrsac",
+                "permanent_participant_info"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_product_type",
+            "id": "769491db",
+            "name": "Raw Product Type",
+            "tags": [
+                "de",
+                "int",
+                "mrsac",
+                "product_type"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_shipment_acceptance",
+            "id": "94011515",
+            "name": "Raw Shipment Acceptance",
+            "tags": [
+                "de",
+                "int",
+                "int_shipment_acceptance",
+                "mrsac"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_shipment_data_capture",
+            "id": "daf1a5b0",
+            "name": "Raw Shipment Data Capture",
+            "tags": [
+                "de",
+                "int",
+                "mrsac",
+                "shipment_data_capture"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_shipment_movement",
+            "id": "6ca36f95",
+            "name": "Raw Shipment Movement",
+            "tags": [
+                "de",
+                "int",
+                "mrsac",
+                "shipment_movement"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_special_handling_codes",
+            "id": "82fe9fbe",
+            "name": "Raw Special Handling Codes",
+            "tags": [
+                "de",
+                "int",
+                "mrsac",
+                "special_handling_codes"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_stations",
+            "id": "f1036cca",
+            "name": "Raw Stations",
+            "tags": [
+                "data_engineering",
+                "de",
+                "int",
+                "mrsac",
+                "prm",
+                "prm_mapping_area_code_to_type",
+                "stations"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_tariff_rate_detail",
+            "id": "a20e137e",
+            "name": "Raw Tariff Rate Detail",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_tariff_rates_current"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_tariff_rate_information",
+            "id": "e10b6811",
+            "name": "Raw Tariff Rate Information",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_tariff_rates_current"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ref_calendar",
+            "id": "ac02dd5e",
+            "name": "Ref Calendar",
+            "tags": [
+                "data_engineering",
+                "de",
+                "fea",
+                "fea__customer__od__product__contract__wb",
+                "fea__customer__od__product__wb_granular",
+                "fea__customer_subgroup__od__product__contract",
+                "fea_contract_tx",
+                "ref",
+                "ref_calendar"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ref_contract_types_north_america",
+            "id": "8a0dc9d2",
+            "name": "Ref Contract Types North America",
+            "tags": [
+                "data_engineering",
+                "de",
+                "prm",
+                "prm_contracts"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "reporting__contract_kpis_active",
+            "id": "42e0226b",
+            "name": "Reporting Contract Kpis Active",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__contract_kpis"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "reporting__contract_kpis_inactive",
+            "id": "706d43ff",
+            "name": "Reporting Contract Kpis Inactive",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__contract_kpis"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "reporting__contract_rates",
+            "id": "fed33100",
+            "name": "Reporting Contract Rates",
+            "tags": [
+                "de",
+                "rates",
+                "reporting__contract_rates",
+                "rpt"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "reporting__customer_od_product_weight_breaks",
+            "id": "35549608",
+            "name": "Reporting Customer Od Product Weight Breaks",
+            "tags": [
+                "de",
+                "reporting__customer_od_product_weight_breaks",
+                "rpt"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "reporting__market_competition_kpis",
+            "id": "b4e1d0cf",
+            "name": "Reporting Market Competition Kpis",
+            "tags": [
+                "de",
+                "market",
+                "reporting__market_competition_kpis",
+                "rpt",
+                "rpt_kpis"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "reporting__revenue_mix_kpis",
+            "id": "9c621bd6",
+            "name": "Reporting Revenue Mix Kpis",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__customer_revenue_mix"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "reporting__show_rate_kpis",
+            "id": "9725df09",
+            "name": "Reporting Show Rate Kpis",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_kpis",
+                "rpt_kpis__show_rate"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_lookup",
+            "id": "e2a89cc4",
+            "name": "Rpt Lookup",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_lookup"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_lookup__currency_exchange_rates",
+            "id": "50f962cc",
+            "name": "Rpt Lookup Currency Exchange Rates",
+            "tags": [
+                "de",
+                "exchange",
+                "rates",
+                "reporting__contract_rates",
+                "rpt",
+                "rpt_lookup__currency_exchange_rates"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_mapping__all_contracts",
+            "id": "54880f1b",
+            "name": "Rpt Mapping All Contracts",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_mapping__all_contracts"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_mapping__contract_contract_type",
+            "id": "54a4e181",
+            "name": "Rpt Mapping Contract Contract Type",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_mapping__contract_contract_type"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_mapping__contract_destinations",
+            "id": "c99a5d95",
+            "name": "Rpt Mapping Contract Destinations",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_mapping__contract_origin_and_destination"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_mapping__contract_origins",
+            "id": "c7e7aef1",
+            "name": "Rpt Mapping Contract Origins",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_mapping__contract_origin_and_destination"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_mapping__contract_participant",
+            "id": "0800ab41",
+            "name": "Rpt Mapping Contract Participant",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_mapping__contract_participant"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_mapping__contract_participant_group",
+            "id": "b81287bb",
+            "name": "Rpt Mapping Contract Participant Group",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_mapping__contract_participant"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_mapping__contract_participant_tier",
+            "id": "73001174",
+            "name": "Rpt Mapping Contract Participant Tier",
+            "tags": [
+                "de",
+                "rpt",
+                "rpt_mapping__contract_participant"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_mapping__contract_product",
+            "id": "f4a36ed0",
+            "name": "Rpt Mapping Contract Product",
+            "tags": [
+                "de",
+                "map_contracts_to_products",
+                "rpt"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_mapping__contract_service_level",
+            "id": "4dc3f1a2",
+            "name": "Rpt Mapping Contract Service Level",
+            "tags": [
+                "de",
+                "map_contracts_to_products",
+                "rpt"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "rpt_mapping__contract_solution",
+            "id": "d12aad9b",
+            "name": "Rpt Mapping Contract Solution",
+            "tags": [
+                "de",
+                "map_contracts_to_products",
+                "rpt"
+            ],
+            "type": "data"
+        }
+    ],
+    "tags": [
+        {
+            "id": "actual_rate_all",
+            "name": "Actual Rate All"
+        },
+        {
+            "id": "awb_participant",
+            "name": "Awb Participant"
+        },
+        {
+            "id": "awb_participant_type",
+            "name": "Awb Participant Type"
+        },
+        {
+            "id": "awbid",
+            "name": "Awbid"
+        },
+        {
+            "id": "contract_detail",
+            "name": "Contract Detail"
+        },
+        {
+            "id": "contract_information",
+            "name": "Contract Information"
+        },
+        {
+            "id": "contract_multi_segment",
+            "name": "Contract Multi Segment"
+        },
+        {
+            "id": "contract_version",
+            "name": "Contract Version"
+        },
+        {
+            "id": "data_engineering",
+            "name": "Data Engineering"
+        },
+        {
+            "id": "de",
+            "name": "De"
+        },
+        {
+            "id": "dim_geographical_organization",
+            "name": "Dim Geographical Organization"
+        },
+        {
+            "id": "dim_month",
+            "name": "Dim Month"
+        },
+        {
+            "id": "dimparticipant",
+            "name": "Dimparticipant"
+        },
+        {
+            "id": "exchange",
+            "name": "Exchange"
+        },
+        {
+            "id": "fact_market_share",
+            "name": "Fact Market Share"
+        },
+        {
+            "id": "fea",
+            "name": "Fea"
+        },
+        {
+            "id": "fea__customer__od__product__contract__wb",
+            "name": "Fea Customer Od Product Contract Wb"
+        },
+        {
+            "id": "fea__customer__od__product__wb_granular",
+            "name": "Fea Customer Od Product Wb Granular"
+        },
+        {
+            "id": "fea__customer_subgroup__od__product__contract",
+            "name": "Fea Customer Subgroup Od Product Contract"
+        },
+        {
+            "id": "fea_awb_tx",
+            "name": "Fea Awb Tx"
+        },
+        {
+            "id": "fea_contract_tx",
+            "name": "Fea Contract Tx"
+        },
+        {
+            "id": "flight_day_detail",
+            "name": "Flight Day Detail"
+        },
+        {
+            "id": "iata_code_regions",
+            "name": "Iata Code Regions"
+        },
+        {
+            "id": "iata_keys",
+            "name": "Iata Keys"
+        },
+        {
+            "id": "int",
+            "name": "Int"
+        },
+        {
+            "id": "int_booking_history",
+            "name": "Int Booking History"
+        },
+        {
+            "id": "int_booking_information",
+            "name": "Int Booking Information"
+        },
+        {
+            "id": "int_dim_country",
+            "name": "Int Dim Country"
+        },
+        {
+            "id": "int_exchange_rates",
+            "name": "Int Exchange Rates"
+        },
+        {
+            "id": "int_extracts__productspl",
+            "name": "Int Extracts Productspl"
+        },
+        {
+            "id": "int_extracts__ratetype_to_product",
+            "name": "Int Extracts Ratetype To Product"
+        },
+        {
+            "id": "int_extracts__uld_weight_details",
+            "name": "Int Extracts Uld Weight Details"
+        },
+        {
+            "id": "int_flights",
+            "name": "Int Flights"
+        },
+        {
+            "id": "int_lkup_product_names_and_service_levels",
+            "name": "Int Lkup Product Names And Service Levels"
+        },
+        {
+            "id": "int_shipment_acceptance",
+            "name": "Int Shipment Acceptance"
+        },
+        {
+            "id": "map_contracts_to_products",
+            "name": "Map Contracts To Products"
+        },
+        {
+            "id": "mapping",
+            "name": "Mapping"
+        },
+        {
+            "id": "market",
+            "name": "Market"
+        },
+        {
+            "id": "market_share",
+            "name": "Market Share"
+        },
+        {
+            "id": "mi",
+            "name": "Mi"
+        },
+        {
+            "id": "mi_contract_mapping",
+            "name": "Mi Contract Mapping"
+        },
+        {
+            "id": "mi_customer_contracts",
+            "name": "Mi Customer Contracts"
+        },
+        {
+            "id": "mi_customer_kpis",
+            "name": "Mi Customer Kpis"
+        },
+        {
+            "id": "mrsac",
+            "name": "Mrsac"
+        },
+        {
+            "id": "odkey_to_airport",
+            "name": "Odkey To Airport"
+        },
+        {
+            "id": "participant_groups",
+            "name": "Participant Groups"
+        },
+        {
+            "id": "permanent_participant_info",
+            "name": "Permanent Participant Info"
+        },
+        {
+            "id": "prepare_mi_data",
+            "name": "Prepare Mi Data"
+        },
+        {
+            "id": "prm",
+            "name": "Prm"
+        },
+        {
+            "id": "prm_awb_customer",
+            "name": "Prm Awb Customer"
+        },
+        {
+            "id": "prm_awb_handling_codes",
+            "name": "Prm Awb Handling Codes"
+        },
+        {
+            "id": "prm_awb_header",
+            "name": "Prm Awb Header"
+        },
+        {
+            "id": "prm_awb_product",
+            "name": "Prm Awb Product"
+        },
+        {
+            "id": "prm_awb_stations",
+            "name": "Prm Awb Stations"
+        },
+        {
+            "id": "prm_awb_tx_type",
+            "name": "Prm Awb Tx Type"
+        },
+        {
+            "id": "prm_awb_weight_breaks",
+            "name": "Prm Awb Weight Breaks"
+        },
+        {
+            "id": "prm_contract_customers",
+            "name": "Prm Contract Customers"
+        },
+        {
+            "id": "prm_contract_detail_current",
+            "name": "Prm Contract Detail Current"
+        },
+        {
+            "id": "prm_contract_handling_codes",
+            "name": "Prm Contract Handling Codes"
+        },
+        {
+            "id": "prm_contract_information_current",
+            "name": "Prm Contract Information Current"
+        },
+        {
+            "id": "prm_contract_multi_segment",
+            "name": "Prm Contract Multi Segment"
+        },
+        {
+            "id": "prm_contract_special_attributes",
+            "name": "Prm Contract Special Attributes"
+        },
+        {
+            "id": "prm_contract_version_current",
+            "name": "Prm Contract Version Current"
+        },
+        {
+            "id": "prm_contracts",
+            "name": "Prm Contracts"
+        },
+        {
+            "id": "prm_first_flight",
+            "name": "Prm First Flight"
+        },
+        {
+            "id": "prm_lu_contract_participants",
+            "name": "Prm Lu Contract Participants"
+        },
+        {
+            "id": "prm_lu_customers",
+            "name": "Prm Lu Customers"
+        },
+        {
+            "id": "prm_mapping_area_code_to_type",
+            "name": "Prm Mapping Area Code To Type"
+        },
+        {
+            "id": "prm_mapping_tariff_area_priorities",
+            "name": "Prm Mapping Tariff Area Priorities"
+        },
+        {
+            "id": "prm_stations",
+            "name": "Prm Stations"
+        },
+        {
+            "id": "prm_tariff_rates_current",
+            "name": "Prm Tariff Rates Current"
+        },
+        {
+            "id": "product_type",
+            "name": "Product Type"
+        },
+        {
+            "id": "rates",
+            "name": "Rates"
+        },
+        {
+            "id": "ref",
+            "name": "Ref"
+        },
+        {
+            "id": "ref_calendar",
+            "name": "Ref Calendar"
+        },
+        {
+            "id": "reporting__contract_rates",
+            "name": "Reporting Contract Rates"
+        },
+        {
+            "id": "reporting__customer_od_product_weight_breaks",
+            "name": "Reporting Customer Od Product Weight Breaks"
+        },
+        {
+            "id": "reporting__market_competition_kpis",
+            "name": "Reporting Market Competition Kpis"
+        },
+        {
+            "id": "rpt",
+            "name": "Rpt"
+        },
+        {
+            "id": "rpt_kpis",
+            "name": "Rpt Kpis"
+        },
+        {
+            "id": "rpt_kpis__contract_kpis",
+            "name": "Rpt Kpis Contract Kpis"
+        },
+        {
+            "id": "rpt_kpis__customer_revenue_mix",
+            "name": "Rpt Kpis Customer Revenue Mix"
+        },
+        {
+            "id": "rpt_kpis__show_rate",
+            "name": "Rpt Kpis Show Rate"
+        },
+        {
+            "id": "rpt_lookup",
+            "name": "Rpt Lookup"
+        },
+        {
+            "id": "rpt_lookup__currency_exchange_rates",
+            "name": "Rpt Lookup Currency Exchange Rates"
+        },
+        {
+            "id": "rpt_mapping__all_contracts",
+            "name": "Rpt Mapping All Contracts"
+        },
+        {
+            "id": "rpt_mapping__contract_contract_type",
+            "name": "Rpt Mapping Contract Contract Type"
+        },
+        {
+            "id": "rpt_mapping__contract_origin_and_destination",
+            "name": "Rpt Mapping Contract Origin And Destination"
+        },
+        {
+            "id": "rpt_mapping__contract_participant",
+            "name": "Rpt Mapping Contract Participant"
+        },
+        {
+            "id": "shipment_data_capture",
+            "name": "Shipment Data Capture"
+        },
+        {
+            "id": "shipment_movement",
+            "name": "Shipment Movement"
+        },
+        {
+            "id": "special_handling_codes",
+            "name": "Special Handling Codes"
+        },
+        {
+            "id": "stations",
+            "name": "Stations"
+        }
+    ]
+}

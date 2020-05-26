@@ -1,0 +1,353 @@
+{
+    "edges": [
+        {
+            "source": "1405df66",
+            "target": "e8f1bb57"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "e8f1bb57"
+        },
+        {
+            "source": "e8f1bb57",
+            "target": "566e51bd"
+        },
+        {
+            "source": "613f32ac",
+            "target": "28cfc35e"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "28cfc35e"
+        },
+        {
+            "source": "28cfc35e",
+            "target": "4f26aeaf"
+        },
+        {
+            "source": "dcbf7454",
+            "target": "5447e45c"
+        },
+        {
+            "source": "884d6f31",
+            "target": "5447e45c"
+        },
+        {
+            "source": "9b557ca1",
+            "target": "5447e45c"
+        },
+        {
+            "source": "5447e45c",
+            "target": "1405df66"
+        },
+        {
+            "source": "af0842b4",
+            "target": "a566d7fb"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "a566d7fb"
+        },
+        {
+            "source": "a566d7fb",
+            "target": "9b557ca1"
+        },
+        {
+            "source": "01ba12ff",
+            "target": "96608903"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "96608903"
+        },
+        {
+            "source": "96608903",
+            "target": "884d6f31"
+        },
+        {
+            "source": "c4638ad8",
+            "target": "45d8da74"
+        },
+        {
+            "source": "7103f53d",
+            "target": "45d8da74"
+        },
+        {
+            "source": "e2c9d687",
+            "target": "45d8da74"
+        },
+        {
+            "source": "2b9785a4",
+            "target": "45d8da74"
+        },
+        {
+            "source": "9c432048",
+            "target": "45d8da74"
+        },
+        {
+            "source": "45d8da74",
+            "target": "01ba12ff"
+        },
+        {
+            "source": "a9ee6944",
+            "target": "236097ac"
+        },
+        {
+            "source": "657ed7fd",
+            "target": "236097ac"
+        },
+        {
+            "source": "236097ac",
+            "target": "dcbf7454"
+        },
+        {
+            "source": "566e51bd",
+            "target": "a050d4cb"
+        },
+        {
+            "source": "a050d4cb",
+            "target": "613f32ac"
+        }
+    ],
+    "nodes": [
+        {
+            "full_name": "add_features",
+            "id": "e8f1bb57",
+            "name": "add_features",
+            "tags": [
+                "feature"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "add_target_variables",
+            "id": "28cfc35e",
+            "name": "add_target_variables",
+            "tags": [
+                "feature"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "concat_issues_failures",
+            "id": "5447e45c",
+            "name": "concat_issues_failures",
+            "tags": [
+                "feature"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "create_prm_failures",
+            "id": "a566d7fb",
+            "name": "create_prm_failures",
+            "tags": [
+                "primary"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "create_prm_issues",
+            "id": "96608903",
+            "name": "create_prm_issues",
+            "tags": [
+                "primary"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "merge_issues",
+            "id": "45d8da74",
+            "name": "merge_issues",
+            "tags": [
+                "primary"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "merge_switches",
+            "id": "236097ac",
+            "name": "merge_switches",
+            "tags": [
+                "primary"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prepare_master_table",
+            "id": "a050d4cb",
+            "name": "prepare_master_table",
+            "tags": [
+                "feature"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "base",
+            "id": "1405df66",
+            "name": "Base",
+            "tags": [
+                "feature"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "base_features",
+            "id": "566e51bd",
+            "name": "Base Features",
+            "tags": [
+                "feature"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "bessy_2015",
+            "id": "c4638ad8",
+            "name": "Bessy 2015",
+            "tags": [
+                "primary"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "bessy_2016",
+            "id": "7103f53d",
+            "name": "Bessy 2016",
+            "tags": [
+                "primary"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "bessy_2017",
+            "id": "e2c9d687",
+            "name": "Bessy 2017",
+            "tags": [
+                "primary"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "bessy_2018",
+            "id": "2b9785a4",
+            "name": "Bessy 2018",
+            "tags": [
+                "primary"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "bessy_2019",
+            "id": "9c432048",
+            "name": "Bessy 2019",
+            "tags": [
+                "primary"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "master",
+            "id": "4f26aeaf",
+            "name": "Master",
+            "tags": [
+                "feature"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "merged_issues",
+            "id": "01ba12ff",
+            "name": "Merged Issues",
+            "tags": [
+                "primary"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "parameters",
+            "id": "f1f1425b",
+            "name": "Parameters",
+            "tags": [
+                "feature",
+                "primary"
+            ],
+            "type": "parameters"
+        },
+        {
+            "full_name": "prepared_master",
+            "id": "613f32ac",
+            "name": "Prepared Master",
+            "tags": [
+                "feature"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_failures",
+            "id": "9b557ca1",
+            "name": "Prm Failures",
+            "tags": [
+                "feature",
+                "primary"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_issues",
+            "id": "884d6f31",
+            "name": "Prm Issues",
+            "tags": [
+                "feature",
+                "primary"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "prm_switches",
+            "id": "dcbf7454",
+            "name": "Prm Switches",
+            "tags": [
+                "feature",
+                "primary"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "raw_ofelia",
+            "id": "af0842b4",
+            "name": "Raw Ofelia",
+            "tags": [
+                "primary"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "switches_417",
+            "id": "a9ee6944",
+            "name": "Switches 417",
+            "tags": [
+                "primary"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "switches_419",
+            "id": "657ed7fd",
+            "name": "Switches 419",
+            "tags": [
+                "primary"
+            ],
+            "type": "data"
+        }
+    ],
+    "tags": [
+        {
+            "id": "feature",
+            "name": "Feature"
+        },
+        {
+            "id": "primary",
+            "name": "Primary"
+        }
+    ]
+}

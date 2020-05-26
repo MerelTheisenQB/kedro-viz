@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b4a43fc3.chunk.css",
+    "main.js": "./static/js/main.f626a013.chunk.js",
+    "main.js.map": "./static/js/main.f626a013.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6cb937c6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6cb937c6.js.map",
+    "static/css/2.fcf86715.chunk.css": "./static/css/2.fcf86715.chunk.css",
+    "static/js/2.a1c1dd70.chunk.js": "./static/js/2.a1c1dd70.chunk.js",
+    "static/js/2.a1c1dd70.chunk.js.map": "./static/js/2.a1c1dd70.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.fd75ac4a2590e415b6fb1fffb339c0c9.js": "./precache-manifest.fd75ac4a2590e415b6fb1fffb339c0c9.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.fcf86715.chunk.css.map": "./static/css/2.fcf86715.chunk.css.map",
+    "static/css/main.b4a43fc3.chunk.css.map": "./static/css/main.b4a43fc3.chunk.css.map",
+    "static/js/2.a1c1dd70.chunk.js.LICENSE": "./static/js/2.a1c1dd70.chunk.js.LICENSE",
+    "static/media/brodyquest.mp3": "./static/media/brodyquest.6259cc84.mp3",
+    "static/media/easter-egg.png": "./static/media/easter-egg.e702bd5f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cb937c6.js",
+    "static/css/2.fcf86715.chunk.css",
+    "static/js/2.a1c1dd70.chunk.js",
+    "static/css/main.b4a43fc3.chunk.css",
+    "static/js/main.f626a013.chunk.js"
+  ]
+}

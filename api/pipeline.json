@@ -1,0 +1,920 @@
+{
+    "edges": [
+        {
+            "source": "9305a99f",
+            "target": "ced0ea7a"
+        },
+        {
+            "source": "9d4e312b",
+            "target": "ced0ea7a"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "ced0ea7a"
+        },
+        {
+            "source": "ced0ea7a",
+            "target": "e5d4352a"
+        },
+        {
+            "source": "557152a0",
+            "target": "905c9aca"
+        },
+        {
+            "source": "79e367a5",
+            "target": "905c9aca"
+        },
+        {
+            "source": "905c9aca",
+            "target": "a27c53e0"
+        },
+        {
+            "source": "f181416b",
+            "target": "7741d4da"
+        },
+        {
+            "source": "d72d7508",
+            "target": "7741d4da"
+        },
+        {
+            "source": "7741d4da",
+            "target": "b508b02c"
+        },
+        {
+            "source": "829c3804",
+            "target": "af486926"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "af486926"
+        },
+        {
+            "source": "a27c53e0",
+            "target": "18666aed"
+        },
+        {
+            "source": "a1a22233",
+            "target": "18666aed"
+        },
+        {
+            "source": "46fdc5a8",
+            "target": "18666aed"
+        },
+        {
+            "source": "18666aed",
+            "target": "e6412caf"
+        },
+        {
+            "source": "b67b2fc1",
+            "target": "8aeea0af"
+        },
+        {
+            "source": "7040977a",
+            "target": "8aeea0af"
+        },
+        {
+            "source": "ed64c519",
+            "target": "8aeea0af"
+        },
+        {
+            "source": "f3871f92",
+            "target": "8aeea0af"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "8aeea0af"
+        },
+        {
+            "source": "8aeea0af",
+            "target": "9d4e312b"
+        },
+        {
+            "source": "8aeea0af",
+            "target": "4dfed989"
+        },
+        {
+            "source": "497b967b",
+            "target": "1a5df2a5"
+        },
+        {
+            "source": "875cf740",
+            "target": "1a5df2a5"
+        },
+        {
+            "source": "1a5df2a5",
+            "target": "b3033181"
+        },
+        {
+            "source": "2c1ab4a4",
+            "target": "87be0abf"
+        },
+        {
+            "source": "3770d9b7",
+            "target": "87be0abf"
+        },
+        {
+            "source": "87be0abf",
+            "target": "6ccbba72"
+        },
+        {
+            "source": "87be0abf",
+            "target": "b67b2fc1"
+        },
+        {
+            "source": "87be0abf",
+            "target": "497b967b"
+        },
+        {
+            "source": "6ccbba72",
+            "target": "b55db8b8"
+        },
+        {
+            "source": "875cf740",
+            "target": "b55db8b8"
+        },
+        {
+            "source": "46fdc5a8",
+            "target": "b55db8b8"
+        },
+        {
+            "source": "b55db8b8",
+            "target": "2bf0a87d"
+        },
+        {
+            "source": "b67b2fc1",
+            "target": "d9241959"
+        },
+        {
+            "source": "b3bdbc5d",
+            "target": "d9241959"
+        },
+        {
+            "source": "d9241959",
+            "target": "7040977a"
+        },
+        {
+            "source": "b6692835",
+            "target": "62b73dc5"
+        },
+        {
+            "source": "871c3f9f",
+            "target": "62b73dc5"
+        },
+        {
+            "source": "da26f375",
+            "target": "62b73dc5"
+        },
+        {
+            "source": "62b73dc5",
+            "target": "557152a0"
+        },
+        {
+            "source": "62b73dc5",
+            "target": "f181416b"
+        },
+        {
+            "source": "504d61ea",
+            "target": "d78d3ed9"
+        },
+        {
+            "source": "871c3f9f",
+            "target": "d78d3ed9"
+        },
+        {
+            "source": "5fcd1d3c",
+            "target": "d78d3ed9"
+        },
+        {
+            "source": "d78d3ed9",
+            "target": "79e367a5"
+        },
+        {
+            "source": "d78d3ed9",
+            "target": "d72d7508"
+        },
+        {
+            "source": "b508b02c",
+            "target": "76950fdc"
+        },
+        {
+            "source": "a1a22233",
+            "target": "76950fdc"
+        },
+        {
+            "source": "76950fdc",
+            "target": "34699e00"
+        },
+        {
+            "source": "cdd8cb83",
+            "target": "cf2543b0"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "cf2543b0"
+        },
+        {
+            "source": "cf2543b0",
+            "target": "c371c5f3"
+        },
+        {
+            "source": "fba4847f",
+            "target": "c8c5f9e7"
+        },
+        {
+            "source": "f1f1425b",
+            "target": "c8c5f9e7"
+        },
+        {
+            "source": "c8c5f9e7",
+            "target": "9305a99f"
+        },
+        {
+            "source": "c8c5f9e7",
+            "target": "795c2d7c"
+        },
+        {
+            "source": "c8c5f9e7",
+            "target": "3a0cda2d"
+        },
+        {
+            "source": "c8e5af4d",
+            "target": "7fc5a011"
+        },
+        {
+            "source": "7fc5a011",
+            "target": "ed64c519"
+        }
+    ],
+    "nodes": [
+        {
+            "full_name": "adstock_media",
+            "id": "ced0ea7a",
+            "name": "adstock_effect",
+            "tags": [
+                "ketchup",
+                "media"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "concat_df",
+            "id": "905c9aca",
+            "name": "concat_sales",
+            "tags": [
+                "juice",
+                "raw",
+                "sales"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "concat_df",
+            "id": "7741d4da",
+            "name": "concat_sku",
+            "tags": [
+                "juice",
+                "raw",
+                "sales"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "dummy",
+            "id": "af486926",
+            "name": "ds_dummy",
+            "tags": [
+                "ds",
+                "dummy"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "sales_top",
+            "id": "18666aed",
+            "name": "juice_calc_sales_top",
+            "tags": [
+                "juice",
+                "raw",
+                "sales",
+                "stats"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "brand_master_tbl",
+            "id": "8aeea0af",
+            "name": "ketchup_brands_master_table",
+            "tags": [
+                "ketchup",
+                "master"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "map_sku_product_groups",
+            "id": "1a5df2a5",
+            "name": "ketchup_map_sku_product_groups",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sku"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "ketchup_sales",
+            "id": "87be0abf",
+            "name": "ketchup_sales",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sales"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "sales_top",
+            "id": "b55db8b8",
+            "name": "ketchup_sales_top",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sales",
+                "stats"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "sales_weighted",
+            "id": "d9241959",
+            "name": "ketchup_sales_weighted",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sales"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "list_sales",
+            "id": "62b73dc5",
+            "name": "list_sales1",
+            "tags": [
+                "juice",
+                "raw",
+                "sale1",
+                "sales"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "list_sales",
+            "id": "d78d3ed9",
+            "name": "list_sales2",
+            "tags": [
+                "juice",
+                "raw",
+                "sales"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "map_sku_product_groups",
+            "id": "76950fdc",
+            "name": "map_sku_product_groups",
+            "tags": [
+                "juice",
+                "raw",
+                "sku"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "list_media",
+            "id": "cf2543b0",
+            "name": "transpose_media",
+            "tags": [
+                "juice",
+                "media",
+                "raw"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "ketchup_media",
+            "id": "c8c5f9e7",
+            "name": "transpose_media_ketchup",
+            "tags": [
+                "ketchup",
+                "media",
+                "raw"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "prepare_weather",
+            "id": "7fc5a011",
+            "name": "weather",
+            "tags": [
+                "weather"
+            ],
+            "type": "task"
+        },
+        {
+            "full_name": "dummy",
+            "id": "829c3804",
+            "name": "Dummy",
+            "tags": [
+                "ds",
+                "dummy"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "holidays",
+            "id": "f3871f92",
+            "name": "Holidays",
+            "tags": [
+                "ketchup",
+                "master"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "juice_sales_top",
+            "id": "e6412caf",
+            "name": "Juice Sales Top",
+            "tags": [
+                "juice",
+                "raw",
+                "sales",
+                "stats"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_adstock_total",
+            "id": "e5d4352a",
+            "name": "Ketchup Adstock Total",
+            "tags": [
+                "ketchup",
+                "media"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_brands_master",
+            "id": "9d4e312b",
+            "name": "Ketchup Brands Master",
+            "tags": [
+                "ketchup",
+                "master",
+                "media"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_media",
+            "id": "fba4847f",
+            "name": "Ketchup Media",
+            "tags": [
+                "ketchup",
+                "media",
+                "raw"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_media_mart",
+            "id": "3a0cda2d",
+            "name": "Ketchup Media Mart",
+            "tags": [
+                "ketchup",
+                "media",
+                "raw"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_media_preprocessed",
+            "id": "9305a99f",
+            "name": "Ketchup Media Preprocessed",
+            "tags": [
+                "ketchup",
+                "media",
+                "raw"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_media_transposed",
+            "id": "795c2d7c",
+            "name": "Ketchup Media Transposed",
+            "tags": [
+                "ketchup",
+                "media",
+                "raw"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_model_brand",
+            "id": "4dfed989",
+            "name": "Ketchup Model Brand",
+            "tags": [
+                "ketchup",
+                "master"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_sales",
+            "id": "2c1ab4a4",
+            "name": "Ketchup Sales",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sales"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_sales_top",
+            "id": "2bf0a87d",
+            "name": "Ketchup Sales Top",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sales",
+                "stats"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_sales_transposed",
+            "id": "6ccbba72",
+            "name": "Ketchup Sales Transposed",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sales",
+                "stats"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_sales_transposed_model",
+            "id": "b67b2fc1",
+            "name": "Ketchup Sales Transposed Model",
+            "tags": [
+                "ketchup",
+                "master",
+                "raw",
+                "sales"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_sales_weighted",
+            "id": "7040977a",
+            "name": "Ketchup Sales Weighted",
+            "tags": [
+                "ketchup",
+                "master",
+                "raw",
+                "sales"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_sku",
+            "id": "497b967b",
+            "name": "Ketchup Sku",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sales",
+                "sku"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_sku_list_groups",
+            "id": "b3033181",
+            "name": "Ketchup Sku List Groups",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sku"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "ketchup_sku_product_map",
+            "id": "875cf740",
+            "name": "Ketchup Sku Product Map",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sales",
+                "sku",
+                "stats"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "media_dict",
+            "id": "cdd8cb83",
+            "name": "Media Dict",
+            "tags": [
+                "juice",
+                "media",
+                "raw"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "media_transposed",
+            "id": "c371c5f3",
+            "name": "Media Transposed",
+            "tags": [
+                "juice",
+                "media",
+                "raw"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "parameters",
+            "id": "f1f1425b",
+            "name": "Parameters",
+            "tags": [
+                "ds",
+                "dummy",
+                "juice",
+                "ketchup",
+                "master",
+                "media",
+                "raw"
+            ],
+            "type": "parameters"
+        },
+        {
+            "full_name": "params:ketchup_master_tbl",
+            "id": "b3bdbc5d",
+            "name": "Params:ketchup Master Tbl",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sales"
+            ],
+            "type": "parameters"
+        },
+        {
+            "full_name": "params:ketchup_sales",
+            "id": "3770d9b7",
+            "name": "Params:ketchup Sales",
+            "tags": [
+                "ketchup",
+                "raw",
+                "sales"
+            ],
+            "type": "parameters"
+        },
+        {
+            "full_name": "params:sales",
+            "id": "871c3f9f",
+            "name": "Params:sales",
+            "tags": [
+                "juice",
+                "raw",
+                "sale1",
+                "sales"
+            ],
+            "type": "parameters"
+        },
+        {
+            "full_name": "params:sales1",
+            "id": "da26f375",
+            "name": "Params:sales1",
+            "tags": [
+                "juice",
+                "raw",
+                "sale1",
+                "sales"
+            ],
+            "type": "parameters"
+        },
+        {
+            "full_name": "params:sales2",
+            "id": "5fcd1d3c",
+            "name": "Params:sales2",
+            "tags": [
+                "juice",
+                "raw",
+                "sales"
+            ],
+            "type": "parameters"
+        },
+        {
+            "full_name": "params:top",
+            "id": "46fdc5a8",
+            "name": "Params:top",
+            "tags": [
+                "juice",
+                "ketchup",
+                "raw",
+                "sales",
+                "stats"
+            ],
+            "type": "parameters"
+        },
+        {
+            "full_name": "sales1",
+            "id": "b6692835",
+            "name": "Sales1",
+            "tags": [
+                "juice",
+                "raw",
+                "sale1",
+                "sales"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "sales2",
+            "id": "504d61ea",
+            "name": "Sales2",
+            "tags": [
+                "juice",
+                "raw",
+                "sales"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "sales_transposed",
+            "id": "a27c53e0",
+            "name": "Sales Transposed",
+            "tags": [
+                "juice",
+                "raw",
+                "sales",
+                "stats"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "sales_transposed_1",
+            "id": "557152a0",
+            "name": "Sales Transposed 1",
+            "tags": [
+                "juice",
+                "raw",
+                "sale1",
+                "sales"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "sales_transposed_2",
+            "id": "79e367a5",
+            "name": "Sales Transposed 2",
+            "tags": [
+                "juice",
+                "raw",
+                "sales"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "sku1",
+            "id": "f181416b",
+            "name": "Sku1",
+            "tags": [
+                "juice",
+                "raw",
+                "sale1",
+                "sales"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "sku2",
+            "id": "d72d7508",
+            "name": "Sku2",
+            "tags": [
+                "juice",
+                "raw",
+                "sales"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "sku_list",
+            "id": "b508b02c",
+            "name": "Sku List",
+            "tags": [
+                "juice",
+                "raw",
+                "sales",
+                "sku"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "sku_list_groups",
+            "id": "34699e00",
+            "name": "Sku List Groups",
+            "tags": [
+                "juice",
+                "raw",
+                "sku"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "sku_product_group_map",
+            "id": "a1a22233",
+            "name": "Sku Product Group Map",
+            "tags": [
+                "juice",
+                "raw",
+                "sales",
+                "sku",
+                "stats"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "weather_data",
+            "id": "ed64c519",
+            "name": "Weather Data",
+            "tags": [
+                "ketchup",
+                "master",
+                "weather"
+            ],
+            "type": "data"
+        },
+        {
+            "full_name": "weather_origin",
+            "id": "c8e5af4d",
+            "name": "Weather Origin",
+            "tags": [
+                "weather"
+            ],
+            "type": "data"
+        }
+    ],
+    "tags": [
+        {
+            "id": "ds",
+            "name": "Ds"
+        },
+        {
+            "id": "dummy",
+            "name": "Dummy"
+        },
+        {
+            "id": "juice",
+            "name": "Juice"
+        },
+        {
+            "id": "ketchup",
+            "name": "Ketchup"
+        },
+        {
+            "id": "master",
+            "name": "Master"
+        },
+        {
+            "id": "media",
+            "name": "Media"
+        },
+        {
+            "id": "raw",
+            "name": "Raw"
+        },
+        {
+            "id": "sale1",
+            "name": "Sale1"
+        },
+        {
+            "id": "sales",
+            "name": "Sales"
+        },
+        {
+            "id": "sku",
+            "name": "Sku"
+        },
+        {
+            "id": "stats",
+            "name": "Stats"
+        },
+        {
+            "id": "weather",
+            "name": "Weather"
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+  "layers": ["Major features", "Minor features", "Release"],
+  "edges": [
+    {
+      "source": "colour-scheme",
+      "target": "3.3.0"
+    },
+    {
+      "source": "icons",
+      "target": "3.3.0"
+    },
+    {
+      "source": "layers",
+      "target": "3.3.0"
+    },
+    {
+      "source": "icon-toolbar",
+      "target": "3.3.0"
+    },
+    {
+      "source": "node-list-select",
+      "target": "3.3.0"
+    },
+    {
+      "source": "Python3.5",
+      "target": "3.3.0"
+    },
+    {
+      "source": "svg-size",
+      "target": "3.3.0"
+    },
+    {
+      "source": "ssr",
+      "target": "3.3.0"
+    },
+    {
+      "source": "zoom",
+      "target": "3.3.0"
+    },
+    {
+      "source": "localhost",
+      "target": "3.3.0"
+    },
+    {
+      "source": "png",
+      "target": "3.3.0"
+    },
+    {
+      "source": "jupyter",
+      "target": "3.3.0"
+    },
+    {
+      "source": "export",
+      "target": "3.3.0"
+    },
+    {
+      "source": "print",
+      "target": "3.3.0"
+    },
+    {
+      "source": "tooltips",
+      "target": "3.3.0"
+    }
+  ],
+  "nodes": [
+    {
+      "full_name": "Improved image export styling",
+      "id": "export",
+      "name": "Image export styling",
+      "layer": "Major features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Improved print styling",
+      "id": "print",
+      "name": "Print styles",
+      "layer": "Major features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Data engineering convention layers",
+      "id": "layers",
+      "name": "Data layers",
+      "layer": "Major features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "New colour scheme",
+      "id": "colour-scheme",
+      "name": "Colour scheme",
+      "layer": "Major features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "New node/data/param/visibility icons",
+      "id": "icons",
+      "name": "New icons",
+      "layer": "Major features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Move icon-toolbar to the sidebar",
+      "id": "icon-toolbar",
+      "name": "Redesigned icon toolbar",
+      "layer": "Major features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Improve node selection states: Make selected/active states more obvious, and select/deselect nodes on node-list row click. This is going to be useful for the upcoming node metadata panel.",
+      "id": "node-list-select",
+      "name": "Node-list row selection",
+      "layer": "Minor features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Drop support for Python 3.5 and add support for 3.8",
+      "id": "Python3.5",
+      "name": "Drop Python 3.5 & add 3.8",
+      "layer": "Minor features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Reduce exported SVG filesizes by around 10X!",
+      "id": "svg-size",
+      "name": "Reduce SVG filesizes",
+      "layer": "Minor features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Fix JavaScript server-side-rendering in GatsbyJS for Waylon",
+      "id": "ssr",
+      "name": "Fix SSR",
+      "layer": "Minor features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Limit zoom scale/translate extent",
+      "id": "zoom",
+      "name": "Limit zoom extent",
+      "layer": "Minor features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Only open browser when running on localhost, not on a remote server",
+      "id": "localhost",
+      "name": "Only open browser on localhost",
+      "layer": "Minor features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Fix bug where exported PNG was cut off",
+      "id": "png",
+      "name": "Fix exported PNG bug",
+      "layer": "Minor features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Make data path relative to fix jupyter hub proxy for Guilherme",
+      "id": "jupyter",
+      "name": "Make data path relative again",
+      "layer": "Minor features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Improve tooltip styling: arrorw positioning, wrapping long lines, etc",
+      "id": "tooltips",
+      "name": "Improve tooltips",
+      "layer": "Minor features",
+      "tags": [],
+      "type": "task"
+    },
+    {
+      "full_name": "Kedro-Viz 3.3.0 releasing today (probably)!",
+      "id": "3.3.0",
+      "name": "🎉 3.3.0 🎉",
+      "layer": "Release",
+      "tags": [],
+      "type": "data"
+    }
+  ],
+  "tags": []
+}

@@ -1,0 +1,5039 @@
+{
+  "edges": [
+    {
+      "source": "aac97896",
+      "target": "83bd4014"
+    },
+    {
+      "source": "63810fcf",
+      "target": "83bd4014"
+    },
+    {
+      "source": "a412f6fb",
+      "target": "83bd4014"
+    },
+    {
+      "source": "2189b526",
+      "target": "83bd4014"
+    },
+    {
+      "source": "83bd4014",
+      "target": "1498d28d"
+    },
+    {
+      "source": "b5b3cdb9",
+      "target": "0a2bc0ec"
+    },
+    {
+      "source": "b54d722a",
+      "target": "0a2bc0ec"
+    },
+    {
+      "source": "0a2bc0ec",
+      "target": "e3299608"
+    },
+    {
+      "source": "a7034370",
+      "target": "f705d31b"
+    },
+    {
+      "source": "34be2a81",
+      "target": "f705d31b"
+    },
+    {
+      "source": "e36ca762",
+      "target": "f705d31b"
+    },
+    {
+      "source": "f705d31b",
+      "target": "c0d63d8a"
+    },
+    {
+      "source": "a5d6d0a1",
+      "target": "cb5aac6f"
+    },
+    {
+      "source": "36f57383",
+      "target": "cb5aac6f"
+    },
+    {
+      "source": "a6124308",
+      "target": "cb5aac6f"
+    },
+    {
+      "source": "cb5aac6f",
+      "target": "34be2a81"
+    },
+    {
+      "source": "ab72fa71",
+      "target": "74a7959a"
+    },
+    {
+      "source": "0d855be7",
+      "target": "74a7959a"
+    },
+    {
+      "source": "e3299608",
+      "target": "74a7959a"
+    },
+    {
+      "source": "308e7328",
+      "target": "74a7959a"
+    },
+    {
+      "source": "82e66c83",
+      "target": "74a7959a"
+    },
+    {
+      "source": "74a7959a",
+      "target": "cb275f37"
+    },
+    {
+      "source": "150b4113",
+      "target": "f27af8c5"
+    },
+    {
+      "source": "e8f92e7f",
+      "target": "f27af8c5"
+    },
+    {
+      "source": "29bf0cd4",
+      "target": "f27af8c5"
+    },
+    {
+      "source": "f27af8c5",
+      "target": "a7034370"
+    },
+    {
+      "source": "5e030a18",
+      "target": "09bc84bc"
+    },
+    {
+      "source": "f32c1a4d",
+      "target": "09bc84bc"
+    },
+    {
+      "source": "b5b3cdb9",
+      "target": "09bc84bc"
+    },
+    {
+      "source": "09bc84bc",
+      "target": "b6b5e4b7"
+    },
+    {
+      "source": "0793e12e",
+      "target": "9f2c9793"
+    },
+    {
+      "source": "8135e344",
+      "target": "9f2c9793"
+    },
+    {
+      "source": "69af8986",
+      "target": "9f2c9793"
+    },
+    {
+      "source": "2c540ade",
+      "target": "9f2c9793"
+    },
+    {
+      "source": "9f2c9793",
+      "target": "a5d6d0a1"
+    },
+    {
+      "source": "9f2c9793",
+      "target": "5e48962a"
+    },
+    {
+      "source": "085e2ecf",
+      "target": "ca694450"
+    },
+    {
+      "source": "4d476410",
+      "target": "ca694450"
+    },
+    {
+      "source": "f76a85c4",
+      "target": "ca694450"
+    },
+    {
+      "source": "840a8c65",
+      "target": "ca694450"
+    },
+    {
+      "source": "ca694450",
+      "target": "a6124308"
+    },
+    {
+      "source": "085e2ecf",
+      "target": "9dae9667"
+    },
+    {
+      "source": "0793e12e",
+      "target": "9dae9667"
+    },
+    {
+      "source": "9dae9667",
+      "target": "f76a85c4"
+    },
+    {
+      "source": "085e2ecf",
+      "target": "df7a20dc"
+    },
+    {
+      "source": "97b0af1b",
+      "target": "df7a20dc"
+    },
+    {
+      "source": "feecba35",
+      "target": "df7a20dc"
+    },
+    {
+      "source": "59a2a255",
+      "target": "df7a20dc"
+    },
+    {
+      "source": "0793e12e",
+      "target": "df7a20dc"
+    },
+    {
+      "source": "df7a20dc",
+      "target": "e8f92e7f"
+    },
+    {
+      "source": "085e2ecf",
+      "target": "e2242cad"
+    },
+    {
+      "source": "50d93afc",
+      "target": "e2242cad"
+    },
+    {
+      "source": "e2242cad",
+      "target": "59a2a255"
+    },
+    {
+      "source": "e01f956a",
+      "target": "58c85476"
+    },
+    {
+      "source": "b5ee2280",
+      "target": "58c85476"
+    },
+    {
+      "source": "58c85476",
+      "target": "150b4113"
+    },
+    {
+      "source": "f3e469a2",
+      "target": "4e2dcd11"
+    },
+    {
+      "source": "4e2dcd11",
+      "target": "de003873"
+    },
+    {
+      "source": "db335111",
+      "target": "b1b6c5e4"
+    },
+    {
+      "source": "79712e8d",
+      "target": "b1b6c5e4"
+    },
+    {
+      "source": "b1b6c5e4",
+      "target": "97b0af1b"
+    },
+    {
+      "source": "b1b6c5e4",
+      "target": "c5efc3dc"
+    },
+    {
+      "source": "b1b6c5e4",
+      "target": "0d1dcfb2"
+    },
+    {
+      "source": "2d54d7da",
+      "target": "3e144536"
+    },
+    {
+      "source": "3e144536",
+      "target": "db335111"
+    },
+    {
+      "source": "78d4d1de",
+      "target": "9a9e279d"
+    },
+    {
+      "source": "9a9e279d",
+      "target": "79712e8d"
+    },
+    {
+      "source": "de003873",
+      "target": "dc04d249"
+    },
+    {
+      "source": "e9ad3988",
+      "target": "dc04d249"
+    },
+    {
+      "source": "dc04d249",
+      "target": "feecba35"
+    },
+    {
+      "source": "6f00b000",
+      "target": "2c7773be"
+    },
+    {
+      "source": "2c7773be",
+      "target": "e9ad3988"
+    },
+    {
+      "source": "2ababb4f",
+      "target": "545b5499"
+    },
+    {
+      "source": "a8a68ef9",
+      "target": "545b5499"
+    },
+    {
+      "source": "545b5499",
+      "target": "36f57383"
+    },
+    {
+      "source": "cef60490",
+      "target": "7d9a7f12"
+    },
+    {
+      "source": "7d9a7f12",
+      "target": "3c7eb97c"
+    },
+    {
+      "source": "3c7eb97c",
+      "target": "c813b2f9"
+    },
+    {
+      "source": "d891951b",
+      "target": "c813b2f9"
+    },
+    {
+      "source": "c813b2f9",
+      "target": "a8a68ef9"
+    },
+    {
+      "source": "67e7a725",
+      "target": "9aedf92d"
+    },
+    {
+      "source": "9aedf92d",
+      "target": "d8504b6c"
+    },
+    {
+      "source": "940f9973",
+      "target": "a24b607b"
+    },
+    {
+      "source": "a24b607b",
+      "target": "a7bbd0dc"
+    },
+    {
+      "source": "4c64c9a1",
+      "target": "5b7de67c"
+    },
+    {
+      "source": "5b7de67c",
+      "target": "4b3b278d"
+    },
+    {
+      "source": "1bf37f9d",
+      "target": "e373b96a"
+    },
+    {
+      "source": "e373b96a",
+      "target": "4b2e8da3"
+    },
+    {
+      "source": "14e0bb01",
+      "target": "72585936"
+    },
+    {
+      "source": "72585936",
+      "target": "c20a1e23"
+    },
+    {
+      "source": "b9c3bfa6",
+      "target": "4085f67a"
+    },
+    {
+      "source": "4085f67a",
+      "target": "18391468"
+    },
+    {
+      "source": "a33852ce",
+      "target": "12adaeba"
+    },
+    {
+      "source": "12adaeba",
+      "target": "69528471"
+    },
+    {
+      "source": "6c454982",
+      "target": "f41f6938"
+    },
+    {
+      "source": "b619ffef",
+      "target": "f41f6938"
+    },
+    {
+      "source": "e12ec63c",
+      "target": "f41f6938"
+    },
+    {
+      "source": "f41f6938",
+      "target": "247f4246"
+    },
+    {
+      "source": "6c454982",
+      "target": "2e10be1b"
+    },
+    {
+      "source": "e12ec63c",
+      "target": "2e10be1b"
+    },
+    {
+      "source": "2e10be1b",
+      "target": "8cbf5689"
+    },
+    {
+      "source": "f47aebcf",
+      "target": "ae9c2b73"
+    },
+    {
+      "source": "d8276205",
+      "target": "ae9c2b73"
+    },
+    {
+      "source": "ae9c2b73",
+      "target": "18e3a472"
+    },
+    {
+      "source": "b0f422d1",
+      "target": "aa0a6c5e"
+    },
+    {
+      "source": "c8c04787",
+      "target": "aa0a6c5e"
+    },
+    {
+      "source": "aa0a6c5e",
+      "target": "ffd2a497"
+    },
+    {
+      "source": "281e2b16",
+      "target": "47c34d93"
+    },
+    {
+      "source": "47c34d93",
+      "target": "1b6b5be1"
+    },
+    {
+      "source": "d2a0bee5",
+      "target": "34dd1710"
+    },
+    {
+      "source": "34dd1710",
+      "target": "58b74cda"
+    },
+    {
+      "source": "b9947e9a",
+      "target": "20ff77c1"
+    },
+    {
+      "source": "20ff77c1",
+      "target": "2a67f17f"
+    },
+    {
+      "source": "911670ff",
+      "target": "669b1a6e"
+    },
+    {
+      "source": "669b1a6e",
+      "target": "4a30d19a"
+    },
+    {
+      "source": "8a0b63a8",
+      "target": "5574bb9c"
+    },
+    {
+      "source": "5574bb9c",
+      "target": "5e7d5768"
+    },
+    {
+      "source": "97844447",
+      "target": "6c4d93c7"
+    },
+    {
+      "source": "6c4d93c7",
+      "target": "03348a56"
+    },
+    {
+      "source": "5f1c8e52",
+      "target": "6834151b"
+    },
+    {
+      "source": "f1cc2439",
+      "target": "6834151b"
+    },
+    {
+      "source": "6834151b",
+      "target": "4d476410"
+    },
+    {
+      "source": "6c454982",
+      "target": "eb7d436f"
+    },
+    {
+      "source": "eb7d436f",
+      "target": "444e581a"
+    },
+    {
+      "source": "700b0ef7",
+      "target": "f1fd8814"
+    },
+    {
+      "source": "8c108bb8",
+      "target": "f1fd8814"
+    },
+    {
+      "source": "01904898",
+      "target": "f1fd8814"
+    },
+    {
+      "source": "099b15a3",
+      "target": "f1fd8814"
+    },
+    {
+      "source": "f1fd8814",
+      "target": "aa552813"
+    },
+    {
+      "source": "39c2d7a9",
+      "target": "306cde0d"
+    },
+    {
+      "source": "8135e344",
+      "target": "306cde0d"
+    },
+    {
+      "source": "306cde0d",
+      "target": "12f3dc1a"
+    },
+    {
+      "source": "5e48962a",
+      "target": "aaaa722e"
+    },
+    {
+      "source": "50d93afc",
+      "target": "aaaa722e"
+    },
+    {
+      "source": "aa552813",
+      "target": "aaaa722e"
+    },
+    {
+      "source": "ec4d9f50",
+      "target": "aaaa722e"
+    },
+    {
+      "source": "099b15a3",
+      "target": "aaaa722e"
+    },
+    {
+      "source": "aaaa722e",
+      "target": "39c2d7a9"
+    },
+    {
+      "source": "ac2c2ae7",
+      "target": "563bfb0e"
+    },
+    {
+      "source": "bd457016",
+      "target": "563bfb0e"
+    },
+    {
+      "source": "f003aeb0",
+      "target": "563bfb0e"
+    },
+    {
+      "source": "0e51b737",
+      "target": "563bfb0e"
+    },
+    {
+      "source": "76c8a053",
+      "target": "563bfb0e"
+    },
+    {
+      "source": "563bfb0e",
+      "target": "8135e344"
+    },
+    {
+      "source": "feecba35",
+      "target": "9875ee3c"
+    },
+    {
+      "source": "618ed2bb",
+      "target": "9875ee3c"
+    },
+    {
+      "source": "9875ee3c",
+      "target": "bd457016"
+    },
+    {
+      "source": "97b0af1b",
+      "target": "a26f90ec"
+    },
+    {
+      "source": "c5efc3dc",
+      "target": "a26f90ec"
+    },
+    {
+      "source": "0d1dcfb2",
+      "target": "a26f90ec"
+    },
+    {
+      "source": "5e828808",
+      "target": "a26f90ec"
+    },
+    {
+      "source": "a26f90ec",
+      "target": "ac2c2ae7"
+    },
+    {
+      "source": "5e7d5768",
+      "target": "62304473"
+    },
+    {
+      "source": "03348a56",
+      "target": "62304473"
+    },
+    {
+      "source": "62304473",
+      "target": "b5ee2280"
+    },
+    {
+      "source": "1b6b5be1",
+      "target": "d5a7683b"
+    },
+    {
+      "source": "2a67f17f",
+      "target": "d5a7683b"
+    },
+    {
+      "source": "58b74cda",
+      "target": "d5a7683b"
+    },
+    {
+      "source": "0bdf7355",
+      "target": "d5a7683b"
+    },
+    {
+      "source": "d5a7683b",
+      "target": "ce63b2ee"
+    },
+    {
+      "source": "4a30d19a",
+      "target": "1e5c0441"
+    },
+    {
+      "source": "ce63b2ee",
+      "target": "1e5c0441"
+    },
+    {
+      "source": "1e5c0441",
+      "target": "6428cb1b"
+    },
+    {
+      "source": "18391468",
+      "target": "468203a6"
+    },
+    {
+      "source": "69528471",
+      "target": "468203a6"
+    },
+    {
+      "source": "c1181136",
+      "target": "468203a6"
+    },
+    {
+      "source": "468203a6",
+      "target": "fe369f25"
+    },
+    {
+      "source": "cb275f37",
+      "target": "1cee0253"
+    },
+    {
+      "source": "18e3a472",
+      "target": "1cee0253"
+    },
+    {
+      "source": "1cee0253",
+      "target": "737193b7"
+    },
+    {
+      "source": "8cbf5689",
+      "target": "e63c92cc"
+    },
+    {
+      "source": "cb275f37",
+      "target": "e63c92cc"
+    },
+    {
+      "source": "e63c92cc",
+      "target": "0793e12e"
+    },
+    {
+      "source": "d8504b6c",
+      "target": "55bab78d"
+    },
+    {
+      "source": "a7bbd0dc",
+      "target": "55bab78d"
+    },
+    {
+      "source": "4b3b278d",
+      "target": "55bab78d"
+    },
+    {
+      "source": "55bab78d",
+      "target": "d4e51238"
+    },
+    {
+      "source": "90fcac6b",
+      "target": "b6a21bd2"
+    },
+    {
+      "source": "b6a21bd2",
+      "target": "5e828808"
+    },
+    {
+      "source": "64fde970",
+      "target": "14cd8ef4"
+    },
+    {
+      "source": "14cd8ef4",
+      "target": "6af49ac4"
+    },
+    {
+      "source": "0952af94",
+      "target": "b7b29641"
+    },
+    {
+      "source": "b7b29641",
+      "target": "a5a37620"
+    },
+    {
+      "source": "07341eac",
+      "target": "46354984"
+    },
+    {
+      "source": "c0d63d8a",
+      "target": "46354984"
+    },
+    {
+      "source": "46354984",
+      "target": "25487976"
+    },
+    {
+      "source": "51962f63",
+      "target": "771cdeda"
+    },
+    {
+      "source": "50d93afc",
+      "target": "771cdeda"
+    },
+    {
+      "source": "771cdeda",
+      "target": "49b46895"
+    },
+    {
+      "source": "25487976",
+      "target": "9df3c9bf"
+    },
+    {
+      "source": "9df3c9bf",
+      "target": "d70af228"
+    },
+    {
+      "source": "2d1a2311",
+      "target": "c67256de"
+    },
+    {
+      "source": "72ac5492",
+      "target": "c67256de"
+    },
+    {
+      "source": "c67256de",
+      "target": "1074007e"
+    },
+    {
+      "source": "49b46895",
+      "target": "c3a1f64a"
+    },
+    {
+      "source": "50d93afc",
+      "target": "c3a1f64a"
+    },
+    {
+      "source": "aa552813",
+      "target": "c3a1f64a"
+    },
+    {
+      "source": "f0e7f12b",
+      "target": "c3a1f64a"
+    },
+    {
+      "source": "c3a1f64a",
+      "target": "069660bb"
+    },
+    {
+      "source": "069660bb",
+      "target": "e1bd4e54"
+    },
+    {
+      "source": "1498d28d",
+      "target": "e1bd4e54"
+    },
+    {
+      "source": "678e2738",
+      "target": "e1bd4e54"
+    },
+    {
+      "source": "75ca24ec",
+      "target": "e1bd4e54"
+    },
+    {
+      "source": "e1bd4e54",
+      "target": "2d1a2311"
+    },
+    {
+      "source": "1074007e",
+      "target": "8f059fa1"
+    },
+    {
+      "source": "6428cb1b",
+      "target": "8f059fa1"
+    },
+    {
+      "source": "8f059fa1",
+      "target": "07341eac"
+    },
+    {
+      "source": "97b0af1b",
+      "target": "f6f13280"
+    },
+    {
+      "source": "c5efc3dc",
+      "target": "f6f13280"
+    },
+    {
+      "source": "0d1dcfb2",
+      "target": "f6f13280"
+    },
+    {
+      "source": "5e828808",
+      "target": "f6f13280"
+    },
+    {
+      "source": "feecba35",
+      "target": "f6f13280"
+    },
+    {
+      "source": "618ed2bb",
+      "target": "f6f13280"
+    },
+    {
+      "source": "f6f13280",
+      "target": "b9621f16"
+    },
+    {
+      "source": "f6f13280",
+      "target": "41fef77c"
+    },
+    {
+      "source": "3bd274f6",
+      "target": "576cdeab"
+    },
+    {
+      "source": "576cdeab",
+      "target": "25c9b503"
+    },
+    {
+      "source": "d4e51238",
+      "target": "17776612"
+    },
+    {
+      "source": "17776612",
+      "target": "afe6dd65"
+    },
+    {
+      "source": "afe6dd65",
+      "target": "a531c2dd"
+    },
+    {
+      "source": "e8f271f2",
+      "target": "a531c2dd"
+    },
+    {
+      "source": "a531c2dd",
+      "target": "3e8d1dbb"
+    },
+    {
+      "source": "fb5cb48b",
+      "target": "df1b2db7"
+    },
+    {
+      "source": "3e8d1dbb",
+      "target": "df1b2db7"
+    },
+    {
+      "source": "4b3b278d",
+      "target": "df1b2db7"
+    },
+    {
+      "source": "c20a1e23",
+      "target": "df1b2db7"
+    },
+    {
+      "source": "e3d7c96f",
+      "target": "df1b2db7"
+    },
+    {
+      "source": "df1b2db7",
+      "target": "08ce64a1"
+    },
+    {
+      "source": "737193b7",
+      "target": "983580b4"
+    },
+    {
+      "source": "247f4246",
+      "target": "983580b4"
+    },
+    {
+      "source": "983580b4",
+      "target": "fb5cb48b"
+    },
+    {
+      "source": "feecba35",
+      "target": "f3134e94"
+    },
+    {
+      "source": "0793e12e",
+      "target": "f3134e94"
+    },
+    {
+      "source": "f3134e94",
+      "target": "e8f271f2"
+    },
+    {
+      "source": "0793e12e",
+      "target": "a998a366"
+    },
+    {
+      "source": "4b3b278d",
+      "target": "a998a366"
+    },
+    {
+      "source": "69af8986",
+      "target": "a998a366"
+    },
+    {
+      "source": "19626a55",
+      "target": "a998a366"
+    },
+    {
+      "source": "2ec70424",
+      "target": "a998a366"
+    },
+    {
+      "source": "a998a366",
+      "target": "51962f63"
+    },
+    {
+      "source": "0793e12e",
+      "target": "0f8051e3"
+    },
+    {
+      "source": "fe369f25",
+      "target": "0f8051e3"
+    },
+    {
+      "source": "4b3b278d",
+      "target": "0f8051e3"
+    },
+    {
+      "source": "19626a55",
+      "target": "0f8051e3"
+    },
+    {
+      "source": "0f8051e3",
+      "target": "3bd274f6"
+    },
+    {
+      "source": "41fef77c",
+      "target": "2ae31082"
+    },
+    {
+      "source": "b9621f16",
+      "target": "2ae31082"
+    },
+    {
+      "source": "cb275f37",
+      "target": "2ae31082"
+    },
+    {
+      "source": "51962f63",
+      "target": "2ae31082"
+    },
+    {
+      "source": "bd825e27",
+      "target": "2ae31082"
+    },
+    {
+      "source": "2ae31082",
+      "target": "5b2db508"
+    },
+    {
+      "source": "c0d63d8a",
+      "target": "18fff40c"
+    },
+    {
+      "source": "18fff40c",
+      "target": "0fb4412f"
+    },
+    {
+      "source": "4b2e8da3",
+      "target": "b44f102f"
+    },
+    {
+      "source": "b44f102f",
+      "target": "d74bf87a"
+    },
+    {
+      "source": "e77fa919",
+      "target": "37469c77"
+    },
+    {
+      "source": "482dc746",
+      "target": "37469c77"
+    },
+    {
+      "source": "b24d4d53",
+      "target": "37469c77"
+    },
+    {
+      "source": "37469c77",
+      "target": "8478b21d"
+    },
+    {
+      "source": "c0d63d8a",
+      "target": "0cd8860a"
+    },
+    {
+      "source": "737193b7",
+      "target": "0cd8860a"
+    },
+    {
+      "source": "d4e51238",
+      "target": "0cd8860a"
+    },
+    {
+      "source": "0cd8860a",
+      "target": "f0890a3e"
+    },
+    {
+      "source": "2974a944",
+      "target": "38c41690"
+    },
+    {
+      "source": "b5b3cdb9",
+      "target": "38c41690"
+    },
+    {
+      "source": "38c41690",
+      "target": "72ac5492"
+    },
+    {
+      "source": "9f1b6dfa",
+      "target": "0532572a"
+    },
+    {
+      "source": "0532572a",
+      "target": "ab72fa71"
+    },
+    {
+      "source": "232e2cca",
+      "target": "0b123058"
+    },
+    {
+      "source": "0b123058",
+      "target": "0d855be7"
+    },
+    {
+      "source": "33ba99e3",
+      "target": "40065cc1"
+    },
+    {
+      "source": "feecba35",
+      "target": "40065cc1"
+    },
+    {
+      "source": "40065cc1",
+      "target": "cd8c6c9b"
+    },
+    {
+      "source": "6af49ac4",
+      "target": "11f0c353"
+    },
+    {
+      "source": "a5a37620",
+      "target": "11f0c353"
+    },
+    {
+      "source": "5c32c481",
+      "target": "11f0c353"
+    },
+    {
+      "source": "11f0c353",
+      "target": "2ababb4f"
+    },
+    {
+      "source": "0793e12e",
+      "target": "ed23b5aa"
+    },
+    {
+      "source": "085e2ecf",
+      "target": "ed23b5aa"
+    },
+    {
+      "source": "b6b5e4b7",
+      "target": "ed23b5aa"
+    },
+    {
+      "source": "ab72fa71",
+      "target": "ed23b5aa"
+    },
+    {
+      "source": "a5d6d0a1",
+      "target": "ed23b5aa"
+    },
+    {
+      "source": "4323d496",
+      "target": "ed23b5aa"
+    },
+    {
+      "source": "e0f3bf99",
+      "target": "ed23b5aa"
+    },
+    {
+      "source": "ab160a29",
+      "target": "ed23b5aa"
+    },
+    {
+      "source": "ed23b5aa",
+      "target": "33ba99e3"
+    },
+    {
+      "source": "12f3dc1a",
+      "target": "a3637716"
+    },
+    {
+      "source": "b6b5e4b7",
+      "target": "a3637716"
+    },
+    {
+      "source": "e0f3bf99",
+      "target": "a3637716"
+    },
+    {
+      "source": "ab160a29",
+      "target": "a3637716"
+    },
+    {
+      "source": "a3637716",
+      "target": "fe697686"
+    },
+    {
+      "source": "fe697686",
+      "target": "3f3db1f8"
+    },
+    {
+      "source": "1498d28d",
+      "target": "3f3db1f8"
+    },
+    {
+      "source": "678e2738",
+      "target": "3f3db1f8"
+    },
+    {
+      "source": "75ca24ec",
+      "target": "3f3db1f8"
+    },
+    {
+      "source": "3f3db1f8",
+      "target": "e01f956a"
+    },
+    {
+      "source": "5e48962a",
+      "target": "22702146"
+    },
+    {
+      "source": "a8a68ef9",
+      "target": "22702146"
+    },
+    {
+      "source": "ac2c2ae7",
+      "target": "22702146"
+    },
+    {
+      "source": "22702146",
+      "target": "29bf0cd4"
+    },
+    {
+      "source": "cd8c6c9b",
+      "target": "825825dd"
+    },
+    {
+      "source": "0793e12e",
+      "target": "825825dd"
+    },
+    {
+      "source": "4d476410",
+      "target": "825825dd"
+    },
+    {
+      "source": "840a8c65",
+      "target": "825825dd"
+    },
+    {
+      "source": "825825dd",
+      "target": "5c32c481"
+    },
+    {
+      "source": "1281ddbe",
+      "target": "a6a1471d"
+    },
+    {
+      "source": "a6a1471d",
+      "target": "a6c906a4"
+    },
+    {
+      "source": "5d8089f3",
+      "target": "65c32e0e"
+    },
+    {
+      "source": "65c32e0e",
+      "target": "700b0ef7"
+    },
+    {
+      "source": "f05472e6",
+      "target": "3822de4b"
+    },
+    {
+      "source": "3822de4b",
+      "target": "b24d4d53"
+    },
+    {
+      "source": "048cf9b5",
+      "target": "051dd409"
+    },
+    {
+      "source": "686d95fb",
+      "target": "051dd409"
+    },
+    {
+      "source": "051dd409",
+      "target": "01904898"
+    },
+    {
+      "source": "0021aad8",
+      "target": "550f6584"
+    },
+    {
+      "source": "550f6584",
+      "target": "8c108bb8"
+    },
+    {
+      "source": "e8d7afb1",
+      "target": "76acf550"
+    },
+    {
+      "source": "76acf550",
+      "target": "90fcac6b"
+    },
+    {
+      "source": "aa122164",
+      "target": "c5df207a"
+    },
+    {
+      "source": "c5df207a",
+      "target": "b54d722a"
+    },
+    {
+      "source": "44dbd733",
+      "target": "8462ad1c"
+    },
+    {
+      "source": "8462ad1c",
+      "target": "2c2c8235"
+    },
+    {
+      "source": "2c2c8235",
+      "target": "16a2df50"
+    },
+    {
+      "source": "16a2df50",
+      "target": "b5b3cdb9"
+    },
+    {
+      "source": "295aa10a",
+      "target": "ac0e4f42"
+    },
+    {
+      "source": "ac0e4f42",
+      "target": "f32c1a4d"
+    },
+    {
+      "source": "403d3f46",
+      "target": "53ebf9be"
+    },
+    {
+      "source": "53ebf9be",
+      "target": "aac97896"
+    },
+    {
+      "source": "02dbdff0",
+      "target": "41522a8b"
+    },
+    {
+      "source": "41522a8b",
+      "target": "2189b526"
+    },
+    {
+      "source": "9baccccd",
+      "target": "68b6080e"
+    },
+    {
+      "source": "68b6080e",
+      "target": "63810fcf"
+    },
+    {
+      "source": "110179f8",
+      "target": "afb029e2"
+    },
+    {
+      "source": "afb029e2",
+      "target": "a412f6fb"
+    },
+    {
+      "source": "99fc06c7",
+      "target": "c25ab460"
+    },
+    {
+      "source": "c25ab460",
+      "target": "5e030a18"
+    },
+    {
+      "source": "b24d4d53",
+      "target": "d7c1ffc9"
+    },
+    {
+      "source": "d3509da8",
+      "target": "d7c1ffc9"
+    },
+    {
+      "source": "f32c1a4d",
+      "target": "d7c1ffc9"
+    },
+    {
+      "source": "d7c1ffc9",
+      "target": "50d93afc"
+    },
+    {
+      "source": "a6c906a4",
+      "target": "9aa26aed"
+    },
+    {
+      "source": "b5b3cdb9",
+      "target": "9aa26aed"
+    },
+    {
+      "source": "9aa26aed",
+      "target": "d3509da8"
+    },
+    {
+      "source": "1349af3e",
+      "target": "04deb956"
+    },
+    {
+      "source": "04deb956",
+      "target": "2974a944"
+    },
+    {
+      "source": "563e6bd6",
+      "target": "f6bc7b99"
+    },
+    {
+      "source": "f6bc7b99",
+      "target": "e77fa919"
+    },
+    {
+      "source": "24aea9b5",
+      "target": "0aa21f06"
+    },
+    {
+      "source": "0aa21f06",
+      "target": "482dc746"
+    },
+    {
+      "source": "ab72fa71",
+      "target": "0e378f1b"
+    },
+    {
+      "source": "0e378f1b",
+      "target": "085e2ecf"
+    }
+  ],
+  "nodes": [
+    {
+      "full_name": "pri_mccp",
+      "id": "83bd4014",
+      "name": "Customer MCCP Plan Primary Node",
+      "tags": ["canada", "mccp", "pri_mccp", "primary", "pyspark", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_customer_product_segment",
+      "id": "0a2bc0ec",
+      "name": "Customer Product Segment Table Primary Node",
+      "tags": [
+        "canada",
+        "customer",
+        "customer_product_segment",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_segment",
+      "id": "f705d31b",
+      "name": "Customer Segment Table",
+      "tags": ["canada", "feature", "pyspark", "segment", "transformation"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_static_master",
+      "id": "cb5aac6f",
+      "name": "Customer Static Master Table",
+      "tags": ["canada", "feature", "master", "pyspark", "static"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_customer_static",
+      "id": "74a7959a",
+      "name": "Customer Static Table Primary Node",
+      "tags": ["canada", "customer", "primary", "pyspark", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_timeseries_master",
+      "id": "f27af8c5",
+      "name": "Customer Timeseries Master Table",
+      "tags": ["canada", "feature", "master", "pyspark", "timeseries"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_email_consent",
+      "id": "09bc84bc",
+      "name": "Email Consent Table Primary Node",
+      "tags": [
+        "canada",
+        "customer",
+        "pri_email_consent",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_core",
+      "id": "9f2c9793",
+      "name": "Feature Node Core",
+      "tags": ["Canada", "core", "feature", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_workplace_add_university_feature",
+      "id": "ca694450",
+      "name": "Feature customer workplace hcp static",
+      "tags": ["canada", "feature", "pyspark", "transformation", "workplace"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_workplace_static",
+      "id": "9dae9667",
+      "name": "Feature customer workplace static",
+      "tags": ["canada", "feature", "pyspark", "transformation", "workplace"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_workplace_timeseries",
+      "id": "df7a20dc",
+      "name": "Feature customer workplace timeseries",
+      "tags": ["canada", "feature", "pyspark", "transformation", "workplace"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_workplace_timeseries_interaction",
+      "id": "e2242cad",
+      "name": "Feature customer workplace timeseries interaction features",
+      "tags": ["canada", "feature", "pyspark", "transformation", "workplace"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_event",
+      "id": "58c85476",
+      "name": "Feature for event attendee",
+      "tags": ["canada", "event", "feature", "pyspark", "timeseries"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_iqvia_dld",
+      "id": "4e2dcd11",
+      "name": "IQVIA  AP Unit Sales Intermediate Node",
+      "tags": ["address", "canada", "intermediate", "pandas"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_sales",
+      "id": "b1b6c5e4",
+      "name": "IQVIA AC Sales Primary Node",
+      "tags": ["canada", "iqvia", "pandas", "primary", "sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_iqvia_dld",
+      "id": "3e144536",
+      "name": "IQVIA AC Unit Sales Intermediate Node",
+      "tags": ["address", "canada", "intermediate", "pandas"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_iqvia_dld",
+      "id": "9a9e279d",
+      "name": "IQVIA AC quarterly Sales Intermediate Node",
+      "tags": ["address", "canada", "intermediate", "iqvia", "pandas"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_ap_sales",
+      "id": "dc04d249",
+      "name": "IQVIA AP Sales Primary Node",
+      "tags": ["canada", "iqvia", "pandas", "primary", "sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_iqvia_dld",
+      "id": "2c7773be",
+      "name": "IQVIA AP quarterly Sales Intermediate Node",
+      "tags": ["address", "canada", "intermediate", "iqvia", "pandas"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_add_influencer_features",
+      "id": "545b5499",
+      "name": "IQVIA Feature Customer Static Influencer Node",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "influencer",
+        "pyspark",
+        "static"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_iqvia_influencer_network",
+      "id": "7d9a7f12",
+      "name": "IQVIA Influencer Network Intermediate Node",
+      "tags": [
+        "canada",
+        "influencer_network",
+        "intermediate",
+        "iqvia",
+        "pyspark"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_iqvia_network",
+      "id": "c813b2f9",
+      "name": "IQVIA Influencer Network Primary Node",
+      "tags": ["canada", "influencer_network", "iqvia", "primary", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_ap_market_cdh_sales",
+      "id": "9aedf92d",
+      "name": "Intermediate Node for AP market sales",
+      "tags": ["ap_sales", "canada", "intermediate", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_ap_market_cdh_sales_unit",
+      "id": "a24b607b",
+      "name": "Intermediate Node for AP market sales unit",
+      "tags": ["ap_sales_unit", "canada", "intermediate", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_ca_state_id_nm_map",
+      "id": "5b7de67c",
+      "name": "Intermediate Node for CA state name to id map",
+      "tags": ["addr_state_id_nm", "canada", "intermediate", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_cph_survey",
+      "id": "e373b96a",
+      "name": "Intermediate Node for CPH survey for customer experiance",
+      "tags": ["canada", "cph_survey", "intermediate", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_currency_rate",
+      "id": "72585936",
+      "name": "Intermediate Node for Currency Exchange rate",
+      "tags": ["canada", "int_currency", "intermediate", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_salesrep_suggestion",
+      "id": "4085f67a",
+      "name": "Intermediate Node for Salesrep Suggestion",
+      "tags": ["canada", "intermediate", "pyspark", "suggestion"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_salesrep_suggestion_factor",
+      "id": "12adaeba",
+      "name": "Intermediate Node for Salesrep Suggestion Factor",
+      "tags": ["canada", "intermediate", "pyspark", "suggestion"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_abm_fsa_pilot_region",
+      "id": "f41f6938",
+      "name": "Intermediate Node for abm pilot region",
+      "tags": ["abm_pilot_region", "canada", "intermediate", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_pilot_region",
+      "id": "2e10be1b",
+      "name": "Intermediate Node for int pilot region",
+      "tags": ["canada", "intermediate", "pilot_region", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_iqvia_outlet_sales",
+      "id": "ae9c2b73",
+      "name": "Intermediate Node for iqvia outlet sales",
+      "tags": ["canada", "intermediate", "outlet_sales", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_legacy_newsletter_bounce",
+      "id": "aa0a6c5e",
+      "name": "Intermediate Node for legacy newsletter bounce",
+      "tags": [
+        "canada",
+        "int_legacy_newsletter_bounce",
+        "intermediate",
+        "pyspark"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_legacy_newsletter",
+      "id": "47c34d93",
+      "name": "Intermediate Node for legacy newsletter campaign",
+      "tags": ["canada", "int_legacy_newsletter", "intermediate", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_legacy_newsletter_click",
+      "id": "34dd1710",
+      "name": "Intermediate Node for legacy newsletter click",
+      "tags": [
+        "canada",
+        "int_legacy_newsletter_click",
+        "intermediate",
+        "pyspark"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_legacy_newsletter_open",
+      "id": "20ff77c1",
+      "name": "Intermediate Node for legacy newsletter open",
+      "tags": [
+        "canada",
+        "int_legacy_newsletter_open",
+        "intermediate",
+        "pyspark"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_newsletter",
+      "id": "669b1a6e",
+      "name": "Intermediate Node for newsletter",
+      "tags": ["canada", "int_newsletter", "intermediate", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_event",
+      "id": "5574bb9c",
+      "name": "Intermediate Node for non legacy event",
+      "tags": [
+        "canada",
+        "event",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_event_attendee",
+      "id": "6c4d93c7",
+      "name": "Intermediate Node for non legacy event attendee",
+      "tags": [
+        "canada",
+        "event_attendee",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_iqvia_onekey_individual",
+      "id": "6834151b",
+      "name": "Intermediate Node for onekey individual",
+      "tags": ["canada", "intermediate", "onekey_individual", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_abm_regions",
+      "id": "eb7d436f",
+      "name": "Intermediate Node hcp region mapping",
+      "tags": ["canada", "intermediate", "pyspark", "region", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_key_message_cat",
+      "id": "f1fd8814",
+      "name": "Key Message Category Table Primary Node",
+      "tags": [
+        "canada",
+        "interaction",
+        "pri_key_message_cat",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_cust_ts_sales",
+      "id": "306cde0d",
+      "name": "Monthly customer timeseries sales node",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "pyspark",
+        "sales",
+        "timeseries"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_interaction_monthly",
+      "id": "aaaa722e",
+      "name": "Monthly interaction feature node",
+      "tags": ["canada", "feature", "interaction", "pyspark", "timeseries"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_sales",
+      "id": "563bfb0e",
+      "name": "Monthly penetration and potential by acct and time",
+      "tags": ["canada", "feature", "iqvia", "pandas", "sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_normalise_ap_sales",
+      "id": "9875ee3c",
+      "name": "Normalise AP Rx to DOT",
+      "tags": ["canada", "feature", "iqvia", "pandas", "sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_normalise_sales",
+      "id": "a26f90ec",
+      "name": "Normalise Rx to DOT",
+      "tags": ["canada", "feature", "iqvia", "pandas", "sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_event",
+      "id": "62304473",
+      "name": "Primary Node Event",
+      "tags": [
+        "canada",
+        "interaction",
+        "pri_event",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_legacy_newsletter",
+      "id": "d5a7683b",
+      "name": "Primary Node Legacy Newsletter",
+      "tags": ["Canada", "pri_legacy_newsletter", "primary", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_newsletter",
+      "id": "1e5c0441",
+      "name": "Primary Node Newsletter",
+      "tags": ["Canada", "pri_newsletter", "primary", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_salesrep_suggestion",
+      "id": "468203a6",
+      "name": "Primary Node Sales Rep Suggestion",
+      "tags": ["Canada", "pri_suggestion", "primary", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_iqvia_sales",
+      "id": "1cee0253",
+      "name": "Primary Node iqvia outlet sales",
+      "tags": ["Canada", "pri_outlet_sales", "primary", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_cust_pilot_status",
+      "id": "e63c92cc",
+      "name": "Primary Node pilot region customer",
+      "tags": ["Canada", "pri_pilot_region_cust", "primary", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_ap_market_cdh_sales",
+      "id": "55bab78d",
+      "name": "Primary Node total AP sales",
+      "tags": ["Canada", "pri_ap_sales_cdh", "primary", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_product_dot",
+      "id": "b6a21bd2",
+      "name": "Product Duration of Treatment Table Primary Node",
+      "tags": ["canada", "pri_product_dot", "primary", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_reference_postcode_to_metro_map",
+      "id": "14cd8ef4",
+      "name": "Reference Node for all canada postcode to metro mapping",
+      "tags": ["canada", "intermediate", "postcode_metro_map", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_reference_metro_category_size",
+      "id": "b7b29641",
+      "name": "Reference Node for all metro category base on size and population",
+      "tags": ["canada", "intermediate", "metro_category", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_conversion_brand_adoption",
+      "id": "46354984",
+      "name": "Reporting Conversion Brand Adoption Node",
+      "tags": ["canada", "conversion", "pyspark", "reporting"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_conversion_core",
+      "id": "771cdeda",
+      "name": "Reporting Conversion Core Node",
+      "tags": ["canada", "conversion", "pyspark", "reporting", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_conversion_db_load",
+      "id": "9df3c9bf",
+      "name": "Reporting Conversion DB Load Node",
+      "tags": ["canada", "conversion", "pyspark", "reporting", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_conversion_email",
+      "id": "c67256de",
+      "name": "Reporting Conversion Email Node",
+      "tags": ["canada", "conversion", "pyspark", "reporting", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_conversion_interaction",
+      "id": "c3a1f64a",
+      "name": "Reporting Conversion Interaction Node",
+      "tags": ["canada", "conversion", "pyspark", "reporting", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_conversion_mccp",
+      "id": "e1bd4e54",
+      "name": "Reporting Conversion MCCP Node",
+      "tags": ["canada", "conversion", "mccp", "pyspark", "reporting", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_conversion_newsletter",
+      "id": "8f059fa1",
+      "name": "Reporting Conversion Newsletter Node",
+      "tags": ["canada", "conversion", "pyspark", "reporting", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_normalise_sales",
+      "id": "f6f13280",
+      "name": "Reporting Layer for nomalising sales",
+      "tags": ["canada", "pyspark", "reporting", "rx_sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_suggestion_can",
+      "id": "576cdeab",
+      "name": "Reporting Suggestion DB Load",
+      "tags": ["canada", "pyspark", "reporting", "suggestion"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_tsa_cad_sales",
+      "id": "17776612",
+      "name": "Reporting TSA Cad Sales Node",
+      "tags": ["canada", "pyspark", "reporting", "tsa_sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_tsa_w_cad_xponent_sales",
+      "id": "a531c2dd",
+      "name": "Reporting TSA Cad ms based on Xponent Sales Node",
+      "tags": ["canada", "pyspark", "reporting", "tsa_sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_tsa_sales",
+      "id": "df1b2db7",
+      "name": "Reporting TSA Index Sales Node",
+      "tags": ["canada", "pyspark", "reporting", "tsa_sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_tsa_spaf_sales",
+      "id": "983580b4",
+      "name": "Reporting TSA Spaf Sales Node",
+      "tags": ["canada", "pyspark", "reporting", "tsa_sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_tsa_w_xponent_sales",
+      "id": "f3134e94",
+      "name": "Reporting TSA with Xponent Sales Node",
+      "tags": ["canada", "pyspark", "reporting", "tsa_sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_static_core",
+      "id": "a998a366",
+      "name": "Reporting layer for Static Core Table",
+      "tags": ["canada", "core", "pyspark", "reporting", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_suggestion",
+      "id": "0f8051e3",
+      "name": "Reporting layer for Suggestion table",
+      "tags": ["canada", "pyspark", "reporting", "suggestion"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_rx_sales",
+      "id": "2ae31082",
+      "name": "Reporting layer for Xponent sales",
+      "tags": ["canada", "pyspark", "reporting", "rx_sales"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_brand_adoption",
+      "id": "18fff40c",
+      "name": "Reporting layer for brand adoption table",
+      "tags": ["brand_adoption", "canada", "pyspark", "reporting", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "rpt_customer_experience",
+      "id": "b44f102f",
+      "name": "Reporting layer for customer experience",
+      "tags": ["canada", "pyspark", "reporting", "suggestion", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_representative",
+      "id": "37469c77",
+      "name": "Representative Table Primary Node",
+      "tags": ["canada", "primary", "pyspark", "representative"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_segment",
+      "id": "0cd8860a",
+      "name": "Segment table for export",
+      "tags": ["canada", "feature", "pyspark", "segment", "transformation"],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_email_product",
+      "id": "38c41690",
+      "name": "Sent Email Primary Node",
+      "tags": ["canada", "email", "interaction", "primary", "pyspark", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_account",
+      "id": "0532572a",
+      "name": "Veeva Account Intermediate Node",
+      "tags": [
+        "account",
+        "canada",
+        "customer",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_address",
+      "id": "0b123058",
+      "name": "Veeva Address Intermediate Node",
+      "tags": [
+        "address",
+        "canada",
+        "customer",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_static_add_sales_features",
+      "id": "40065cc1",
+      "name": "Veeva Feature Customer Early Adopter Node",
+      "tags": ["canada", "customer", "feature", "pyspark", "static"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_add_location_features_canada",
+      "id": "11f0c353",
+      "name": "Veeva Feature Customer Location Node",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "location",
+        "pyspark",
+        "static"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_static",
+      "id": "ed23b5aa",
+      "name": "Veeva Feature Customer Node",
+      "tags": ["canada", "customer", "feature", "pyspark", "static"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_timeseries_consent",
+      "id": "a3637716",
+      "name": "Veeva Feature Customer Timeseries Consent Node",
+      "tags": [
+        "canada",
+        "consent",
+        "customer",
+        "feature",
+        "pyspark",
+        "timeseries"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_timeseries_mccp",
+      "id": "3f3db1f8",
+      "name": "Veeva Feature Customer Timeseries MCCP Node",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "mccp",
+        "pyspark",
+        "timeseries"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_customer_timeseries_influence",
+      "id": "22702146",
+      "name": "Veeva Feature Customer Timeseries Network Sales Node",
+      "tags": ["canada", "customer", "feature", "pyspark", "transformation"],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_add_university_feature",
+      "id": "825825dd",
+      "name": "Veeva Feature Customer university",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "pyspark",
+        "static",
+        "university"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_call2_detail",
+      "id": "a6a1471d",
+      "name": "Veeva Intermediate Call Detail Node",
+      "tags": [
+        "call2_detail",
+        "canada",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_call2_key_message",
+      "id": "65c32e0e",
+      "name": "Veeva Intermediate Call Key Message Node",
+      "tags": [
+        "call2_key_message",
+        "canada",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_call2",
+      "id": "3822de4b",
+      "name": "Veeva Intermediate Call Node",
+      "tags": [
+        "call2",
+        "canada",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_reference_key_message_cat",
+      "id": "051dd409",
+      "name": "Veeva Intermediate Key Message Category Node",
+      "tags": ["canada", "intermediate", "key_message_cat", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_key_message",
+      "id": "550f6584",
+      "name": "Veeva Intermediate Key Message Node",
+      "tags": [
+        "canada",
+        "interaction",
+        "intermediate",
+        "key_message",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_reference_product_dot",
+      "id": "76acf550",
+      "name": "Veeva Intermediate Product Duration of Treatment Node",
+      "tags": ["canada", "intermediate", "product_dot", "pyspark"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_product_metric",
+      "id": "c5df207a",
+      "name": "Veeva Intermediate Product Metric Node",
+      "tags": ["canada", "intermediate", "product_metric", "pyspark", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_product",
+      "id": "8462ad1c",
+      "name": "Veeva Intermediate Product Node",
+      "tags": ["canada", "intermediate", "product", "pyspark", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_product_rename_can",
+      "id": "16a2df50",
+      "name": "Veeva Intermediate Product Rename Node",
+      "tags": ["canada", "intermediate", "product_rename", "pyspark", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_recordtype",
+      "id": "ac0e4f42",
+      "name": "Veeva Intermediate Recordtype Node",
+      "tags": ["canada", "intermediate", "pyspark", "recordtype", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_mc_cycle",
+      "id": "53ebf9be",
+      "name": "Veeva MC Cycle Intermediate Node",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle",
+        "mccp",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_mc_cycle_plan_channel",
+      "id": "41522a8b",
+      "name": "Veeva MC Cycle Plan Channel Intermediate Node",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle_plan_channel",
+        "mccp",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_mc_cycle_plan",
+      "id": "68b6080e",
+      "name": "Veeva MC Cycle Plan Intermediate Node",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle_plan",
+        "mccp",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_mc_cycle_plan_target",
+      "id": "afb029e2",
+      "name": "Veeva MC Cycle Plan Target Intermediate Node",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle_plan_target",
+        "mccp",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_multichannel_consent",
+      "id": "c25ab460",
+      "name": "Veeva Multichannel Consent Intermediate Node",
+      "tags": [
+        "canada",
+        "consent",
+        "customer",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_customer_interaction",
+      "id": "d7c1ffc9",
+      "name": "Veeva Primary Call Node",
+      "tags": [
+        "canada",
+        "interaction",
+        "pri_customer_interaction",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_interaction_product",
+      "id": "9aa26aed",
+      "name": "Veeva Primary Call Product Node",
+      "tags": [
+        "canada",
+        "interaction",
+        "pri_interaction_product",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_sent_email",
+      "id": "04deb956",
+      "name": "Veeva Sent Email Intermediate Node",
+      "tags": [
+        "canada",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "sent_email",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_user",
+      "id": "f6bc7b99",
+      "name": "Veeva User Intermediate Node",
+      "tags": ["canada", "intermediate", "pyspark", "user", "veeva"],
+      "type": "task"
+    },
+    {
+      "full_name": "int_veeva_ac1_userrole",
+      "id": "0aa21f06",
+      "name": "Veeva User Role Intermediate Node",
+      "tags": [
+        "canada",
+        "intermediate",
+        "pyspark",
+        "user",
+        "userrole",
+        "veeva"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "pri_customer_workplace",
+      "id": "0e378f1b",
+      "name": "Workplace Primary Node",
+      "tags": [
+        "canada",
+        "customer",
+        "primary",
+        "pyspark",
+        "veeva",
+        "workplace"
+      ],
+      "type": "task"
+    },
+    {
+      "full_name": "fea_cust_ts_sales",
+      "id": "12f3dc1a",
+      "name": "Fea Cust Ts Sales",
+      "tags": [
+        "canada",
+        "consent",
+        "customer",
+        "feature",
+        "pyspark",
+        "sales",
+        "timeseries"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_segment",
+      "id": "c0d63d8a",
+      "name": "Fea Customer Segment",
+      "tags": [
+        "brand_adoption",
+        "canada",
+        "conversion",
+        "feature",
+        "pyspark",
+        "reporting",
+        "segment",
+        "transformation",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_static",
+      "id": "33ba99e3",
+      "name": "Fea Customer Static",
+      "tags": ["canada", "customer", "feature", "pyspark", "static"],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_static_master",
+      "id": "34be2a81",
+      "name": "Fea Customer Static Master",
+      "tags": [
+        "canada",
+        "feature",
+        "master",
+        "pyspark",
+        "segment",
+        "static",
+        "transformation"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_static_w_hcp_university_features",
+      "id": "5c32c481",
+      "name": "Fea Customer Static W Hcp University Features",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "location",
+        "pyspark",
+        "static",
+        "university"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_static_w_influencer_features",
+      "id": "36f57383",
+      "name": "Fea Customer Static W Influencer Features",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "influencer",
+        "master",
+        "pyspark",
+        "static"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_static_w_location_features",
+      "id": "2ababb4f",
+      "name": "Fea Customer Static W Location Features",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "influencer",
+        "location",
+        "pyspark",
+        "static"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_static_w_sales_features",
+      "id": "cd8c6c9b",
+      "name": "Fea Customer Static W Sales Features",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "pyspark",
+        "static",
+        "university"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_timeseries_consent",
+      "id": "fe697686",
+      "name": "Fea Customer Timeseries Consent",
+      "tags": [
+        "canada",
+        "consent",
+        "customer",
+        "feature",
+        "mccp",
+        "pyspark",
+        "timeseries"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_timeseries_master",
+      "id": "a7034370",
+      "name": "Fea Customer Timeseries Master",
+      "tags": [
+        "canada",
+        "feature",
+        "master",
+        "pyspark",
+        "segment",
+        "timeseries",
+        "transformation"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_timeseries_mccp",
+      "id": "e01f956a",
+      "name": "Fea Customer Timeseries Mccp",
+      "tags": [
+        "canada",
+        "customer",
+        "event",
+        "feature",
+        "mccp",
+        "pyspark",
+        "timeseries"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_timeseries_network_sales",
+      "id": "29bf0cd4",
+      "name": "Fea Customer Timeseries Network Sales",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "master",
+        "pyspark",
+        "timeseries",
+        "transformation"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_workplace_static",
+      "id": "f76a85c4",
+      "name": "Fea Customer Workplace Static",
+      "tags": ["canada", "feature", "pyspark", "transformation", "workplace"],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_workplace_static_w_hcp_univ",
+      "id": "a6124308",
+      "name": "Fea Customer Workplace Static W Hcp Univ",
+      "tags": [
+        "canada",
+        "feature",
+        "master",
+        "pyspark",
+        "static",
+        "transformation",
+        "workplace"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_workplace_timeseries",
+      "id": "e8f92e7f",
+      "name": "Fea Customer Workplace Timeseries",
+      "tags": [
+        "canada",
+        "feature",
+        "master",
+        "pyspark",
+        "timeseries",
+        "transformation",
+        "workplace"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_customer_workplace_timeseries_interaction",
+      "id": "59a2a255",
+      "name": "Fea Customer Workplace Timeseries Interaction",
+      "tags": ["canada", "feature", "pyspark", "transformation", "workplace"],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_event",
+      "id": "150b4113",
+      "name": "Fea Event",
+      "tags": ["canada", "event", "feature", "master", "pyspark", "timeseries"],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_interaction_monthly",
+      "id": "39c2d7a9",
+      "name": "Fea Interaction Monthly",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "interaction",
+        "pyspark",
+        "sales",
+        "timeseries"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_normalised_ap_sales_brand",
+      "id": "bd457016",
+      "name": "Fea Normalised Ap Sales Brand",
+      "tags": ["canada", "feature", "iqvia", "pandas", "sales"],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_normalised_sales_brand",
+      "id": "ac2c2ae7",
+      "name": "Fea Normalised Sales Brand",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "iqvia",
+        "pandas",
+        "pyspark",
+        "sales",
+        "transformation"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_sales_acct_time",
+      "id": "8135e344",
+      "name": "Fea Sales Acct Time",
+      "tags": [
+        "Canada",
+        "canada",
+        "core",
+        "customer",
+        "feature",
+        "iqvia",
+        "pandas",
+        "pyspark",
+        "sales",
+        "timeseries"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_segment",
+      "id": "f0890a3e",
+      "name": "Fea Segment",
+      "tags": ["canada", "feature", "pyspark", "segment", "transformation"],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_static_core",
+      "id": "a5d6d0a1",
+      "name": "Fea Static Core",
+      "tags": [
+        "Canada",
+        "canada",
+        "core",
+        "customer",
+        "feature",
+        "master",
+        "pyspark",
+        "static"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "fea_timeseries_core",
+      "id": "5e48962a",
+      "name": "Fea Timeseries Core",
+      "tags": [
+        "Canada",
+        "canada",
+        "core",
+        "customer",
+        "feature",
+        "interaction",
+        "pyspark",
+        "timeseries",
+        "transformation"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_abm_fsa_pilot_region",
+      "id": "247f4246",
+      "name": "Int Abm Fsa Pilot Region",
+      "tags": [
+        "abm_pilot_region",
+        "canada",
+        "intermediate",
+        "pyspark",
+        "reporting",
+        "tsa_sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_abm_regions",
+      "id": "444e581a",
+      "name": "Int Abm Regions",
+      "tags": ["canada", "intermediate", "pyspark", "region", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "int_ap_market_cdh_sales",
+      "id": "d8504b6c",
+      "name": "Int Ap Market Cdh Sales",
+      "tags": [
+        "Canada",
+        "ap_sales",
+        "canada",
+        "intermediate",
+        "pri_ap_sales_cdh",
+        "primary",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_ap_market_cdh_sales_unit",
+      "id": "a7bbd0dc",
+      "name": "Int Ap Market Cdh Sales Unit",
+      "tags": [
+        "Canada",
+        "ap_sales_unit",
+        "canada",
+        "intermediate",
+        "pri_ap_sales_cdh",
+        "primary",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_ca_state_id_nm_map",
+      "id": "4b3b278d",
+      "name": "Int Ca State Id Nm Map",
+      "tags": [
+        "Canada",
+        "addr_state_id_nm",
+        "canada",
+        "core",
+        "intermediate",
+        "pri_ap_sales_cdh",
+        "primary",
+        "pyspark",
+        "reporting",
+        "suggestion",
+        "tsa_sales",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_cph_survey",
+      "id": "4b2e8da3",
+      "name": "Int Cph Survey",
+      "tags": [
+        "canada",
+        "cph_survey",
+        "intermediate",
+        "pyspark",
+        "reporting",
+        "suggestion",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_currency_rate",
+      "id": "c20a1e23",
+      "name": "Int Currency Rate",
+      "tags": [
+        "canada",
+        "int_currency",
+        "intermediate",
+        "pyspark",
+        "reporting",
+        "tsa_sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_event",
+      "id": "5e7d5768",
+      "name": "Int Event",
+      "tags": [
+        "canada",
+        "event",
+        "interaction",
+        "intermediate",
+        "pri_event",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_event_attendee",
+      "id": "03348a56",
+      "name": "Int Event Attendee",
+      "tags": [
+        "canada",
+        "event_attendee",
+        "interaction",
+        "intermediate",
+        "pri_event",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_iqvia_ac_sales_qtr",
+      "id": "79712e8d",
+      "name": "Int Iqvia Ac Sales Qtr",
+      "tags": [
+        "address",
+        "canada",
+        "intermediate",
+        "iqvia",
+        "pandas",
+        "primary",
+        "sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_iqvia_ac_sales_units",
+      "id": "db335111",
+      "name": "Int Iqvia Ac Sales Units",
+      "tags": [
+        "address",
+        "canada",
+        "intermediate",
+        "iqvia",
+        "pandas",
+        "primary",
+        "sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_iqvia_ap_sales_qtr",
+      "id": "e9ad3988",
+      "name": "Int Iqvia Ap Sales Qtr",
+      "tags": [
+        "address",
+        "canada",
+        "intermediate",
+        "iqvia",
+        "pandas",
+        "primary",
+        "sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_iqvia_ap_sales_units",
+      "id": "de003873",
+      "name": "Int Iqvia Ap Sales Units",
+      "tags": [
+        "address",
+        "canada",
+        "intermediate",
+        "iqvia",
+        "pandas",
+        "primary",
+        "sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_iqvia_network",
+      "id": "3c7eb97c",
+      "name": "Int Iqvia Network",
+      "tags": [
+        "canada",
+        "influencer_network",
+        "intermediate",
+        "iqvia",
+        "primary",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_iqvia_onekey_individual",
+      "id": "4d476410",
+      "name": "Int Iqvia Onekey Individual",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "intermediate",
+        "onekey_individual",
+        "pyspark",
+        "static",
+        "transformation",
+        "university",
+        "workplace"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_iqvia_outlet_sales",
+      "id": "18e3a472",
+      "name": "Int Iqvia Outlet Sales",
+      "tags": [
+        "Canada",
+        "canada",
+        "intermediate",
+        "outlet_sales",
+        "pri_outlet_sales",
+        "primary",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_legacy_newsletter",
+      "id": "1b6b5be1",
+      "name": "Int Legacy Newsletter",
+      "tags": [
+        "Canada",
+        "canada",
+        "int_legacy_newsletter",
+        "intermediate",
+        "pri_legacy_newsletter",
+        "primary",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_legacy_newsletter_bounce",
+      "id": "ffd2a497",
+      "name": "Int Legacy Newsletter Bounce",
+      "tags": [
+        "canada",
+        "int_legacy_newsletter_bounce",
+        "intermediate",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_legacy_newsletter_click",
+      "id": "58b74cda",
+      "name": "Int Legacy Newsletter Click",
+      "tags": [
+        "Canada",
+        "canada",
+        "int_legacy_newsletter_click",
+        "intermediate",
+        "pri_legacy_newsletter",
+        "primary",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_legacy_newsletter_open",
+      "id": "2a67f17f",
+      "name": "Int Legacy Newsletter Open",
+      "tags": [
+        "Canada",
+        "canada",
+        "int_legacy_newsletter_open",
+        "intermediate",
+        "pri_legacy_newsletter",
+        "primary",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_newsletter",
+      "id": "4a30d19a",
+      "name": "Int Newsletter",
+      "tags": [
+        "Canada",
+        "canada",
+        "int_newsletter",
+        "intermediate",
+        "pri_newsletter",
+        "primary",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_pilot_region",
+      "id": "8cbf5689",
+      "name": "Int Pilot Region",
+      "tags": [
+        "Canada",
+        "canada",
+        "intermediate",
+        "pilot_region",
+        "pri_pilot_region_cust",
+        "primary",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_reference_key_message_cat",
+      "id": "01904898",
+      "name": "Int Reference Key Message Cat",
+      "tags": [
+        "canada",
+        "interaction",
+        "intermediate",
+        "key_message_cat",
+        "pri_key_message_cat",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_reference_metro_category",
+      "id": "a5a37620",
+      "name": "Int Reference Metro Category",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "intermediate",
+        "location",
+        "metro_category",
+        "pyspark",
+        "static"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_reference_postcode_to_metro_map",
+      "id": "6af49ac4",
+      "name": "Int Reference Postcode To Metro Map",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "intermediate",
+        "location",
+        "postcode_metro_map",
+        "pyspark",
+        "static"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_reference_product_dot",
+      "id": "90fcac6b",
+      "name": "Int Reference Product Dot",
+      "tags": [
+        "canada",
+        "intermediate",
+        "pri_product_dot",
+        "primary",
+        "product_dot",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_salesrep_suggestion",
+      "id": "18391468",
+      "name": "Int Salesrep Suggestion",
+      "tags": [
+        "Canada",
+        "canada",
+        "intermediate",
+        "pri_suggestion",
+        "primary",
+        "pyspark",
+        "suggestion"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_salesrep_suggestion_factor",
+      "id": "69528471",
+      "name": "Int Salesrep Suggestion Factor",
+      "tags": [
+        "Canada",
+        "canada",
+        "intermediate",
+        "pri_suggestion",
+        "primary",
+        "pyspark",
+        "suggestion"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_account",
+      "id": "ab72fa71",
+      "name": "Int Veeva Ac1 Account",
+      "tags": [
+        "account",
+        "canada",
+        "customer",
+        "feature",
+        "intermediate",
+        "primary",
+        "pyspark",
+        "static",
+        "veeva",
+        "workplace"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_address",
+      "id": "0d855be7",
+      "name": "Int Veeva Ac1 Address",
+      "tags": [
+        "address",
+        "canada",
+        "customer",
+        "intermediate",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_call2",
+      "id": "b24d4d53",
+      "name": "Int Veeva Ac1 Call2",
+      "tags": [
+        "call2",
+        "canada",
+        "interaction",
+        "intermediate",
+        "pri_customer_interaction",
+        "primary",
+        "pyspark",
+        "representative",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_call2_detail",
+      "id": "a6c906a4",
+      "name": "Int Veeva Ac1 Call2 Detail",
+      "tags": [
+        "call2_detail",
+        "canada",
+        "interaction",
+        "intermediate",
+        "pri_interaction_product",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_call2_key_message",
+      "id": "700b0ef7",
+      "name": "Int Veeva Ac1 Call2 Key Message",
+      "tags": [
+        "call2_key_message",
+        "canada",
+        "interaction",
+        "intermediate",
+        "pri_key_message_cat",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_key_message",
+      "id": "8c108bb8",
+      "name": "Int Veeva Ac1 Key Message",
+      "tags": [
+        "canada",
+        "interaction",
+        "intermediate",
+        "key_message",
+        "pri_key_message_cat",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_multichannel_consent",
+      "id": "5e030a18",
+      "name": "Int Veeva Ac1 Multichannel Consent",
+      "tags": [
+        "canada",
+        "consent",
+        "customer",
+        "intermediate",
+        "pri_email_consent",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_product",
+      "id": "2c2c8235",
+      "name": "Int Veeva Ac1 Product",
+      "tags": [
+        "canada",
+        "intermediate",
+        "product",
+        "product_rename",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_product_metric",
+      "id": "b54d722a",
+      "name": "Int Veeva Ac1 Product Metric",
+      "tags": [
+        "canada",
+        "customer",
+        "customer_product_segment",
+        "intermediate",
+        "primary",
+        "product_metric",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_product_renamed",
+      "id": "b5b3cdb9",
+      "name": "Int Veeva Ac1 Product Renamed",
+      "tags": [
+        "canada",
+        "customer",
+        "customer_product_segment",
+        "email",
+        "interaction",
+        "intermediate",
+        "pri_email_consent",
+        "pri_interaction_product",
+        "primary",
+        "product_rename",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_recordtype",
+      "id": "f32c1a4d",
+      "name": "Int Veeva Ac1 Recordtype",
+      "tags": [
+        "canada",
+        "customer",
+        "interaction",
+        "intermediate",
+        "pri_customer_interaction",
+        "pri_email_consent",
+        "primary",
+        "pyspark",
+        "recordtype",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_sent_email",
+      "id": "2974a944",
+      "name": "Int Veeva Ac1 Sent Email",
+      "tags": [
+        "canada",
+        "email",
+        "interaction",
+        "intermediate",
+        "primary",
+        "pyspark",
+        "sent_email",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_user",
+      "id": "e77fa919",
+      "name": "Int Veeva Ac1 User",
+      "tags": [
+        "canada",
+        "intermediate",
+        "primary",
+        "pyspark",
+        "representative",
+        "user",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_ac1_userrole",
+      "id": "482dc746",
+      "name": "Int Veeva Ac1 Userrole",
+      "tags": [
+        "canada",
+        "intermediate",
+        "primary",
+        "pyspark",
+        "representative",
+        "user",
+        "userrole",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_mc_cycle",
+      "id": "aac97896",
+      "name": "Int Veeva Mc Cycle",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle",
+        "mccp",
+        "pri_mccp",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_mc_cycle_plan",
+      "id": "63810fcf",
+      "name": "Int Veeva Mc Cycle Plan",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle_plan",
+        "mccp",
+        "pri_mccp",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_mc_cycle_plan_channel",
+      "id": "2189b526",
+      "name": "Int Veeva Mc Cycle Plan Channel",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle_plan_channel",
+        "mccp",
+        "pri_mccp",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "int_veeva_mc_cycle_plan_target",
+      "id": "a412f6fb",
+      "name": "Int Veeva Mc Cycle Plan Target",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle_plan_target",
+        "mccp",
+        "pri_mccp",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "params:acct_status",
+      "id": "82e66c83",
+      "name": "Params:acct Status",
+      "tags": ["canada", "customer", "primary", "pyspark", "veeva"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:cad_preference_threshold",
+      "id": "e36ca762",
+      "name": "Params:cad Preference Threshold",
+      "tags": ["canada", "feature", "pyspark", "segment", "transformation"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:can_hcp_spec",
+      "id": "4323d496",
+      "name": "Params:can Hcp Spec",
+      "tags": ["canada", "customer", "feature", "pyspark", "static"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:can_l_spec",
+      "id": "69af8986",
+      "name": "Params:can L Spec",
+      "tags": [
+        "Canada",
+        "canada",
+        "core",
+        "feature",
+        "pyspark",
+        "reporting",
+        "veeva"
+      ],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:date_range",
+      "id": "2c540ade",
+      "name": "Params:date Range",
+      "tags": ["Canada", "core", "feature", "pyspark"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:fea_ac_sales_product_mapping",
+      "id": "0e51b737",
+      "name": "Params:fea Ac Sales Product Mapping",
+      "tags": ["canada", "feature", "iqvia", "pandas", "sales"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:fea_ap_sales_product_mapping",
+      "id": "76c8a053",
+      "name": "Params:fea Ap Sales Product Mapping",
+      "tags": ["canada", "feature", "iqvia", "pandas", "sales"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:fea_can_consent_product_include_null",
+      "id": "ab160a29",
+      "name": "Params:fea Can Consent Product Include Null",
+      "tags": [
+        "canada",
+        "consent",
+        "customer",
+        "feature",
+        "pyspark",
+        "static",
+        "timeseries"
+      ],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:fea_can_consent_product_patterns",
+      "id": "e0f3bf99",
+      "name": "Params:fea Can Consent Product Patterns",
+      "tags": [
+        "canada",
+        "consent",
+        "customer",
+        "feature",
+        "pyspark",
+        "static",
+        "timeseries"
+      ],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:fea_can_mccp_channel_regex_list",
+      "id": "75ca24ec",
+      "name": "Params:fea Can Mccp Channel Regex List",
+      "tags": [
+        "canada",
+        "conversion",
+        "customer",
+        "feature",
+        "mccp",
+        "pyspark",
+        "reporting",
+        "timeseries",
+        "veeva"
+      ],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:fea_can_mccp_regex_list",
+      "id": "678e2738",
+      "name": "Params:fea Can Mccp Regex List",
+      "tags": [
+        "canada",
+        "conversion",
+        "customer",
+        "feature",
+        "mccp",
+        "pyspark",
+        "reporting",
+        "timeseries",
+        "veeva"
+      ],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:fea_channel_type_cols",
+      "id": "ec4d9f50",
+      "name": "Params:fea Channel Type Cols",
+      "tags": ["canada", "feature", "interaction", "pyspark", "timeseries"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:int_area_param_dict",
+      "id": "e12ec63c",
+      "name": "Params:int Area Param Dict",
+      "tags": [
+        "abm_pilot_region",
+        "canada",
+        "intermediate",
+        "pilot_region",
+        "pyspark"
+      ],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:is_person",
+      "id": "308e7328",
+      "name": "Params:is Person",
+      "tags": ["canada", "customer", "primary", "pyspark", "veeva"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:pri_can_newsletter_join_cols",
+      "id": "0bdf7355",
+      "name": "Params:pri Can Newsletter Join Cols",
+      "tags": ["Canada", "pri_legacy_newsletter", "primary", "pyspark"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:pri_kmcat_columns",
+      "id": "099b15a3",
+      "name": "Params:pri Kmcat Columns",
+      "tags": [
+        "canada",
+        "feature",
+        "interaction",
+        "pri_key_message_cat",
+        "primary",
+        "pyspark",
+        "timeseries",
+        "veeva"
+      ],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:rpt_can_segment_mapping",
+      "id": "2ec70424",
+      "name": "Params:rpt Can Segment Mapping",
+      "tags": ["canada", "core", "pyspark", "reporting", "veeva"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:rpt_conversion_interaction_params_can",
+      "id": "f0e7f12b",
+      "name": "Params:rpt Conversion Interaction Params Can",
+      "tags": ["canada", "conversion", "pyspark", "reporting", "veeva"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:rpt_country_can",
+      "id": "19626a55",
+      "name": "Params:rpt Country Can",
+      "tags": ["canada", "core", "pyspark", "reporting", "suggestion", "veeva"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:rpt_sales_product_mapping",
+      "id": "bd825e27",
+      "name": "Params:rpt Sales Product Mapping",
+      "tags": ["canada", "pyspark", "reporting", "rx_sales"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:rpt_tsa_sales_starting_date",
+      "id": "e3d7c96f",
+      "name": "Params:rpt Tsa Sales Starting Date",
+      "tags": ["canada", "pyspark", "reporting", "tsa_sales"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:target_construction_params",
+      "id": "f003aeb0",
+      "name": "Params:target Construction Params",
+      "tags": ["canada", "feature", "iqvia", "pandas", "sales"],
+      "type": "parameters"
+    },
+    {
+      "full_name": "params:top_university_window",
+      "id": "840a8c65",
+      "name": "Params:top University Window",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "pyspark",
+        "static",
+        "transformation",
+        "university",
+        "workplace"
+      ],
+      "type": "parameters"
+    },
+    {
+      "full_name": "pri_ap_market_cdh_sales",
+      "id": "d4e51238",
+      "name": "Pri Ap Market Cdh Sales",
+      "tags": [
+        "Canada",
+        "canada",
+        "feature",
+        "pri_ap_sales_cdh",
+        "primary",
+        "pyspark",
+        "reporting",
+        "segment",
+        "transformation",
+        "tsa_sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_ap_sales_brand",
+      "id": "feecba35",
+      "name": "Pri Ap Sales Brand",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "iqvia",
+        "pandas",
+        "primary",
+        "pyspark",
+        "reporting",
+        "rx_sales",
+        "sales",
+        "static",
+        "transformation",
+        "tsa_sales",
+        "workplace"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_customer_interaction",
+      "id": "50d93afc",
+      "name": "Pri Customer Interaction",
+      "tags": [
+        "canada",
+        "conversion",
+        "feature",
+        "interaction",
+        "pri_customer_interaction",
+        "primary",
+        "pyspark",
+        "reporting",
+        "timeseries",
+        "transformation",
+        "veeva",
+        "workplace"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_customer_product_segment",
+      "id": "e3299608",
+      "name": "Pri Customer Product Segment",
+      "tags": [
+        "canada",
+        "customer",
+        "customer_product_segment",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_customer_static",
+      "id": "cb275f37",
+      "name": "Pri Customer Static",
+      "tags": [
+        "Canada",
+        "canada",
+        "customer",
+        "pri_outlet_sales",
+        "pri_pilot_region_cust",
+        "primary",
+        "pyspark",
+        "reporting",
+        "rx_sales",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_customer_workplace",
+      "id": "085e2ecf",
+      "name": "Pri Customer Workplace",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "primary",
+        "pyspark",
+        "static",
+        "transformation",
+        "veeva",
+        "workplace"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_email_consent",
+      "id": "b6b5e4b7",
+      "name": "Pri Email Consent",
+      "tags": [
+        "canada",
+        "consent",
+        "customer",
+        "feature",
+        "pri_email_consent",
+        "primary",
+        "pyspark",
+        "static",
+        "timeseries",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_event",
+      "id": "b5ee2280",
+      "name": "Pri Event",
+      "tags": [
+        "canada",
+        "event",
+        "feature",
+        "interaction",
+        "pri_event",
+        "primary",
+        "pyspark",
+        "timeseries",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_interaction_product",
+      "id": "d3509da8",
+      "name": "Pri Interaction Product",
+      "tags": [
+        "canada",
+        "interaction",
+        "pri_customer_interaction",
+        "pri_interaction_product",
+        "primary",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_iqvia_network",
+      "id": "a8a68ef9",
+      "name": "Pri Iqvia Network",
+      "tags": [
+        "canada",
+        "customer",
+        "feature",
+        "influencer",
+        "influencer_network",
+        "iqvia",
+        "primary",
+        "pyspark",
+        "static",
+        "transformation"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_iqvia_outlet_sales",
+      "id": "737193b7",
+      "name": "Pri Iqvia Outlet Sales",
+      "tags": [
+        "Canada",
+        "canada",
+        "feature",
+        "pri_outlet_sales",
+        "primary",
+        "pyspark",
+        "reporting",
+        "segment",
+        "transformation",
+        "tsa_sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_key_message_cat",
+      "id": "aa552813",
+      "name": "Pri Key Message Cat",
+      "tags": [
+        "canada",
+        "conversion",
+        "feature",
+        "interaction",
+        "pri_key_message_cat",
+        "primary",
+        "pyspark",
+        "reporting",
+        "timeseries",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_legacy_newsletter",
+      "id": "ce63b2ee",
+      "name": "Pri Legacy Newsletter",
+      "tags": [
+        "Canada",
+        "pri_legacy_newsletter",
+        "pri_newsletter",
+        "primary",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_mccp",
+      "id": "1498d28d",
+      "name": "Pri Mccp",
+      "tags": [
+        "canada",
+        "conversion",
+        "customer",
+        "feature",
+        "mccp",
+        "pri_mccp",
+        "primary",
+        "pyspark",
+        "reporting",
+        "timeseries",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_newsletter",
+      "id": "6428cb1b",
+      "name": "Pri Newsletter",
+      "tags": [
+        "Canada",
+        "canada",
+        "conversion",
+        "pri_newsletter",
+        "primary",
+        "pyspark",
+        "reporting",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_pilot_region_cust",
+      "id": "0793e12e",
+      "name": "Pri Pilot Region Cust",
+      "tags": [
+        "Canada",
+        "canada",
+        "core",
+        "customer",
+        "feature",
+        "pri_pilot_region_cust",
+        "primary",
+        "pyspark",
+        "reporting",
+        "static",
+        "suggestion",
+        "transformation",
+        "tsa_sales",
+        "university",
+        "veeva",
+        "workplace"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_product_dosage_map",
+      "id": "0d1dcfb2",
+      "name": "Pri Product Dosage Map",
+      "tags": [
+        "canada",
+        "feature",
+        "iqvia",
+        "pandas",
+        "primary",
+        "pyspark",
+        "reporting",
+        "rx_sales",
+        "sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_product_dot",
+      "id": "5e828808",
+      "name": "Pri Product Dot",
+      "tags": [
+        "canada",
+        "feature",
+        "iqvia",
+        "pandas",
+        "pri_product_dot",
+        "primary",
+        "pyspark",
+        "reporting",
+        "rx_sales",
+        "sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_representative",
+      "id": "8478b21d",
+      "name": "Pri Representative",
+      "tags": ["canada", "primary", "pyspark", "representative"],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_sales_brand",
+      "id": "97b0af1b",
+      "name": "Pri Sales Brand",
+      "tags": [
+        "canada",
+        "feature",
+        "iqvia",
+        "pandas",
+        "primary",
+        "pyspark",
+        "reporting",
+        "rx_sales",
+        "sales",
+        "transformation",
+        "workplace"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_sales_brand_dosage",
+      "id": "c5efc3dc",
+      "name": "Pri Sales Brand Dosage",
+      "tags": [
+        "canada",
+        "feature",
+        "iqvia",
+        "pandas",
+        "primary",
+        "pyspark",
+        "reporting",
+        "rx_sales",
+        "sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_salesrep_suggestion",
+      "id": "fe369f25",
+      "name": "Pri Salesrep Suggestion",
+      "tags": [
+        "Canada",
+        "canada",
+        "pri_suggestion",
+        "primary",
+        "pyspark",
+        "reporting",
+        "suggestion"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "pri_sent_email",
+      "id": "72ac5492",
+      "name": "Pri Sent Email",
+      "tags": [
+        "canada",
+        "conversion",
+        "email",
+        "interaction",
+        "primary",
+        "pyspark",
+        "reporting",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_ap_market_sales",
+      "id": "67e7a725",
+      "name": "Raw Ap Market Sales",
+      "tags": ["ap_sales", "canada", "intermediate", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_ap_market_sales_unit",
+      "id": "940f9973",
+      "name": "Raw Ap Market Sales Unit",
+      "tags": ["ap_sales_unit", "canada", "intermediate", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_ap_product_dot",
+      "id": "618ed2bb",
+      "name": "Raw Ap Product Dot",
+      "tags": [
+        "canada",
+        "feature",
+        "iqvia",
+        "pandas",
+        "pyspark",
+        "reporting",
+        "rx_sales",
+        "sales"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_ca_newsletter_camp",
+      "id": "281e2b16",
+      "name": "Raw Ca Newsletter Camp",
+      "tags": ["canada", "int_legacy_newsletter", "intermediate", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_ca_newsletter_click",
+      "id": "d2a0bee5",
+      "name": "Raw Ca Newsletter Click",
+      "tags": [
+        "canada",
+        "int_legacy_newsletter_click",
+        "intermediate",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_ca_newsletter_hard_bounce",
+      "id": "c8c04787",
+      "name": "Raw Ca Newsletter Hard Bounce",
+      "tags": [
+        "canada",
+        "int_legacy_newsletter_bounce",
+        "intermediate",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_ca_newsletter_open",
+      "id": "b9947e9a",
+      "name": "Raw Ca Newsletter Open",
+      "tags": [
+        "canada",
+        "int_legacy_newsletter_open",
+        "intermediate",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_ca_newsletter_soft_bounce",
+      "id": "b0f422d1",
+      "name": "Raw Ca Newsletter Soft Bounce",
+      "tags": [
+        "canada",
+        "int_legacy_newsletter_bounce",
+        "intermediate",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_ca_state_id_nm_map",
+      "id": "4c64c9a1",
+      "name": "Raw Ca State Id Nm Map",
+      "tags": ["addr_state_id_nm", "canada", "intermediate", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_can_newsletter",
+      "id": "911670ff",
+      "name": "Raw Can Newsletter",
+      "tags": ["canada", "int_newsletter", "intermediate", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_cph_survey",
+      "id": "1bf37f9d",
+      "name": "Raw Cph Survey",
+      "tags": ["canada", "cph_survey", "intermediate", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_currency_exchange_rate",
+      "id": "14e0bb01",
+      "name": "Raw Currency Exchange Rate",
+      "tags": ["canada", "int_currency", "intermediate", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_iqvia_ac_dld_mth_units",
+      "id": "2d54d7da",
+      "name": "Raw Iqvia Ac Dld Mth Units",
+      "tags": ["address", "canada", "intermediate", "pandas"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_iqvia_ac_dld_qtr",
+      "id": "78d4d1de",
+      "name": "Raw Iqvia Ac Dld Qtr",
+      "tags": ["address", "canada", "intermediate", "iqvia", "pandas"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_iqvia_ap_dld_mth_units",
+      "id": "f3e469a2",
+      "name": "Raw Iqvia Ap Dld Mth Units",
+      "tags": ["address", "canada", "intermediate", "pandas"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_iqvia_ap_dld_qtr",
+      "id": "6f00b000",
+      "name": "Raw Iqvia Ap Dld Qtr",
+      "tags": ["address", "canada", "intermediate", "iqvia", "pandas"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_iqvia_competitor_product",
+      "id": "d8276205",
+      "name": "Raw Iqvia Competitor Product",
+      "tags": ["canada", "intermediate", "outlet_sales", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_iqvia_competitor_sales",
+      "id": "f47aebcf",
+      "name": "Raw Iqvia Competitor Sales",
+      "tags": ["canada", "intermediate", "outlet_sales", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_iqvia_network",
+      "id": "cef60490",
+      "name": "Raw Iqvia Network",
+      "tags": [
+        "canada",
+        "influencer_network",
+        "intermediate",
+        "iqvia",
+        "pyspark"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_iqvia_onekey_code",
+      "id": "f1cc2439",
+      "name": "Raw Iqvia Onekey Code",
+      "tags": ["canada", "intermediate", "onekey_individual", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_iqvia_onekey_individual",
+      "id": "5f1c8e52",
+      "name": "Raw Iqvia Onekey Individual",
+      "tags": ["canada", "intermediate", "onekey_individual", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_reference_abm_pilot_region",
+      "id": "b619ffef",
+      "name": "Raw Reference Abm Pilot Region",
+      "tags": ["abm_pilot_region", "canada", "intermediate", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_reference_findr_mapping",
+      "id": "d891951b",
+      "name": "Raw Reference Findr Mapping",
+      "tags": ["canada", "influencer_network", "iqvia", "primary", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_reference_key_message_cat",
+      "id": "048cf9b5",
+      "name": "Raw Reference Key Message Cat",
+      "tags": ["canada", "intermediate", "key_message_cat", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_reference_key_message_en_fr",
+      "id": "686d95fb",
+      "name": "Raw Reference Key Message En Fr",
+      "tags": ["canada", "intermediate", "key_message_cat", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_reference_metro_category",
+      "id": "0952af94",
+      "name": "Raw Reference Metro Category",
+      "tags": ["canada", "intermediate", "metro_category", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_reference_pilot_region_summary",
+      "id": "6c454982",
+      "name": "Raw Reference Pilot Region Summary",
+      "tags": [
+        "abm_pilot_region",
+        "canada",
+        "intermediate",
+        "pilot_region",
+        "pyspark",
+        "region",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_reference_postcode_to_metro_map",
+      "id": "64fde970",
+      "name": "Raw Reference Postcode To Metro Map",
+      "tags": ["canada", "intermediate", "postcode_metro_map", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_reference_product_dot_units",
+      "id": "e8d7afb1",
+      "name": "Raw Reference Product Dot Units",
+      "tags": ["canada", "intermediate", "product_dot", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_salesrep_suggestion",
+      "id": "b9c3bfa6",
+      "name": "Raw Salesrep Suggestion",
+      "tags": ["canada", "intermediate", "pyspark", "suggestion"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_salesrep_suggestion_factor",
+      "id": "a33852ce",
+      "name": "Raw Salesrep Suggestion Factor",
+      "tags": ["canada", "intermediate", "pyspark", "suggestion"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_suggestion_dismissal_mapping",
+      "id": "c1181136",
+      "name": "Raw Suggestion Dismissal Mapping",
+      "tags": ["Canada", "pri_suggestion", "primary", "pyspark"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_account",
+      "id": "9f1b6dfa",
+      "name": "Raw Veeva Ac1 Account",
+      "tags": [
+        "account",
+        "canada",
+        "customer",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_address_vod__c",
+      "id": "232e2cca",
+      "name": "Raw Veeva Ac1 Address Vod C",
+      "tags": [
+        "address",
+        "canada",
+        "customer",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_call2_detail_vod__c",
+      "id": "1281ddbe",
+      "name": "Raw Veeva Ac1 Call2 Detail Vod C",
+      "tags": [
+        "call2_detail",
+        "canada",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_call2_key_message_vod__c",
+      "id": "5d8089f3",
+      "name": "Raw Veeva Ac1 Call2 Key Message Vod C",
+      "tags": [
+        "call2_key_message",
+        "canada",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_call2_vod__c",
+      "id": "f05472e6",
+      "name": "Raw Veeva Ac1 Call2 Vod C",
+      "tags": [
+        "call2",
+        "canada",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_em_attendee_vod__c",
+      "id": "97844447",
+      "name": "Raw Veeva Ac1 Em Attendee Vod C",
+      "tags": [
+        "canada",
+        "event_attendee",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_em_event_vod__c",
+      "id": "8a0b63a8",
+      "name": "Raw Veeva Ac1 Em Event Vod C",
+      "tags": [
+        "canada",
+        "event",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_key_message_vod__c",
+      "id": "0021aad8",
+      "name": "Raw Veeva Ac1 Key Message Vod C",
+      "tags": [
+        "canada",
+        "interaction",
+        "intermediate",
+        "key_message",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_mc_cycle_plan_channel_vod__c",
+      "id": "02dbdff0",
+      "name": "Raw Veeva Ac1 Mc Cycle Plan Channel Vod C",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle_plan_channel",
+        "mccp",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_mc_cycle_plan_target_vod__c",
+      "id": "110179f8",
+      "name": "Raw Veeva Ac1 Mc Cycle Plan Target Vod C",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle_plan_target",
+        "mccp",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_mc_cycle_plan_vod__c",
+      "id": "9baccccd",
+      "name": "Raw Veeva Ac1 Mc Cycle Plan Vod C",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle_plan",
+        "mccp",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_mc_cycle_vod__c",
+      "id": "403d3f46",
+      "name": "Raw Veeva Ac1 Mc Cycle Vod C",
+      "tags": [
+        "canada",
+        "intermediate",
+        "mc_cycle",
+        "mccp",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_multichannel_consent_vod__c",
+      "id": "99fc06c7",
+      "name": "Raw Veeva Ac1 Multichannel Consent Vod C",
+      "tags": [
+        "canada",
+        "consent",
+        "customer",
+        "intermediate",
+        "pyspark",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_product_metrics_vod__c",
+      "id": "aa122164",
+      "name": "Raw Veeva Ac1 Product Metrics Vod C",
+      "tags": ["canada", "intermediate", "product_metric", "pyspark", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_product_vod__c",
+      "id": "44dbd733",
+      "name": "Raw Veeva Ac1 Product Vod C",
+      "tags": ["canada", "intermediate", "product", "pyspark", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_recordtype",
+      "id": "295aa10a",
+      "name": "Raw Veeva Ac1 Recordtype",
+      "tags": ["canada", "intermediate", "pyspark", "recordtype", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_sent_email_vod__c",
+      "id": "1349af3e",
+      "name": "Raw Veeva Ac1 Sent Email Vod C",
+      "tags": [
+        "canada",
+        "interaction",
+        "intermediate",
+        "pyspark",
+        "sent_email",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_user",
+      "id": "563e6bd6",
+      "name": "Raw Veeva Ac1 User",
+      "tags": ["canada", "intermediate", "pyspark", "user", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "raw_veeva_ac1_userrole",
+      "id": "24aea9b5",
+      "name": "Raw Veeva Ac1 Userrole",
+      "tags": [
+        "canada",
+        "intermediate",
+        "pyspark",
+        "user",
+        "userrole",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_brand_adoption",
+      "id": "0fb4412f",
+      "name": "Rpt Brand Adoption",
+      "tags": ["brand_adoption", "canada", "pyspark", "reporting", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_conversion_can",
+      "id": "d70af228",
+      "name": "Rpt Conversion Can",
+      "tags": ["canada", "conversion", "pyspark", "reporting", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_conversion_core",
+      "id": "49b46895",
+      "name": "Rpt Conversion Core",
+      "tags": ["canada", "conversion", "pyspark", "reporting", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_conversion_w_brand_adoption",
+      "id": "25487976",
+      "name": "Rpt Conversion W Brand Adoption",
+      "tags": ["canada", "conversion", "pyspark", "reporting", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_conversion_w_email",
+      "id": "1074007e",
+      "name": "Rpt Conversion W Email",
+      "tags": ["canada", "conversion", "pyspark", "reporting", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_conversion_w_interaction",
+      "id": "069660bb",
+      "name": "Rpt Conversion W Interaction",
+      "tags": ["canada", "conversion", "mccp", "pyspark", "reporting", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_conversion_w_mccp",
+      "id": "2d1a2311",
+      "name": "Rpt Conversion W Mccp",
+      "tags": ["canada", "conversion", "mccp", "pyspark", "reporting", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_conversion_w_newsletter",
+      "id": "07341eac",
+      "name": "Rpt Conversion W Newsletter",
+      "tags": ["canada", "conversion", "pyspark", "reporting", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_customer_experience_can",
+      "id": "d74bf87a",
+      "name": "Rpt Customer Experience Can",
+      "tags": ["canada", "pyspark", "reporting", "suggestion", "veeva"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_rx_normalised_ac_sales_brand",
+      "id": "b9621f16",
+      "name": "Rpt Rx Normalised Ac Sales Brand",
+      "tags": ["canada", "pyspark", "reporting", "rx_sales"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_rx_normalised_ap_sales_brand",
+      "id": "41fef77c",
+      "name": "Rpt Rx Normalised Ap Sales Brand",
+      "tags": ["canada", "pyspark", "reporting", "rx_sales"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_rx_sales",
+      "id": "5b2db508",
+      "name": "Rpt Rx Sales",
+      "tags": ["canada", "pyspark", "reporting", "rx_sales"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_static_core",
+      "id": "51962f63",
+      "name": "Rpt Static Core",
+      "tags": [
+        "canada",
+        "conversion",
+        "core",
+        "pyspark",
+        "reporting",
+        "rx_sales",
+        "veeva"
+      ],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_suggestion",
+      "id": "3bd274f6",
+      "name": "Rpt Suggestion",
+      "tags": ["canada", "pyspark", "reporting", "suggestion"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_suggestion_can",
+      "id": "25c9b503",
+      "name": "Rpt Suggestion Can",
+      "tags": ["canada", "pyspark", "reporting", "suggestion"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_tsa_sales_can",
+      "id": "08ce64a1",
+      "name": "Rpt Tsa Sales Can",
+      "tags": ["canada", "pyspark", "reporting", "tsa_sales"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_tsa_sales_w_cad",
+      "id": "afe6dd65",
+      "name": "Rpt Tsa Sales W Cad",
+      "tags": ["canada", "pyspark", "reporting", "tsa_sales"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_tsa_sales_w_cad_xponent",
+      "id": "3e8d1dbb",
+      "name": "Rpt Tsa Sales W Cad Xponent",
+      "tags": ["canada", "pyspark", "reporting", "tsa_sales"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_tsa_sales_w_spaf",
+      "id": "fb5cb48b",
+      "name": "Rpt Tsa Sales W Spaf",
+      "tags": ["canada", "pyspark", "reporting", "tsa_sales"],
+      "type": "data"
+    },
+    {
+      "full_name": "rpt_tsa_sales_w_xponent",
+      "id": "e8f271f2",
+      "name": "Rpt Tsa Sales W Xponent",
+      "tags": ["canada", "pyspark", "reporting", "tsa_sales"],
+      "type": "data"
+    }
+  ],
+  "tags": [
+    {
+      "id": "Canada",
+      "name": "Canada"
+    },
+    {
+      "id": "abm_pilot_region",
+      "name": "Abm Pilot Region"
+    },
+    {
+      "id": "account",
+      "name": "Account"
+    },
+    {
+      "id": "addr_state_id_nm",
+      "name": "Addr State Id Nm"
+    },
+    {
+      "id": "address",
+      "name": "Address"
+    },
+    {
+      "id": "ap_sales",
+      "name": "Ap Sales"
+    },
+    {
+      "id": "ap_sales_unit",
+      "name": "Ap Sales Unit"
+    },
+    {
+      "id": "brand_adoption",
+      "name": "Brand Adoption"
+    },
+    {
+      "id": "call2",
+      "name": "Call2"
+    },
+    {
+      "id": "call2_detail",
+      "name": "Call2 Detail"
+    },
+    {
+      "id": "call2_key_message",
+      "name": "Call2 Key Message"
+    },
+    {
+      "id": "canada",
+      "name": "Canada"
+    },
+    {
+      "id": "consent",
+      "name": "Consent"
+    },
+    {
+      "id": "conversion",
+      "name": "Conversion"
+    },
+    {
+      "id": "core",
+      "name": "Core"
+    },
+    {
+      "id": "cph_survey",
+      "name": "Cph Survey"
+    },
+    {
+      "id": "customer",
+      "name": "Customer"
+    },
+    {
+      "id": "customer_product_segment",
+      "name": "Customer Product Segment"
+    },
+    {
+      "id": "email",
+      "name": "Email"
+    },
+    {
+      "id": "event",
+      "name": "Event"
+    },
+    {
+      "id": "event_attendee",
+      "name": "Event Attendee"
+    },
+    {
+      "id": "feature",
+      "name": "Feature"
+    },
+    {
+      "id": "influencer",
+      "name": "Influencer"
+    },
+    {
+      "id": "influencer_network",
+      "name": "Influencer Network"
+    },
+    {
+      "id": "int_currency",
+      "name": "Int Currency"
+    },
+    {
+      "id": "int_legacy_newsletter",
+      "name": "Int Legacy Newsletter"
+    },
+    {
+      "id": "int_legacy_newsletter_bounce",
+      "name": "Int Legacy Newsletter Bounce"
+    },
+    {
+      "id": "int_legacy_newsletter_click",
+      "name": "Int Legacy Newsletter Click"
+    },
+    {
+      "id": "int_legacy_newsletter_open",
+      "name": "Int Legacy Newsletter Open"
+    },
+    {
+      "id": "int_newsletter",
+      "name": "Int Newsletter"
+    },
+    {
+      "id": "interaction",
+      "name": "Interaction"
+    },
+    {
+      "id": "intermediate",
+      "name": "Intermediate"
+    },
+    {
+      "id": "iqvia",
+      "name": "Iqvia"
+    },
+    {
+      "id": "key_message",
+      "name": "Key Message"
+    },
+    {
+      "id": "key_message_cat",
+      "name": "Key Message Cat"
+    },
+    {
+      "id": "location",
+      "name": "Location"
+    },
+    {
+      "id": "master",
+      "name": "Master"
+    },
+    {
+      "id": "mc_cycle",
+      "name": "Mc Cycle"
+    },
+    {
+      "id": "mc_cycle_plan",
+      "name": "Mc Cycle Plan"
+    },
+    {
+      "id": "mc_cycle_plan_channel",
+      "name": "Mc Cycle Plan Channel"
+    },
+    {
+      "id": "mc_cycle_plan_target",
+      "name": "Mc Cycle Plan Target"
+    },
+    {
+      "id": "mccp",
+      "name": "Mccp"
+    },
+    {
+      "id": "metro_category",
+      "name": "Metro Category"
+    },
+    {
+      "id": "onekey_individual",
+      "name": "Onekey Individual"
+    },
+    {
+      "id": "outlet_sales",
+      "name": "Outlet Sales"
+    },
+    {
+      "id": "pandas",
+      "name": "Pandas"
+    },
+    {
+      "id": "pilot_region",
+      "name": "Pilot Region"
+    },
+    {
+      "id": "postcode_metro_map",
+      "name": "Postcode Metro Map"
+    },
+    {
+      "id": "pri_ap_sales_cdh",
+      "name": "Pri Ap Sales Cdh"
+    },
+    {
+      "id": "pri_customer_interaction",
+      "name": "Pri Customer Interaction"
+    },
+    {
+      "id": "pri_email_consent",
+      "name": "Pri Email Consent"
+    },
+    {
+      "id": "pri_event",
+      "name": "Pri Event"
+    },
+    {
+      "id": "pri_interaction_product",
+      "name": "Pri Interaction Product"
+    },
+    {
+      "id": "pri_key_message_cat",
+      "name": "Pri Key Message Cat"
+    },
+    {
+      "id": "pri_legacy_newsletter",
+      "name": "Pri Legacy Newsletter"
+    },
+    {
+      "id": "pri_mccp",
+      "name": "Pri Mccp"
+    },
+    {
+      "id": "pri_newsletter",
+      "name": "Pri Newsletter"
+    },
+    {
+      "id": "pri_outlet_sales",
+      "name": "Pri Outlet Sales"
+    },
+    {
+      "id": "pri_pilot_region_cust",
+      "name": "Pri Pilot Region Cust"
+    },
+    {
+      "id": "pri_product_dot",
+      "name": "Pri Product Dot"
+    },
+    {
+      "id": "pri_suggestion",
+      "name": "Pri Suggestion"
+    },
+    {
+      "id": "primary",
+      "name": "Primary"
+    },
+    {
+      "id": "product",
+      "name": "Product"
+    },
+    {
+      "id": "product_dot",
+      "name": "Product Dot"
+    },
+    {
+      "id": "product_metric",
+      "name": "Product Metric"
+    },
+    {
+      "id": "product_rename",
+      "name": "Product Rename"
+    },
+    {
+      "id": "pyspark",
+      "name": "Pyspark"
+    },
+    {
+      "id": "recordtype",
+      "name": "Recordtype"
+    },
+    {
+      "id": "region",
+      "name": "Region"
+    },
+    {
+      "id": "reporting",
+      "name": "Reporting"
+    },
+    {
+      "id": "representative",
+      "name": "Representative"
+    },
+    {
+      "id": "rx_sales",
+      "name": "Rx Sales"
+    },
+    {
+      "id": "sales",
+      "name": "Sales"
+    },
+    {
+      "id": "segment",
+      "name": "Segment"
+    },
+    {
+      "id": "sent_email",
+      "name": "Sent Email"
+    },
+    {
+      "id": "static",
+      "name": "Static"
+    },
+    {
+      "id": "suggestion",
+      "name": "Suggestion"
+    },
+    {
+      "id": "timeseries",
+      "name": "Timeseries"
+    },
+    {
+      "id": "transformation",
+      "name": "Transformation"
+    },
+    {
+      "id": "tsa_sales",
+      "name": "Tsa Sales"
+    },
+    {
+      "id": "university",
+      "name": "University"
+    },
+    {
+      "id": "user",
+      "name": "User"
+    },
+    {
+      "id": "userrole",
+      "name": "Userrole"
+    },
+    {
+      "id": "veeva",
+      "name": "Veeva"
+    },
+    {
+      "id": "workplace",
+      "name": "Workplace"
+    }
+  ]
+}
